@@ -1,0 +1,1501 @@
+employee_id;nationality_group;native_language;is_expat_migrant;relocated_for_job;department;job_level;salary;hire_date;last_promotion_date;performance_rating;manager_id;team_size;inclusion_score;belonging_index;manager_inclusion_score;attrition;voluntary_exit;exit_reason
+E0001;Lusophone Europe;Portuguese;0;0;Research & Development;1;29589;03/08/2022;;3;M038;9;372;338;347;0;;
+E0002;Central Europe;Czech;1;1;Operations;1;27755;15/10/2016;;3;M010;6;367;361;328;1;10;Inclusion Issues
+E0003;Lusophone Europe;Portuguese;0;0;Operations;1;30837;19/11/2015;;4;M040;8;281;227;374;1;10;Better Opportunity
+E0004;Lusophone Americas;Portuguese;1;1;Research & Development;2;31111;31/08/2022;;4;M011;11;33;294;31;0;;
+E0005;Other;Mandarin;1;1;Human Resources;1;21962;01/01/2018;13/08/2023;5;M046;8;289;3;394;1;10;Inclusion Issues
+E0006;Lusophone Europe;Portuguese;0;0;Finance;2;42535;20/07/2016;;2;M004;4;302;284;364;0;;
+E0007;Lusophone Europe;Portuguese;0;0;Finance;2;42296;17/02/2015;;2;M035;7;355;288;332;1;0;Restructuring
+E0008;Other;Mandarin;1;1;IT;1;24523;18/09/2016;;2;M050;11;303;314;307;0;;
+E0009;Lusophone Americas;Portuguese;0;0;Sales;1;24683;12/05/2021;;2;M032;4;411;364;392;0;;
+E0010;Lusophone Americas;Portuguese;0;0;Operations;3;51107;30/12/2022;31/07/2025;3;M034;10;402;38;365;0;;
+E0011;Lusophone Europe;Portuguese;0;0;Human Resources;1;28881;26/07/2017;27/03/2018;4;M005;11;356;372;346;0;;
+E0012;Lusophone Europe;Portuguese;0;0;Finance;4;64798;02/02/2016;;3;M027;10;376;346;327;0;;
+E0013;Lusophone Europe;Portuguese;0;0;Sales;4;63435;23/02/2017;26/02/2020;2;M012;7;251;242;421;0;;
+E0014;Lusophone Americas;Portuguese;0;0;Research & Development;1;26229;25/05/2017;;5;M011;9;391;387;341;0;;
+E0015;Southern Europe;Italian;1;0;Operations;3;44299;10/06/2017;;3;M035;3;3;258;289;0;;
+E0016;Lusophone Americas;Portuguese;0;0;Human Resources;3;50935;21/08/2017;;5;M037;6;32;279;333;1;10;Lack of Growth
+E0017;Francophone Europe;French;1;1;Research & Development;1;25533;16/02/2020;31/10/2024;5;M001;10;273;215;39;0;;
+E0018;Lusophone Americas;Portuguese;0;0;Research & Development;2;32785;03/02/2021;;4;M042;11;386;412;345;0;;
+E0019;Central Europe;German;1;0;IT;2;35003;18/01/2023;07/01/2025;3;M017;3;344;33;339;0;;
+E0020;Lusophone Europe;Portuguese;1;1;IT;2;31074;01/10/2022;;3;M024;12;324;257;323;1;10;Relocation
+E0021;Other;Arabic;0;0;Research & Development;3;48674;19/12/2018;;4;M027;12;305;195;342;0;;
+E0022;Lusophone Americas;Portuguese;1;1;Sales;3;47551;30/03/2023;;3;M045;4;35;308;349;0;;
+E0023;Francophone Europe;French;1;1;Research & Development;1;24903;15/02/2018;;5;M018;8;288;232;402;0;;
+E0024;Lusophone Americas;Portuguese;1;0;Sales;1;23971;27/10/2023;04/01/2026;5;M008;9;313;3;321;1;10;Lack of Growth
+E0025;Southern Europe;Greek;0;0;IT;3;47254;02/11/2019;20/01/2024;5;M040;8;317;27;388;0;;
+E0026;Francophone Europe;French;1;1;IT;5;95079;26/11/2021;;3;M001;7;285;248;392;0;;
+E0027;Central Europe;Polish;1;1;Operations;2;38060;26/11/2016;;3;M043;12;253;283;341;0;;
+E0028;Francophone Europe;French;1;0;Operations;4;60183;23/01/2022;;4;M025;10;245;205;357;0;;
+E0029;Southern Europe;Spanish;0;0;Research & Development;1;30455;22/10/2020;;3;M008;10;367;359;277;0;;
+E0030;Central Europe;Polish;0;0;IT;4;66706;22/02/2021;;2;M031;10;318;285;378;0;;
+E0031;Central Europe;Czech;1;1;Finance;1;23801;02/08/2018;;2;M010;6;279;265;352;0;;
+E0032;Lusophone Europe;Portuguese;0;0;Finance;2;40460;19/10/2022;04/06/2025;3;M023;7;4;361;242;0;;
+E0033;Anglophone Americas;English;1;1;Finance;1;27707;15/07/2019;;4;M009;12;214;176;278;1;10;Inclusion Issues
+E0034;Francophone Europe;French;1;1;Sales;2;33253;23/09/2019;04/09/2020;3;M048;11;28;334;38;1;10;Relocation
+E0035;Lusophone Americas;Portuguese;0;0;Research & Development;4;67716;04/09/2017;03/12/2021;2;M014;10;323;234;374;0;;
+E0036;Lusophone Americas;Portuguese;0;0;Human Resources;2;39396;16/06/2021;;5;M026;6;409;416;375;0;;
+E0037;Lusophone Americas;Portuguese;0;0;Operations;4;70478;07/05/2021;;3;M028;8;416;396;392;0;;
+E0038;Anglophone Americas;English;0;0;Finance;3;52218;25/03/2023;;4;M040;11;354;325;285;0;;
+E0039;Lusophone Europe;Portuguese;0;0;Human Resources;1;27669;01/06/2023;;4;M025;8;446;414;354;0;;
+E0040;Anglophone Americas;English;0;0;Operations;5;87263;28/01/2023;;3;M016;10;381;318;294;0;;
+E0041;Lusophone Americas;Portuguese;1;1;IT;3;46209;09/10/2019;;3;M023;10;315;31;364;1;10;Inclusion Issues
+E0042;Francophone Europe;French;0;0;Sales;3;55630;18/11/2020;;5;M013;7;372;338;371;1;10;Better Opportunity
+E0043;Other;Hindi;1;1;Finance;1;21762;14/05/2020;;2;M004;7;328;281;362;1;10;Better Opportunity
+E0044;Lusophone Americas;Portuguese;1;1;Operations;3;49486;13/07/2017;;3;M029;7;275;315;223;0;;
+E0045;Lusophone Europe;Portuguese;0;0;Research & Development;3;49062;29/11/2015;17/05/2017;3;M011;3;286;286;327;0;;
+E0046;Francophone Europe;French;1;1;Sales;3;49129;21/03/2017;;3;M042;5;322;345;289;1;10;Better Opportunity
+E0047;Central Europe;Czech;0;0;Finance;1;28389;06/11/2022;;3;M035;10;268;259;403;0;;
+E0048;Lusophone Americas;Portuguese;0;0;Operations;3;43257;30/07/2023;;3;M003;5;298;218;353;0;;
+E0049;Francophone Europe;French;0;0;Finance;5;90543;31/07/2019;30/10/2023;2;M011;8;3;292;314;0;;
+E0050;Lusophone Americas;Portuguese;1;1;Finance;4;55576;31/01/2021;;2;M034;8;277;22;299;0;;
+E0051;Lusophone Americas;Portuguese;1;0;Finance;4;54804;24/01/2022;;3;M011;7;26;22;47;0;;
+E0052;Lusophone Europe;Portuguese;0;0;Research & Development;2;39975;15/09/2020;;3;M031;10;436;394;403;0;;
+E0053;Other;Mandarin;0;0;Sales;3;50780;24/10/2018;;3;M001;7;291;196;276;0;;
+E0054;Anglophone Americas;English;1;1;Operations;2;40762;27/10/2022;17/06/2025;3;M050;9;285;312;362;0;;
+E0055;Southern Europe;Italian;0;0;IT;5;92995;01/06/2015;27/04/2021;3;M007;10;419;422;368;0;;
+E0056;Other;Arabic;1;0;Sales;3;39302;07/09/2018;;4;M025;8;278;199;265;0;;
+E0057;Lusophone Europe;Portuguese;0;0;IT;4;78356;17/05/2023;21/02/2024;4;M046;4;278;269;353;0;;
+E0058;Francophone Europe;French;1;1;Finance;2;32164;20/11/2015;;3;M044;6;311;234;341;1;10;Lack of Growth
+E0059;Central Europe;Polish;0;0;IT;2;33090;16/11/2018;;3;M028;7;289;268;438;1;10;Lack of Growth
+E0060;Francophone Europe;French;1;1;Finance;1;26504;09/05/2023;;5;M048;10;32;326;246;0;;
+E0061;Francophone Europe;French;1;1;Sales;3;49404;14/07/2016;;5;M042;3;3;305;269;1;10;Inclusion Issues
+E0062;Lusophone Americas;Portuguese;0;0;Sales;2;39264;04/11/2016;16/12/2021;5;M019;8;311;293;287;1;0;Performance
+E0063;Central Europe;Czech;0;0;Operations;2;39431;27/02/2015;05/05/2016;3;M044;7;25;192;362;1;10;Inclusion Issues
+E0064;Lusophone Europe;Portuguese;0;0;IT;4;76877;22/05/2018;;2;M003;3;341;293;395;1;0;Performance
+E0065;Lusophone Europe;Portuguese;0;0;IT;1;27428;10/02/2016;;4;M018;3;337;281;305;0;;
+E0066;Other;Hindi;1;0;Sales;1;25972;06/02/2020;12/10/2021;4;M039;3;287;288;354;0;;
+E0067;Southern Europe;Spanish;1;1;Research & Development;3;45728;07/09/2023;05/11/2025;1;M010;5;213;176;417;1;10;Inclusion Issues
+E0068;Lusophone Europe;Portuguese;1;1;IT;2;31189;11/01/2020;;3;M007;10;384;261;337;1;0;Contract End
+E0069;Lusophone Europe;Portuguese;0;0;Human Resources;1;27858;04/07/2019;;2;M046;10;368;338;326;0;;
+E0070;Lusophone Europe;Portuguese;0;0;Operations;2;37577;15/10/2021;;4;M008;11;338;3;306;0;;
+E0071;Francophone Europe;French;0;0;Finance;2;32934;15/10/2019;16/09/2021;3;M010;10;436;419;359;0;;
+E0072;Southern Europe;Greek;1;0;Operations;2;32961;18/06/2022;;3;M047;3;312;327;327;0;;
+E0073;Lusophone Europe;Portuguese;1;1;Human Resources;2;32534;15/02/2018;;4;M036;12;266;207;453;0;;
+E0074;Francophone Europe;French;1;1;Sales;2;30717;16/05/2022;;2;M041;3;339;341;374;0;;
+E0075;Lusophone Europe;Portuguese;0;0;IT;2;42025;08/09/2021;22/06/2022;2;M049;12;37;337;291;0;;
+E0076;Anglophone Americas;English;0;0;Human Resources;2;35140;09/08/2022;;3;M043;7;368;365;354;0;;
+E0077;Lusophone Americas;Portuguese;0;0;Research & Development;3;46409;06/05/2016;09/01/2021;3;M009;9;315;278;271;0;;
+E0078;Anglophone Americas;English;1;1;Human Resources;4;68628;16/12/2022;;3;M026;3;293;285;334;0;;
+E0079;Lusophone Europe;Portuguese;1;1;Research & Development;2;31903;24/06/2018;;3;M050;5;383;368;308;0;;
+E0080;Anglophone Americas;English;1;1;Research & Development;1;27884;05/11/2015;01/09/2020;4;M030;12;314;285;286;0;;
+E0081;Lusophone Europe;Portuguese;0;0;IT;2;37450;04/04/2020;;3;M018;12;406;38;32;1;0;Performance
+E0082;Southern Europe;Spanish;0;0;Operations;2;37957;18/11/2023;;1;M037;6;381;326;391;0;;
+E0083;Lusophone Americas;Portuguese;0;0;Sales;5;80391;31/03/2022;16/02/2024;4;M029;11;321;286;312;0;;
+E0084;Anglophone Americas;English;0;0;IT;2;37175;04/04/2021;;3;M047;12;379;363;308;0;;
+E0085;Lusophone Americas;Portuguese;1;1;IT;2;37331;22/06/2018;;4;M022;5;275;19;335;0;;
+E0086;Lusophone Europe;Portuguese;0;0;Human Resources;2;35083;27/05/2017;11/03/2022;3;M015;5;274;263;375;0;;
+E0087;Lusophone Europe;Portuguese;0;0;Operations;1;27171;26/10/2016;12/03/2021;4;M011;10;396;365;315;0;;
+E0088;Central Europe;Polish;1;1;Finance;4;65257;25/05/2021;;3;M019;9;17;117;339;1;10;Lack of Growth
+E0089;Southern Europe;Spanish;0;0;Sales;2;33688;14/10/2020;;3;M049;5;315;359;372;0;;
+E0090;Francophone Europe;French;0;0;Human Resources;2;35573;12/03/2019;22/02/2020;3;M002;8;393;414;3;0;;
+E0091;Southern Europe;Spanish;1;0;Finance;3;49106;12/01/2020;;5;M002;7;306;295;404;0;;
+E0092;Southern Europe;Spanish;1;1;Finance;3;43212;09/08/2020;;1;M033;12;275;248;368;0;;
+E0093;Lusophone Europe;Portuguese;0;0;Research & Development;3;46828;17/01/2019;27/06/2022;3;M033;11;451;415;388;0;;
+E0094;Central Europe;Polish;0;0;Sales;1;28184;29/02/2016;;4;M022;5;343;351;357;0;;
+E0095;Lusophone Americas;Portuguese;0;0;Finance;3;52534;16/09/2015;;5;M003;7;377;398;373;0;;
+E0096;Anglophone Americas;English;1;1;Research & Development;1;24486;09/05/2022;17/07/2023;4;M028;9;291;259;234;0;;
+E0097;Other;Other;1;1;Operations;1;22639;30/10/2019;;4;M035;7;266;252;317;0;;
+E0098;Anglophone Americas;English;1;1;Sales;3;51312;16/11/2023;;2;M041;9;284;215;408;0;;
+E0099;Other;Mandarin;0;0;IT;3;41574;03/10/2015;12/11/2019;3;M025;12;333;304;294;0;;
+E0100;Lusophone Americas;Portuguese;1;1;IT;1;22570;01/02/2017;;3;M036;4;335;299;379;0;;
+E0101;Other;Hindi;1;0;Research & Development;1;23942;31/12/2022;;2;M044;8;236;165;301;1;10;Inclusion Issues
+E0102;Central Europe;German;0;0;Operations;1;30322;19/11/2023;04/10/2025;1;M036;12;317;242;406;0;;
+E0103;Lusophone Europe;Portuguese;1;1;IT;3;52122;12/06/2021;19/09/2023;4;M029;10;3;241;403;0;;
+E0104;Francophone Europe;French;1;0;Human Resources;4;60268;25/10/2016;14/04/2021;3;M034;7;26;249;309;0;;
+E0105;Lusophone Europe;Portuguese;0;0;Operations;2;38023;21/11/2016;;3;M011;12;337;256;375;0;;
+E0106;Lusophone Americas;Portuguese;0;0;Operations;1;24493;01/06/2021;;4;M032;11;296;245;461;0;;
+E0107;Southern Europe;Greek;1;1;IT;1;25597;15/04/2017;02/08/2018;3;M046;8;29;192;366;1;10;Better Opportunity
+E0108;Lusophone Europe;Portuguese;0;0;Research & Development;1;26590;23/04/2019;;3;M011;8;346;363;308;0;;
+E0109;Lusophone Americas;Portuguese;1;1;Human Resources;1;24319;13/09/2017;03/03/2020;1;M019;10;241;178;321;1;10;Better Opportunity
+E0110;Francophone Europe;French;0;0;Sales;1;23984;20/04/2021;23/11/2024;3;M025;11;314;241;359;0;;
+E0111;Lusophone Europe;Portuguese;1;1;Sales;3;53474;20/06/2023;24/08/2025;3;M033;3;346;317;312;0;;
+E0112;Lusophone Europe;Portuguese;0;0;Operations;2;37023;30/11/2021;;3;M022;11;399;379;286;0;;
+E0113;Francophone Europe;French;1;1;Finance;3;50399;19/09/2022;;3;M017;12;249;198;314;0;;
+E0114;Lusophone Europe;Portuguese;1;1;Human Resources;2;33492;12/12/2019;15/04/2021;3;M014;9;305;226;339;0;;
+E0115;Southern Europe;Greek;1;1;Research & Development;2;35931;24/03/2019;08/09/2020;3;M035;8;228;19;391;0;;
+E0116;Francophone Europe;French;1;1;Operations;1;28986;25/08/2023;20/09/2024;4;M032;8;264;193;348;0;;
+E0117;Central Europe;Polish;1;1;Finance;4;61040;02/09/2023;;3;M019;4;269;273;338;1;10;Relocation
+E0118;Central Europe;German;1;1;Research & Development;1;25999;26/02/2022;18/03/2023;3;M046;10;357;37;391;1;10;Relocation
+E0119;Anglophone Americas;English;1;1;Sales;2;40374;02/01/2016;;3;M048;3;347;301;363;0;;
+E0120;Other;Other;1;1;IT;5;90020;07/02/2015;22/12/2018;2;M022;7;254;181;36;0;;
+E0121;Southern Europe;Spanish;0;0;Finance;1;29473;16/09/2018;09/10/2021;4;M046;5;375;34;319;0;;
+E0122;Lusophone Europe;Portuguese;0;0;Operations;2;37095;26/01/2016;07/05/2017;3;M016;3;422;378;377;0;;
+E0123;Other;Hindi;1;1;Sales;3;39853;29/04/2016;;2;M044;11;368;297;35;0;;
+E0124;Other;Hindi;1;1;Research & Development;2;35816;11/03/2019;;3;M031;11;199;2;251;0;;
+E0125;Central Europe;Czech;0;0;Human Resources;2;37109;21/01/2019;17/09/2022;2;M036;11;348;355;39;0;;
+E0126;Central Europe;Czech;0;0;Human Resources;4;67011;16/08/2015;;3;M030;12;414;409;36;0;;
+E0127;Central Europe;Polish;1;1;Research & Development;2;32387;19/09/2015;;2;M005;10;35;322;35;0;;
+E0128;Lusophone Europe;Portuguese;0;0;Finance;2;41804;27/03/2019;;4;M043;11;265;285;414;1;0;Performance
+E0129;Lusophone Americas;Portuguese;0;0;Human Resources;5;88507;24/01/2023;;3;M015;6;322;295;378;0;;
+E0130;Lusophone Americas;Portuguese;1;0;Human Resources;1;24599;03/01/2020;;4;M004;6;414;37;289;1;10;Inclusion Issues
+E0131;Lusophone Americas;Portuguese;1;0;Operations;2;35185;06/08/2018;01/01/2024;2;M043;11;328;324;453;0;;
+E0132;Other;Other;1;1;Sales;5;86822;29/07/2018;;3;M020;9;321;306;397;1;10;Inclusion Issues
+E0133;Lusophone Americas;Portuguese;0;0;Operations;2;35004;10/12/2020;18/10/2022;3;M022;4;436;361;407;0;;
+E0134;Francophone Europe;French;0;0;Research & Development;4;68612;13/07/2022;;3;M022;7;394;361;338;0;;
+E0135;Other;Arabic;1;1;Research & Development;3;43458;07/09/2017;;4;M025;10;229;199;336;1;10;Relocation
+E0136;Lusophone Europe;Portuguese;0;0;Sales;2;33856;25/06/2017;;1;M036;12;41;337;315;1;10;Lack of Growth
+E0137;Southern Europe;Italian;0;0;IT;2;39593;24/06/2020;;4;M032;10;374;391;379;0;;
+E0138;Other;Arabic;1;1;Human Resources;5;86386;17/08/2019;27/08/2023;3;M046;5;345;352;343;0;;
+E0139;Lusophone Europe;Portuguese;0;0;Human Resources;1;28347;18/02/2015;04/09/2019;3;M019;3;273;245;233;1;0;Restructuring
+E0140;Francophone Europe;French;0;0;Sales;3;44876;22/07/2019;;3;M045;6;4;34;429;1;0;Restructuring
+E0141;Lusophone Americas;Portuguese;1;1;Human Resources;3;41880;13/11/2019;;3;M007;11;352;304;402;0;;
+E0142;Francophone Europe;French;0;0;Sales;4;68224;15/05/2015;17/08/2020;3;M014;12;305;315;413;0;;
+E0143;Other;Hindi;1;1;Finance;3;42876;18/04/2023;19/09/2025;4;M033;8;326;306;364;0;;
+E0144;Other;Other;0;0;Sales;1;23829;20/01/2020;;3;M025;9;266;258;401;0;;
+E0145;Southern Europe;Italian;0;0;IT;1;25911;06/04/2019;;4;M048;9;32;303;383;0;;
+E0146;Francophone Europe;French;1;1;Operations;2;30213;20/12/2018;;3;M021;9;321;325;344;0;;
+E0147;Central Europe;Czech;0;0;Research & Development;2;33936;09/04/2019;08/04/2021;3;M032;5;379;356;289;1;10;Better Opportunity
+E0148;Lusophone Europe;Portuguese;0;0;Research & Development;2;42093;22/09/2018;;3;M022;10;377;307;419;0;;
+E0149;Other;Mandarin;1;1;IT;1;26016;31/07/2018;20/12/2022;4;M037;6;256;256;351;0;;
+E0150;Francophone Europe;French;0;0;Operations;1;28345;11/12/2022;25/01/2025;4;M005;9;304;265;316;0;;
+E0151;Francophone Europe;French;0;0;Finance;1;30045;16/05/2020;;3;M045;9;265;222;273;0;;
+E0152;Lusophone Europe;Portuguese;1;1;IT;2;32111;27/03/2022;;3;M049;8;402;398;329;1;10;Lack of Growth
+E0153;Lusophone Europe;Portuguese;0;0;Finance;2;39637;29/09/2022;;3;M002;10;391;374;364;0;;
+E0154;Lusophone Americas;Portuguese;1;1;Operations;2;33028;24/10/2022;;2;M003;4;314;314;346;1;0;Contract End
+E0155;Central Europe;Czech;1;1;Operations;2;37034;23/01/2022;22/02/2026;4;M026;3;292;191;29;1;10;Better Opportunity
+E0156;Central Europe;German;0;0;Operations;1;26025;18/02/2020;20/05/2024;4;M034;8;347;273;301;0;;
+E0157;Anglophone Americas;English;0;0;IT;3;50461;21/11/2021;;4;M021;4;352;334;321;0;;
+E0158;Lusophone Europe;Portuguese;0;0;Finance;3;54414;27/03/2022;;2;M011;10;37;328;371;0;;
+E0159;Lusophone Europe;Portuguese;0;0;Finance;1;30118;19/04/2021;;3;M044;10;267;274;319;1;0;Performance
+E0160;Francophone Europe;French;1;1;IT;3;47032;03/06/2021;05/04/2026;3;M024;11;321;293;327;0;;
+E0161;Lusophone Europe;Portuguese;1;1;Research & Development;1;26831;28/11/2018;;2;M008;6;34;361;303;0;;
+E0162;Anglophone Americas;English;0;0;Research & Development;4;72600;20/12/2020;25/06/2024;2;M046;7;258;225;378;0;;
+E0163;Other;Arabic;1;1;Finance;4;66462;03/06/2016;;2;M010;8;315;231;314;0;;
+E0164;Francophone Europe;French;1;1;Human Resources;2;36465;20/02/2019;;3;M038;3;268;287;269;1;0;Restructuring
+E0165;Central Europe;German;0;0;Finance;1;26701;17/05/2017;;3;M019;8;305;269;393;0;;
+E0166;Central Europe;German;1;1;Finance;1;24077;13/02/2020;25/12/2025;3;M045;5;23;229;311;0;;
+E0167;Southern Europe;Spanish;0;0;Sales;1;28523;11/04/2022;27/12/2024;4;M047;6;31;286;369;1;10;Lack of Growth
+E0168;Anglophone Americas;English;0;0;Human Resources;5;95093;25/06/2016;;3;M006;4;37;36;369;0;;
+E0169;Anglophone Americas;English;0;0;IT;1;28769;04/02/2015;;2;M023;6;33;283;275;0;;
+E0170;Lusophone Americas;Portuguese;1;1;IT;2;33030;26/07/2016;03/09/2020;2;M036;12;36;285;3;0;;
+E0171;Central Europe;Czech;0;0;Research & Development;2;36944;22/05/2023;;4;M016;10;302;289;328;0;;
+E0172;Lusophone Americas;Portuguese;0;0;Research & Development;2;38625;20/09/2019;;4;M049;10;335;359;316;1;10;Better Opportunity
+E0173;Lusophone Americas;Portuguese;0;0;Finance;2;36822;14/08/2020;;3;M026;4;311;246;352;1;0;Contract End
+E0174;Lusophone Americas;Portuguese;1;1;IT;3;46804;09/03/2023;;3;M016;4;337;319;329;0;;
+E0175;Lusophone Americas;Portuguese;1;1;IT;1;23825;19/10/2020;;4;M011;8;381;387;328;0;;
+E0176;Lusophone Americas;Portuguese;1;1;IT;5;84547;23/09/2020;;3;M037;5;424;363;368;1;10;Inclusion Issues
+E0177;Francophone Europe;French;1;0;Research & Development;1;27574;03/01/2017;;4;M036;9;326;32;378;0;;
+E0178;Lusophone Europe;Portuguese;0;0;Human Resources;1;30045;08/07/2015;;2;M030;7;328;3;297;1;10;Lack of Growth
+E0179;Francophone Europe;French;0;0;Research & Development;2;37282;13/07/2020;;4;M047;11;352;291;391;0;;
+E0180;Anglophone Americas;English;0;0;Human Resources;3;51465;12/04/2023;;2;M034;6;352;239;402;0;;
+E0181;Lusophone Americas;Portuguese;1;0;Operations;2;34081;22/05/2023;23/02/2024;3;M041;9;378;361;222;1;10;Better Opportunity
+E0182;Southern Europe;Greek;0;0;Sales;2;35201;02/11/2015;;2;M050;12;381;356;355;0;;
+E0183;Francophone Europe;French;1;0;Research & Development;2;37105;06/01/2016;09/05/2020;3;M046;12;412;387;33;0;;
+E0184;Anglophone Americas;English;0;0;Sales;4;65811;15/07/2019;;3;M036;6;369;346;353;0;;
+E0185;Lusophone Americas;Portuguese;0;0;Research & Development;1;28364;05/03/2019;;5;M006;12;254;188;493;1;10;Inclusion Issues
+E0186;Lusophone Americas;Portuguese;1;0;Human Resources;1;26776;06/06/2019;;3;M028;5;398;312;427;0;;
+E0187;Anglophone Americas;English;1;1;Research & Development;3;54434;16/05/2020;07/06/2022;3;M027;6;264;189;341;0;;
+E0188;Lusophone Americas;Portuguese;0;0;Sales;2;38132;10/11/2018;;3;M025;7;5;463;38;0;;
+E0189;Southern Europe;Italian;1;0;Operations;2;32936;15/10/2016;18/12/2020;3;M035;3;311;195;213;0;;
+E0190;Other;Mandarin;1;1;IT;3;40041;09/11/2022;;3;M010;12;21;252;31;0;;
+E0191;Other;Hindi;1;1;Human Resources;1;23410;03/01/2015;10/12/2018;3;M009;8;252;15;365;1;10;Relocation
+E0192;Southern Europe;Greek;0;0;Human Resources;2;41189;09/06/2019;;3;M021;5;293;32;328;0;;
+E0193;Lusophone Europe;Portuguese;0;0;Research & Development;3;52773;18/11/2021;;3;M038;5;291;301;331;1;10;Lack of Growth
+E0194;Southern Europe;Greek;1;1;Operations;1;28616;30/07/2016;04/07/2017;3;M021;5;33;238;243;0;;
+E0195;Central Europe;Czech;0;0;Finance;1;25267;10/10/2022;14/09/2024;4;M047;3;381;354;314;0;;
+E0196;Southern Europe;Italian;0;0;Human Resources;4;73353;25/06/2021;;4;M011;10;345;371;383;0;;
+E0197;Francophone Europe;French;1;1;Finance;1;27188;17/01/2016;23/12/2019;4;M046;3;254;25;298;1;10;Relocation
+E0198;Anglophone Americas;English;0;0;Sales;1;25473;30/05/2021;;3;M004;8;317;3;341;0;;
+E0199;Lusophone Europe;Portuguese;1;1;Research & Development;3;50048;18/04/2016;07/01/2019;3;M043;7;373;359;381;0;;
+E0200;Anglophone Americas;English;1;1;Sales;2;37302;01/02/2016;04/07/2018;4;M027;12;416;376;358;0;;
+E0201;Lusophone Europe;Portuguese;0;0;Research & Development;2;34160;04/01/2023;26/05/2026;4;M044;12;423;449;224;1;10;Better Opportunity
+E0202;Lusophone Americas;Portuguese;0;0;Finance;1;28357;28/08/2016;;3;M047;4;388;387;373;0;;
+E0203;Southern Europe;Greek;0;0;Human Resources;3;52465;10/11/2020;;2;M010;5;27;224;362;1;0;Restructuring
+E0204;Southern Europe;Italian;0;0;Sales;2;37111;30/10/2021;;2;M026;5;325;254;289;0;;
+E0205;Anglophone Americas;English;0;0;Human Resources;3;58397;06/03/2019;02/04/2024;4;M020;7;404;306;287;0;;
+E0206;Francophone Europe;French;0;0;Sales;1;26343;29/03/2022;17/03/2025;3;M027;10;227;208;24;0;;
+E0207;Lusophone Europe;Portuguese;1;1;Finance;1;29360;29/04/2015;21/09/2020;4;M004;6;336;305;319;0;;
+E0208;Lusophone Europe;Portuguese;0;0;Human Resources;3;48779;25/06/2020;;2;M031;12;376;308;325;0;;
+E0209;Francophone Europe;French;1;1;Research & Development;4;59887;25/06/2017;;4;M018;9;22;192;414;1;10;Better Opportunity
+E0210;Southern Europe;Spanish;1;1;Sales;3;45925;23/03/2019;;3;M014;10;284;242;397;0;;
+E0211;Lusophone Europe;Portuguese;0;0;IT;5;102737;18/04/2021;;4;M020;4;305;278;333;0;;
+E0212;Central Europe;Czech;1;1;Research & Development;4;69792;23/09/2021;;3;M009;3;344;242;197;1;10;Lack of Growth
+E0213;Lusophone Americas;Portuguese;1;1;IT;2;37522;14/07/2022;;3;M011;11;33;311;367;0;;
+E0214;Central Europe;German;0;0;Sales;3;47077;03/07/2017;;3;M022;8;358;32;382;0;;
+E0215;Lusophone Europe;Portuguese;0;0;Research & Development;2;41351;13/04/2019;;3;M010;5;396;355;445;0;;
+E0216;Lusophone Americas;Portuguese;0;0;Finance;2;39891;07/07/2018;;1;M018;6;342;309;31;0;;
+E0217;Lusophone Europe;Portuguese;1;1;Finance;2;35750;04/06/2015;;4;M001;8;323;248;345;0;;
+E0218;Francophone Europe;French;1;1;Operations;3;49497;06/05/2018;;3;M034;12;321;252;332;0;;
+E0219;Lusophone Americas;Portuguese;1;1;Finance;1;27133;15/05/2017;;3;M011;4;272;283;439;0;;
+E0220;Lusophone Europe;Portuguese;0;0;Human Resources;3;53916;22/03/2015;12/05/2016;3;M025;4;374;299;323;0;;
+E0221;Central Europe;Czech;1;1;Human Resources;3;47901;15/07/2016;;4;M033;12;318;298;366;1;10;Lack of Growth
+E0222;Francophone Europe;French;1;1;Finance;4;63630;18/08/2017;20/11/2021;2;M008;12;341;297;315;1;10;Inclusion Issues
+E0223;Lusophone Americas;Portuguese;1;1;Sales;1;25836;11/06/2015;;3;M044;8;298;276;402;1;10;Lack of Growth
+E0224;Francophone Europe;French;0;0;Sales;4;60635;04/11/2018;31/07/2021;3;M030;7;265;266;274;0;;
+E0225;Anglophone Americas;English;1;1;Human Resources;5;84234;16/08/2021;;3;M029;5;254;189;264;0;;
+E0226;Central Europe;German;1;1;Finance;2;34935;20/02/2015;;4;M050;12;236;208;305;0;;
+E0227;Southern Europe;Greek;0;0;IT;3;50138;24/02/2023;11/08/2024;4;M042;9;386;4;394;1;0;Restructuring
+E0228;Lusophone Europe;Portuguese;0;0;Human Resources;3;49761;17/09/2018;;2;M015;11;307;254;3;0;;
+E0229;Lusophone Europe;Portuguese;1;1;Sales;1;27284;25/02/2016;;1;M036;3;361;27;409;0;;
+E0230;Lusophone Europe;Portuguese;0;0;Sales;4;75318;05/02/2020;21/11/2024;4;M031;8;334;297;316;0;;
+E0231;Francophone Europe;French;1;1;Sales;2;30801;03/11/2016;;4;M048;9;374;367;384;0;;
+E0232;Lusophone Europe;Portuguese;0;0;Human Resources;3;46340;06/02/2022;;3;M050;10;457;366;358;0;;
+E0233;Other;Arabic;1;1;Finance;4;59273;26/12/2016;;2;M009;4;224;232;384;1;0;Contract End
+E0234;Central Europe;Polish;1;1;Sales;2;33128;07/11/2022;;3;M045;11;26;269;279;0;;
+E0235;Lusophone Europe;Portuguese;0;0;IT;1;26960;17/07/2022;12/01/2024;3;M045;8;329;239;279;0;;
+E0236;Central Europe;Czech;0;0;Operations;1;29423;22/02/2015;;1;M010;3;305;263;311;0;;
+E0237;Lusophone Americas;Portuguese;1;1;Human Resources;3;48106;13/05/2015;;3;M040;11;374;293;306;0;;
+E0238;Southern Europe;Italian;0;0;Human Resources;4;66748;03/11/2023;;3;M036;3;316;311;343;0;;
+E0239;Southern Europe;Italian;0;0;IT;3;52765;20/06/2023;;4;M013;6;321;31;327;1;10;Lack of Growth
+E0240;Anglophone Americas;English;1;1;Sales;1;29601;13/06/2015;30/09/2017;3;M050;12;291;278;305;0;;
+E0241;Lusophone Europe;Portuguese;0;0;Sales;2;42167;02/11/2020;29/02/2024;2;M035;11;312;299;395;0;;
+E0242;Francophone Europe;French;0;0;IT;1;27969;31/12/2019;03/02/2024;4;M040;6;301;322;321;0;;
+E0243;Other;Arabic;1;1;Sales;1;25252;07/10/2020;;3;M003;7;301;257;219;1;0;Restructuring
+E0244;Lusophone Americas;Portuguese;1;1;Research & Development;4;55701;11/01/2021;;4;M048;9;309;228;246;0;;
+E0245;Lusophone Americas;Portuguese;1;1;Human Resources;1;25556;13/06/2021;;5;M027;9;271;255;32;1;10;Inclusion Issues
+E0246;Lusophone Americas;Portuguese;1;1;Operations;1;23992;21/12/2015;28/08/2021;3;M026;3;365;286;35;1;10;Inclusion Issues
+E0247;Lusophone Europe;Portuguese;0;0;IT;3;57708;15/02/2015;;3;M008;3;417;377;222;0;;
+E0248;Central Europe;Czech;1;1;IT;4;57639;01/12/2021;;2;M012;12;272;286;262;0;;
+E0249;Other;Other;1;1;IT;1;24330;18/06/2020;;3;M043;6;331;327;375;0;;
+E0250;Lusophone Europe;Portuguese;0;0;Research & Development;2;36764;19/07/2018;;2;M021;6;324;304;263;0;;
+E0251;Francophone Europe;French;1;1;Finance;2;32395;09/03/2021;19/04/2025;4;M018;5;346;297;333;0;;
+E0252;Southern Europe;Greek;0;0;Operations;2;39646;21/05/2017;;3;M035;11;26;174;355;0;;
+E0253;Francophone Europe;French;1;1;Human Resources;2;35634;20/11/2021;;4;M009;10;355;358;247;1;0;Contract End
+E0254;Lusophone Americas;Portuguese;1;1;Research & Development;1;26653;19/01/2019;;5;M003;3;279;282;335;0;;
+E0255;Lusophone Europe;Portuguese;0;0;Sales;2;38639;23/03/2019;;3;M042;4;302;268;39;0;;
+E0256;Southern Europe;Italian;0;0;Operations;1;29955;07/12/2019;08/11/2020;3;M018;6;297;279;364;0;;
+E0257;Southern Europe;Greek;1;1;IT;1;25950;16/08/2021;02/06/2024;1;M003;5;273;236;33;0;;
+E0258;Lusophone Americas;Portuguese;0;0;Operations;5;91429;27/04/2021;;4;M047;7;34;329;329;0;;
+E0259;Lusophone Europe;Portuguese;1;1;Operations;1;28157;27/12/2021;;3;M047;8;38;32;384;1;10;Lack of Growth
+E0260;Southern Europe;Greek;1;1;Human Resources;1;27088;16/10/2023;;4;M006;10;32;247;249;0;;
+E0261;Lusophone Americas;Portuguese;1;1;Human Resources;3;50551;28/05/2020;;3;M038;12;342;319;304;0;;
+E0262;Francophone Europe;French;1;1;IT;3;42832;30/01/2015;;3;M021;9;325;279;362;0;;
+E0263;Francophone Europe;French;1;1;IT;2;34063;02/04/2021;;3;M036;10;319;317;296;0;;
+E0264;Southern Europe;Greek;1;1;IT;5;85451;25/10/2023;06/11/2025;4;M044;3;365;377;449;1;10;Better Opportunity
+E0265;Other;Other;1;1;Sales;1;22350;30/06/2019;;3;M046;12;356;342;366;1;0;Contract End
+E0266;Lusophone Europe;Portuguese;1;1;Operations;3;51295;13/01/2019;12/07/2019;5;M006;7;372;341;294;0;;
+E0267;Lusophone Europe;Portuguese;0;0;Human Resources;4;70833;22/02/2023;;5;M023;8;389;344;314;0;;
+E0268;Lusophone Europe;Portuguese;1;1;Operations;1;28760;03/10/2020;;4;M037;7;3;239;218;0;;
+E0269;Central Europe;Polish;0;0;Finance;3;55240;23/04/2015;;3;M025;6;314;26;29;0;;
+E0270;Lusophone Americas;Portuguese;1;1;IT;3;46079;01/01/2017;;3;M037;7;434;414;416;0;;
+E0271;Francophone Europe;French;1;1;Sales;1;23298;08/12/2021;;4;M008;4;287;212;276;0;;
+E0272;Lusophone Americas;Portuguese;1;1;Operations;4;69002;24/09/2020;20/06/2022;4;M009;3;264;201;332;0;;
+E0273;Lusophone Americas;Portuguese;1;1;Research & Development;2;32906;16/07/2018;;1;M014;9;281;238;311;0;;
+E0274;Francophone Europe;French;0;0;Sales;2;36469;12/05/2017;;4;M024;9;325;288;371;1;10;Better Opportunity
+E0275;Lusophone Americas;Portuguese;0;0;Operations;2;34698;20/08/2016;;4;M031;3;376;375;437;0;;
+E0276;Central Europe;Polish;1;1;Operations;1;22866;01/06/2017;;3;M041;4;297;237;354;1;10;Relocation
+E0277;Francophone Europe;French;1;1;IT;5;85612;12/04/2022;;5;M019;8;293;301;348;1;10;Lack of Growth
+E0278;Other;Mandarin;1;0;Finance;3;47893;20/10/2015;21/03/2018;3;M021;7;221;187;274;1;0;Restructuring
+E0279;Other;Other;1;1;Human Resources;1;21898;05/05/2023;;2;M011;9;289;268;386;1;10;Inclusion Issues
+E0280;Lusophone Americas;Portuguese;1;1;Finance;2;31324;10/01/2022;21/06/2025;4;M002;3;276;213;255;1;10;Relocation
+E0281;Lusophone Europe;Portuguese;0;0;Research & Development;5;99505;26/12/2016;;3;M048;12;284;275;233;0;;
+E0282;Francophone Europe;French;1;1;Sales;1;24614;03/07/2023;;3;M031;11;297;346;346;0;;
+E0283;Lusophone Europe;Portuguese;0;0;Sales;3;55703;23/02/2021;;3;M036;9;326;306;336;0;;
+E0284;Francophone Europe;French;0;0;Operations;3;54831;13/10/2022;;3;M048;11;3;283;292;0;;
+E0285;Francophone Europe;French;1;1;Finance;1;23557;21/03/2015;22/02/2021;3;M012;4;315;301;334;1;10;Better Opportunity
+E0286;Anglophone Americas;English;0;0;Finance;3;47079;25/11/2015;;5;M004;7;352;319;321;0;;
+E0287;Francophone Europe;French;0;0;Human Resources;1;28609;16/10/2017;;5;M016;3;376;393;402;1;10;Relocation
+E0288;Other;Mandarin;1;1;Operations;2;32693;24/03/2017;;2;M043;6;316;31;334;0;;
+E0289;Lusophone Americas;Portuguese;1;1;Research & Development;1;25651;30/04/2020;;2;M050;4;32;329;322;0;;
+E0290;Central Europe;German;1;1;IT;2;33681;21/07/2018;;4;M049;8;258;245;29;1;10;Lack of Growth
+E0291;Lusophone Americas;Portuguese;1;1;Sales;2;34092;04/02/2021;10/09/2025;3;M039;11;353;354;252;0;;
+E0292;Lusophone Europe;Portuguese;0;0;Human Resources;3;50303;15/12/2021;20/10/2022;4;M035;9;379;361;41;0;;
+E0293;Lusophone Americas;Portuguese;1;1;Human Resources;1;22255;15/06/2016;14/02/2017;3;M032;6;373;362;378;0;;
+E0294;Central Europe;Polish;1;1;IT;1;24397;05/07/2020;;4;M030;3;237;176;403;0;;
+E0295;Southern Europe;Greek;1;1;Operations;1;23905;03/06/2017;;2;M047;6;268;237;303;0;;
+E0296;Lusophone Americas;Portuguese;1;1;Operations;2;34816;02/03/2016;02/09/2017;3;M033;8;314;259;288;0;;
+E0297;Other;Hindi;1;0;Sales;2;34959;17/08/2018;;3;M014;9;286;178;337;0;;
+E0298;Anglophone Americas;English;0;0;Operations;1;26058;21/05/2018;14/02/2020;3;M021;3;478;442;221;0;;
+E0299;Other;Mandarin;1;1;Research & Development;1;23950;12/08/2017;16/10/2019;2;M026;12;346;283;325;1;0;Restructuring
+E0300;Lusophone Europe;Portuguese;0;0;Sales;1;30072;12/04/2019;31/01/2020;5;M022;8;262;263;303;0;;
+E0301;Lusophone Americas;Portuguese;1;1;Human Resources;3;41376;17/11/2020;25/05/2024;3;M021;11;311;261;26;0;;
+E0302;Central Europe;Czech;1;1;Sales;3;44525;03/05/2020;;1;M026;7;147;168;37;0;;
+E0303;Lusophone Americas;Portuguese;1;1;Finance;3;46310;02/04/2023;;3;M018;9;269;313;403;0;;
+E0304;Anglophone Americas;English;1;1;Sales;1;28641;17/12/2019;;3;M015;6;36;316;313;0;;
+E0305;Lusophone Americas;Portuguese;1;1;Research & Development;4;55750;12/10/2022;;3;M031;3;28;302;355;0;;
+E0306;Lusophone Europe;Portuguese;0;0;IT;1;28557;10/06/2022;;3;M004;7;411;386;414;0;;
+E0307;Lusophone Europe;Portuguese;1;1;IT;4;72283;20/03/2015;29/08/2020;4;M015;9;241;214;387;0;;
+E0308;Lusophone Americas;Portuguese;1;1;IT;1;24513;28/09/2018;;4;M002;8;287;245;297;1;0;Contract End
+E0309;Francophone Europe;French;0;0;Finance;4;72278;01/05/2015;;5;M015;5;323;32;393;0;;
+E0310;Central Europe;Czech;0;0;Finance;1;24896;03/07/2018;;3;M035;5;391;357;366;0;;
+E0311;Southern Europe;Spanish;1;1;Operations;4;70497;21/08/2023;17/09/2025;5;M021;4;186;137;372;0;;
+E0312;Central Europe;Polish;0;0;Finance;5;87800;13/05/2023;;4;M048;7;36;337;366;1;10;Relocation
+E0313;Lusophone Europe;Portuguese;0;0;Research & Development;3;50243;19/09/2022;;2;M039;10;339;272;375;0;;
+E0314;Francophone Europe;French;1;0;Sales;5;87672;10/04/2017;;2;M029;12;273;215;343;0;;
+E0315;Francophone Europe;French;0;0;Operations;3;48486;05/07/2018;;5;M037;12;28;241;336;1;10;Inclusion Issues
+E0316;Southern Europe;Spanish;0;0;Finance;5;82805;06/05/2019;;4;M004;6;317;276;389;0;;
+E0317;Southern Europe;Italian;1;1;Human Resources;3;48707;31/03/2022;;4;M008;5;321;208;331;0;;
+E0318;Lusophone Europe;Portuguese;0;0;IT;4;76426;05/01/2016;19/05/2020;4;M046;5;325;289;315;1;10;Lack of Growth
+E0319;Lusophone Europe;Portuguese;0;0;Operations;3;47755;04/03/2021;;4;M022;12;419;327;355;0;;
+E0320;Lusophone Americas;Portuguese;1;1;Finance;1;26554;10/04/2017;21/01/2022;3;M030;10;344;337;291;1;0;Performance
+E0321;Lusophone Europe;Portuguese;0;0;Finance;1;28672;29/09/2017;;3;M041;11;365;307;347;0;;
+E0322;Lusophone Americas;Portuguese;1;1;Sales;2;29624;31/12/2016;01/02/2019;4;M045;12;335;261;312;0;;
+E0323;Central Europe;Polish;0;0;Human Resources;3;48295;02/04/2019;;4;M036;4;323;309;326;0;;
+E0324;Lusophone Europe;Portuguese;0;0;Human Resources;2;42371;06/12/2020;;3;M045;12;312;375;281;0;;
+E0325;Lusophone Europe;Portuguese;0;0;Operations;5;91667;15/06/2016;;3;M047;10;319;288;279;0;;
+E0326;Lusophone Americas;Portuguese;1;1;IT;4;70583;23/08/2019;04/02/2022;3;M041;6;27;266;342;0;;
+E0327;Southern Europe;Italian;1;1;Human Resources;1;24882;19/05/2021;;1;M012;6;278;278;288;0;;
+E0328;Lusophone Europe;Portuguese;1;1;Operations;4;70591;30/04/2023;12/04/2025;3;M047;8;222;193;337;0;;
+E0329;Anglophone Americas;English;1;1;Human Resources;2;36441;10/11/2016;;3;M039;4;375;294;328;1;10;Lack of Growth
+E0330;Francophone Europe;French;0;0;Sales;1;25604;04/04/2016;;1;M013;4;308;27;344;0;;
+E0331;Lusophone Europe;Portuguese;0;0;Finance;3;52294;12/09/2023;06/05/2026;4;M034;5;354;328;264;1;10;Better Opportunity
+E0332;Southern Europe;Spanish;1;0;Human Resources;2;33769;23/06/2021;;4;M014;8;365;337;379;0;;
+E0333;Southern Europe;Greek;1;1;Sales;1;26928;24/02/2016;09/08/2018;3;M018;5;385;324;313;0;;
+E0334;Southern Europe;Greek;1;1;Finance;4;60883;19/12/2015;;2;M039;12;286;221;284;0;;
+E0335;Anglophone Americas;English;0;0;IT;3;56977;18/11/2015;;4;M030;12;412;418;389;0;;
+E0336;Central Europe;Czech;0;0;Finance;1;25359;01/12/2021;12/06/2024;3;M045;8;303;29;24;0;;
+E0337;Lusophone Americas;Portuguese;1;1;Research & Development;1;24940;11/09/2020;09/10/2025;4;M007;8;302;267;322;0;;
+E0338;Francophone Europe;French;1;0;Finance;1;25951;01/11/2019;;3;M022;11;373;328;311;0;;
+E0339;Central Europe;Czech;0;0;Finance;1;27786;25/08/2018;;4;M012;7;348;31;411;0;;
+E0340;Anglophone Americas;English;0;0;Human Resources;1;30733;06/07/2021;;4;M001;5;408;347;293;0;;
+E0341;Lusophone Europe;Portuguese;1;1;Sales;1;27970;16/11/2019;;5;M006;12;466;425;318;0;;
+E0342;Anglophone Americas;English;1;1;Sales;1;23494;04/11/2019;;3;M021;9;335;27;37;1;10;Better Opportunity
+E0343;Lusophone Europe;Portuguese;0;0;Research & Development;1;30504;29/05/2016;20/04/2017;4;M010;10;276;169;358;0;;
+E0344;Southern Europe;Greek;0;0;Finance;3;50402;04/10/2019;;3;M023;6;35;334;403;0;;
+E0345;Southern Europe;Spanish;0;0;Sales;2;37652;12/02/2019;27/10/2019;3;M046;8;373;362;33;0;;
+E0346;Other;Hindi;1;1;Operations;1;25017;02/07/2022;06/01/2026;4;M020;12;249;254;355;0;;
+E0347;Lusophone Europe;Portuguese;0;0;Sales;2;42200;14/12/2023;29/11/2024;1;M039;7;341;262;392;0;;
+E0348;Lusophone Americas;Portuguese;0;0;Operations;1;26223;03/06/2016;;4;M018;7;371;353;37;0;;
+E0349;Lusophone Americas;Portuguese;1;0;IT;1;26478;06/12/2017;;3;M012;11;35;291;364;0;;
+E0350;Lusophone Americas;Portuguese;0;0;Finance;3;45805;08/12/2019;;2;M037;8;364;353;353;0;;
+E0351;Lusophone Americas;Portuguese;1;1;IT;5;80695;31/08/2022;;3;M010;11;325;289;389;0;;
+E0352;Other;Arabic;1;1;Sales;5;88048;21/01/2018;17/01/2020;4;M017;12;251;179;394;0;;
+E0353;Central Europe;Czech;0;0;Operations;2;38543;06/01/2017;26/07/2017;4;M005;3;278;273;322;0;;
+E0354;Francophone Europe;French;1;1;Operations;3;53111;26/02/2022;27/04/2023;2;M039;5;277;207;4;0;;
+E0355;Southern Europe;Spanish;0;0;IT;1;26087;29/05/2022;;4;M018;9;304;225;345;0;;
+E0356;Francophone Europe;French;1;1;Human Resources;1;23779;12/10/2015;;5;M040;9;282;272;392;1;0;Performance
+E0357;Lusophone Europe;Portuguese;0;0;Human Resources;1;25113;28/02/2023;25/11/2024;1;M032;5;349;313;388;1;10;Lack of Growth
+E0358;Lusophone Americas;Portuguese;1;1;IT;3;47234;14/01/2015;;4;M050;10;332;33;383;0;;
+E0359;Anglophone Americas;English;1;1;IT;1;29882;26/11/2015;;4;M019;6;326;302;316;0;;
+E0360;Southern Europe;Greek;0;0;Finance;1;28314;31/03/2023;02/11/2023;2;M047;12;352;319;389;0;;
+E0361;Lusophone Europe;Portuguese;0;0;Finance;5;83974;21/10/2018;18/09/2023;4;M026;4;367;38;223;0;;
+E0362;Lusophone Europe;Portuguese;0;0;Human Resources;3;51861;20/03/2015;;5;M003;6;333;294;315;1;10;Better Opportunity
+E0363;Southern Europe;Italian;0;0;Operations;1;29530;12/04/2016;;4;M015;4;348;278;394;0;;
+E0364;Francophone Europe;French;1;0;Research & Development;3;45340;09/05/2016;03/02/2021;3;M045;8;189;135;322;0;;
+E0365;Lusophone Americas;Portuguese;0;0;IT;3;52137;06/03/2015;;2;M001;5;42;353;306;0;;
+E0366;Southern Europe;Italian;0;0;Research & Development;1;25931;19/01/2020;;5;M040;3;307;231;295;0;;
+E0367;Lusophone Americas;Portuguese;1;1;Research & Development;1;28428;10/12/2021;;4;M035;11;336;361;318;1;0;Restructuring
+E0368;Other;Other;1;1;Human Resources;1;21845;26/10/2017;28/10/2022;4;M030;3;241;226;35;1;10;Better Opportunity
+E0369;Lusophone Europe;Portuguese;0;0;IT;2;38727;13/09/2019;27/12/2023;4;M015;4;34;32;332;0;;
+E0370;Francophone Europe;French;1;1;Finance;1;25676;06/05/2019;;3;M013;8;219;22;335;1;10;Better Opportunity
+E0371;Lusophone Americas;Portuguese;1;1;Sales;1;22406;29/11/2023;;4;M011;12;417;362;424;0;;
+E0372;Other;Other;0;0;Sales;1;24765;07/10/2017;10/09/2020;3;M038;5;356;385;285;0;;
+E0373;Lusophone Americas;Portuguese;1;1;Finance;2;35930;06/02/2016;;3;M036;3;302;238;349;1;0;Performance
+E0374;Central Europe;German;0;0;Operations;3;44682;07/02/2020;;2;M046;9;376;367;433;0;;
+E0375;Central Europe;German;0;0;Human Resources;2;38547;14/12/2020;01/11/2023;4;M045;12;244;203;345;0;;
+E0376;Central Europe;German;1;0;Sales;4;60233;10/12/2021;27/06/2024;2;M036;4;28;196;308;1;10;Lack of Growth
+E0377;Lusophone Europe;Portuguese;0;0;Research & Development;2;41629;24/08/2020;;3;M005;8;317;319;315;0;;
+E0378;Central Europe;Czech;0;0;Finance;3;54070;10/10/2022;;5;M005;6;326;324;305;1;0;Performance
+E0379;Other;Arabic;1;1;Research & Development;2;33080;13/01/2022;11/11/2024;5;M035;5;224;208;339;1;10;Inclusion Issues
+E0380;Southern Europe;Greek;0;0;Finance;2;38632;28/10/2023;23/12/2025;4;M034;11;32;26;354;0;;
+E0381;Southern Europe;Spanish;0;0;Research & Development;2;41447;19/08/2023;;2;M019;10;397;344;373;0;;
+E0382;Lusophone Americas;Portuguese;1;1;Sales;2;32403;20/04/2017;;1;M021;8;372;358;384;0;;
+E0383;Lusophone Europe;Portuguese;0;0;Finance;5;101122;20/02/2020;;2;M048;11;394;35;324;0;;
+E0384;Other;Mandarin;1;1;Finance;2;31194;14/06/2015;12/01/2019;2;M002;9;221;181;316;1;10;Lack of Growth
+E0385;Francophone Europe;French;0;0;Sales;1;24193;30/12/2019;;5;M033;9;365;357;245;0;;
+E0386;Anglophone Americas;English;0;0;Finance;2;37577;11/03/2018;29/05/2020;5;M036;4;277;265;442;0;;
+E0387;Anglophone Americas;English;1;1;Finance;3;53577;15/09/2021;13/05/2023;3;M034;8;436;428;341;0;;
+E0388;Other;Other;1;1;Operations;3;39734;13/04/2019;10/07/2022;1;M020;12;253;213;4;0;;
+E0389;Lusophone Americas;Portuguese;1;1;IT;4;64022;24/03/2018;;3;M045;6;404;374;207;0;;
+E0390;Anglophone Americas;English;0;0;Sales;3;52735;14/10/2022;;3;M047;12;356;347;344;0;;
+E0391;Lusophone Americas;Portuguese;0;0;Research & Development;2;31887;19/01/2019;;5;M023;3;335;343;395;0;;
+E0392;Francophone Europe;French;1;1;Sales;4;67348;18/05/2018;13/10/2022;4;M007;11;297;21;295;1;10;Lack of Growth
+E0393;Lusophone Europe;Portuguese;0;0;Research & Development;1;25678;24/06/2017;;4;M036;12;304;193;385;0;;
+E0394;Southern Europe;Italian;0;0;Human Resources;1;25011;13/03/2015;;3;M024;5;265;269;244;0;;
+E0395;Central Europe;Polish;1;1;IT;4;68063;06/08/2016;;3;M014;5;352;312;342;1;10;Lack of Growth
+E0396;Francophone Europe;French;0;0;Operations;3;49549;02/11/2017;08/01/2020;4;M049;4;326;309;23;0;;
+E0397;Southern Europe;Spanish;0;0;Human Resources;1;29717;10/02/2018;;3;M011;11;343;261;321;0;;
+E0398;Central Europe;Czech;1;1;Sales;1;22857;19/02/2023;24/03/2024;5;M046;10;299;238;39;0;;
+E0399;Other;Mandarin;0;0;Finance;2;34316;28/07/2019;28/10/2021;2;M008;11;361;37;322;1;10;Better Opportunity
+E0400;Francophone Europe;French;0;0;Finance;1;26281;19/10/2019;05/09/2020;4;M031;8;289;315;5;0;;
+E0401;Lusophone Americas;Portuguese;1;1;Human Resources;1;25118;21/02/2016;;4;M011;4;298;286;37;0;;
+E0402;Francophone Europe;French;0;0;Sales;3;53106;28/08/2021;04/10/2025;5;M023;10;442;355;234;0;;
+E0403;Lusophone Europe;Portuguese;0;0;Human Resources;1;27928;03/08/2017;;2;M007;3;378;304;371;0;;
+E0404;Francophone Europe;French;0;0;Human Resources;3;51849;30/10/2020;;4;M013;7;355;298;291;0;;
+E0405;Anglophone Americas;English;0;0;Human Resources;5;105740;02/05/2016;;3;M025;10;337;306;247;0;;
+E0406;Central Europe;Polish;1;1;Finance;2;35203;27/05/2022;;3;M031;10;265;22;329;1;10;Lack of Growth
+E0407;Anglophone Americas;English;0;0;Sales;2;34370;04/07/2015;19/01/2018;3;M048;12;454;421;328;0;;
+E0408;Anglophone Americas;English;1;1;Research & Development;3;55091;26/09/2015;;2;M011;3;339;296;337;0;;
+E0409;Anglophone Americas;English;1;1;Operations;1;26979;13/08/2018;;4;M007;6;29;296;344;0;;
+E0410;Anglophone Americas;English;1;1;Human Resources;4;63836;14/07/2015;29/03/2019;3;M015;12;275;247;318;0;;
+E0411;Lusophone Americas;Portuguese;1;1;Operations;2;35293;22/04/2022;;3;M020;9;298;242;307;0;;
+E0412;Central Europe;Czech;1;1;IT;2;33948;30/05/2022;;4;M030;7;32;328;316;0;;
+E0413;Central Europe;Polish;0;0;IT;3;50709;01/02/2019;;3;M048;7;359;293;41;0;;
+E0414;Southern Europe;Italian;0;0;IT;1;28670;25/08/2017;;2;M013;3;245;222;434;0;;
+E0415;Lusophone Europe;Portuguese;0;0;Human Resources;1;26472;30/04/2015;28/04/2020;3;M036;5;341;299;325;1;0;Performance
+E0416;Francophone Europe;French;0;0;Finance;4;69968;05/01/2016;;4;M009;6;264;281;393;0;;
+E0417;Lusophone Europe;Portuguese;0;0;Human Resources;1;25461;07/07/2018;13/04/2022;4;M048;6;382;334;367;0;;
+E0418;Anglophone Americas;English;1;1;Human Resources;2;37847;11/02/2018;;5;M024;10;342;294;249;1;0;Restructuring
+E0419;Southern Europe;Greek;0;0;Human Resources;3;54492;08/09/2017;02/05/2020;3;M045;8;392;322;304;0;;
+E0420;Lusophone Americas;Portuguese;0;0;Sales;2;39460;27/06/2023;26/07/2024;4;M011;10;342;259;264;0;;
+E0421;Anglophone Americas;English;1;1;Finance;2;39198;17/01/2023;;5;M007;5;301;231;299;0;;
+E0422;Central Europe;Polish;0;0;Human Resources;3;46611;22/12/2019;;2;M026;6;384;325;309;1;10;Lack of Growth
+E0423;Other;Mandarin;0;0;IT;2;37806;24/01/2020;;4;M017;5;269;182;35;0;;
+E0424;Francophone Europe;French;0;0;Operations;1;29770;06/04/2021;;4;M006;10;318;304;414;1;10;Lack of Growth
+E0425;Francophone Europe;French;0;0;Research & Development;5;82824;22/01/2023;;4;M030;10;408;405;376;0;;
+E0426;Francophone Europe;French;1;1;Research & Development;3;45886;05/08/2022;05/02/2024;3;M010;3;413;365;378;0;;
+E0427;Southern Europe;Italian;0;0;IT;2;32863;29/06/2016;;5;M026;6;312;227;337;1;10;Better Opportunity
+E0428;Francophone Europe;French;0;0;IT;5;93350;23/05/2023;;1;M033;12;312;21;434;0;;
+E0429;Lusophone Americas;Portuguese;1;1;Operations;2;32977;03/01/2016;22/06/2019;3;M017;4;266;329;205;0;;
+E0430;Anglophone Americas;English;1;0;Operations;4;69224;20/11/2019;;3;M032;5;321;214;301;0;;
+E0431;Anglophone Americas;English;1;1;Human Resources;2;35370;20/04/2016;;5;M003;10;271;287;282;0;;
+E0432;Southern Europe;Spanish;1;1;Sales;1;25300;22/01/2018;;4;M014;12;305;278;34;0;;
+E0433;Francophone Europe;French;1;1;Human Resources;4;63922;19/08/2022;21/03/2025;3;M007;8;332;311;376;0;;
+E0434;Other;Arabic;1;1;Operations;5;83888;27/03/2023;;4;M009;6;211;231;272;1;0;Restructuring
+E0435;Lusophone Europe;Portuguese;1;1;Research & Development;5;82373;02/05/2017;13/03/2022;3;M042;5;362;354;257;0;;
+E0436;Central Europe;German;1;1;Sales;2;37828;05/05/2020;14/03/2024;3;M049;9;337;321;276;0;;
+E0437;Anglophone Americas;English;0;0;Finance;3;54919;02/01/2023;10/04/2026;3;M042;11;399;379;419;0;;
+E0438;Other;Hindi;0;0;Operations;2;34762;06/03/2021;03/12/2021;3;M033;9;348;28;369;0;;
+E0439;Southern Europe;Italian;1;1;Operations;1;25956;26/10/2023;30/05/2025;1;M027;7;269;294;343;0;;
+E0440;Anglophone Americas;English;1;1;Operations;1;26712;15/03/2015;06/05/2016;1;M042;10;265;204;353;0;;
+E0441;Central Europe;Czech;1;1;Operations;2;36632;06/06/2019;;2;M009;3;333;36;329;1;10;Better Opportunity
+E0442;Francophone Europe;French;1;1;Research & Development;2;30580;16/09/2016;;3;M032;10;29;299;347;1;10;Inclusion Issues
+E0443;Anglophone Americas;English;1;1;IT;2;36200;28/06/2021;;3;M019;3;262;239;282;0;;
+E0444;Southern Europe;Italian;1;1;Human Resources;2;30970;09/04/2022;;3;M032;12;263;267;323;0;;
+E0445;Lusophone Americas;Portuguese;1;1;Finance;1;26683;21/10/2018;;4;M046;10;348;335;31;0;;
+E0446;Central Europe;Czech;1;1;Research & Development;3;49552;25/06/2022;;2;M011;12;177;1;344;0;;
+E0447;Lusophone Europe;Portuguese;0;0;Human Resources;5;91780;04/12/2017;;2;M033;3;366;3;367;0;;
+E0448;Lusophone Europe;Portuguese;0;0;Human Resources;3;52711;11/09/2016;;4;M039;4;374;315;23;0;;
+E0449;Lusophone Europe;Portuguese;0;0;Operations;3;56472;22/02/2016;;1;M007;5;281;201;365;0;;
+E0450;Anglophone Americas;English;0;0;Human Resources;1;27625;18/07/2016;03/03/2018;3;M027;3;334;302;431;0;;
+E0451;Lusophone Europe;Portuguese;0;0;IT;3;50260;16/06/2022;01/12/2025;3;M015;5;367;296;293;0;;
+E0452;Southern Europe;Italian;0;0;Finance;1;24212;20/10/2020;;2;M021;9;36;345;337;1;0;Restructuring
+E0453;Lusophone Europe;Portuguese;0;0;IT;3;56690;26/04/2018;;4;M045;11;406;325;322;0;;
+E0454;Southern Europe;Greek;0;0;IT;2;38525;07/02/2021;;4;M029;8;372;381;283;0;;
+E0455;Francophone Europe;French;1;1;Finance;3;43367;24/01/2021;29/01/2022;3;M020;11;282;296;444;0;;
+E0456;Francophone Europe;French;0;0;Operations;1;24041;08/03/2019;09/07/2022;3;M004;4;365;285;361;1;10;Better Opportunity
+E0457;Central Europe;Czech;0;0;IT;3;54610;15/08/2017;;3;M046;12;293;215;303;0;;
+E0458;Lusophone Europe;Portuguese;0;0;Research & Development;3;56098;02/12/2015;17/10/2018;4;M031;6;345;279;356;0;;
+E0459;Lusophone Europe;Portuguese;0;0;Operations;2;37301;08/12/2019;;5;M047;9;362;308;395;1;10;Inclusion Issues
+E0460;Lusophone Americas;Portuguese;1;1;Research & Development;5;92268;30/09/2021;;2;M024;12;376;328;399;1;10;Lack of Growth
+E0461;Francophone Europe;French;0;0;Research & Development;3;48982;03/06/2018;;3;M048;10;413;372;354;0;;
+E0462;Francophone Europe;French;0;0;Finance;2;38406;16/10/2021;22/01/2023;3;M030;10;356;311;315;0;;
+E0463;Lusophone Americas;Portuguese;1;0;Sales;2;37793;03/04/2023;29/12/2023;4;M046;3;24;189;323;1;10;Better Opportunity
+E0464;Lusophone Europe;Portuguese;0;0;Operations;1;27837;18/03/2015;13/12/2020;3;M002;7;288;265;303;0;;
+E0465;Southern Europe;Italian;1;1;Sales;2;36941;06/04/2015;06/10/2016;3;M034;8;284;266;402;0;;
+E0466;Francophone Europe;French;1;0;IT;1;24384;22/04/2015;;3;M007;8;312;327;422;1;0;Contract End
+E0467;Lusophone Americas;Portuguese;0;0;Operations;1;26374;28/08/2020;;2;M004;8;3;278;289;0;;
+E0468;Southern Europe;Italian;0;0;Operations;3;47857;22/03/2021;;2;M037;9;335;238;372;0;;
+E0469;Southern Europe;Spanish;1;0;Research & Development;2;38275;25/01/2020;11/02/2025;3;M040;7;283;237;445;1;10;Inclusion Issues
+E0470;Other;Mandarin;1;1;Human Resources;1;21289;03/01/2016;;2;M009;11;317;357;339;1;10;Inclusion Issues
+E0471;Southern Europe;Italian;0;0;IT;2;34969;10/08/2018;04/09/2021;5;M022;3;353;308;4;1;10;Better Opportunity
+E0472;Lusophone Europe;Portuguese;0;0;Operations;1;30531;21/04/2022;20/12/2022;4;M043;10;318;271;299;0;;
+E0473;Southern Europe;Italian;1;1;IT;5;82762;01/03/2017;;3;M002;7;267;19;373;0;;
+E0474;Southern Europe;Spanish;1;1;Sales;1;27044;18/10/2021;22/05/2023;5;M041;9;386;369;366;0;;
+E0475;Lusophone Americas;Portuguese;1;1;IT;3;45947;14/05/2023;01/08/2024;5;M015;11;315;256;346;0;;
+E0476;Central Europe;Czech;1;1;Finance;1;26467;16/04/2022;04/08/2024;3;M027;7;291;292;382;0;;
+E0477;Lusophone Europe;Portuguese;0;0;Research & Development;1;30811;20/12/2020;;1;M013;8;407;389;421;0;;
+E0478;Anglophone Americas;English;0;0;Research & Development;1;27263;08/01/2022;;1;M028;3;363;286;301;0;;
+E0479;Francophone Europe;French;1;0;Human Resources;4;59251;26/10/2015;;4;M049;4;274;214;355;1;10;Inclusion Issues
+E0480;Lusophone Americas;Portuguese;1;1;Human Resources;2;30320;07/08/2022;20/05/2023;3;M025;9;329;344;387;1;10;Inclusion Issues
+E0481;Lusophone Americas;Portuguese;1;1;Operations;3;50252;12/10/2023;20/09/2025;3;M013;4;374;365;42;0;;
+E0482;Lusophone Europe;Portuguese;0;0;Finance;3;51308;22/09/2017;19/06/2018;2;M020;12;386;266;39;0;;
+E0483;Francophone Europe;French;1;1;Sales;1;26136;17/05/2022;;2;M033;11;353;289;351;0;;
+E0484;Southern Europe;Italian;1;1;IT;5;84502;27/06/2021;;3;M020;9;331;29;361;0;;
+E0485;Other;Other;1;1;Research & Development;3;40875;23/05/2020;;5;M022;9;284;277;387;1;10;Better Opportunity
+E0486;Francophone Europe;French;0;0;Sales;1;23845;21/03/2017;09/12/2018;4;M047;5;347;288;394;1;10;Inclusion Issues
+E0487;Other;Arabic;0;0;Research & Development;2;36559;30/03/2016;30/11/2017;3;M016;8;332;251;468;0;;
+E0488;Southern Europe;Greek;1;1;Research & Development;3;45586;13/03/2019;04/02/2022;5;M016;3;25;229;274;0;;
+E0489;Francophone Europe;French;1;1;Sales;4;71845;25/06/2020;06/06/2021;4;M043;12;375;354;341;0;;
+E0490;Lusophone Europe;Portuguese;1;1;Operations;3;49490;04/01/2018;;4;M038;3;248;243;442;1;10;Better Opportunity
+E0491;Anglophone Americas;English;0;0;Sales;1;25713;06/06/2023;02/03/2025;3;M015;12;408;378;312;0;;
+E0492;Anglophone Americas;English;1;1;Research & Development;2;32236;04/12/2015;25/03/2019;3;M042;4;367;348;229;1;10;Better Opportunity
+E0493;Francophone Europe;French;0;0;Sales;2;39242;31/08/2022;;2;M039;5;434;39;333;1;10;Inclusion Issues
+E0494;Southern Europe;Italian;0;0;Operations;3;44990;03/05/2022;;4;M010;9;22;206;419;1;10;Lack of Growth
+E0495;Lusophone Europe;Portuguese;0;0;Finance;2;34223;08/02/2017;;5;M027;6;259;259;367;0;;
+E0496;Francophone Europe;French;1;1;Sales;2;35635;11/07/2019;;4;M020;8;325;254;306;1;10;Relocation
+E0497;Other;Other;0;0;Research & Development;5;76547;02/05/2019;07/06/2020;3;M029;7;325;302;328;0;;
+E0498;Lusophone Europe;Portuguese;1;0;Finance;1;26862;14/10/2015;;3;M001;5;316;249;437;0;;
+E0499;Other;Mandarin;1;1;Human Resources;2;30653;22/04/2017;21/05/2022;4;M031;5;181;113;29;0;;
+E0500;Francophone Europe;French;0;0;Finance;1;26229;08/10/2017;;5;M032;10;319;277;343;1;10;Relocation
+E0501;Anglophone Americas;English;1;1;Research & Development;2;36697;05/11/2019;;5;M012;12;384;376;44;1;0;Restructuring
+E0502;Central Europe;German;0;0;IT;4;74560;12/08/2019;;3;M024;4;358;324;281;0;;
+E0503;Anglophone Americas;English;1;1;Finance;1;28225;06/03/2020;;4;M013;9;357;328;333;0;;
+E0504;Lusophone Europe;Portuguese;1;1;Research & Development;3;48344;17/02/2018;;2;M002;12;294;288;365;0;;
+E0505;Anglophone Americas;English;0;0;Human Resources;3;48629;06/01/2019;07/07/2023;1;M044;11;366;382;387;0;;
+E0506;Central Europe;German;1;1;Human Resources;3;44692;06/04/2017;;3;M016;6;222;231;368;0;;
+E0507;Anglophone Americas;English;0;0;Human Resources;1;31180;09/12/2023;;4;M047;5;408;379;358;0;;
+E0508;Lusophone Europe;Portuguese;0;0;Human Resources;1;25351;17/08/2018;16/05/2021;4;M001;9;31;285;374;0;;
+E0509;Francophone Europe;French;1;0;Finance;2;38508;22/02/2016;;4;M037;5;32;304;308;0;;
+E0510;Other;Mandarin;1;1;IT;2;32728;04/10/2018;12/05/2024;3;M025;11;338;288;312;0;;
+E0511;Other;Mandarin;1;1;Human Resources;2;34651;13/12/2021;19/03/2023;3;M019;6;295;285;45;0;;
+E0512;Other;Hindi;1;1;Human Resources;2;34305;27/03/2018;;3;M047;8;302;259;368;1;0;Contract End
+E0513;Southern Europe;Greek;0;0;Operations;4;68953;21/01/2017;;1;M032;4;346;308;458;0;;
+E0514;Lusophone Americas;Portuguese;1;1;IT;2;30471;03/10/2019;22/08/2021;3;M037;10;314;306;333;0;;
+E0515;Lusophone Europe;Portuguese;0;0;Research & Development;2;37294;01/11/2021;;4;M031;3;354;282;434;0;;
+E0516;Lusophone Europe;Portuguese;0;0;Finance;2;36023;21/04/2021;;2;M009;10;404;39;445;1;0;Restructuring
+E0517;Anglophone Americas;English;0;0;Finance;5;93949;28/06/2020;12/04/2024;2;M003;4;302;302;358;0;;
+E0518;Other;Hindi;1;1;IT;2;30380;03/10/2019;;3;M003;8;325;257;285;0;;
+E0519;Lusophone Europe;Portuguese;0;0;IT;1;26302;26/06/2021;;4;M001;4;359;273;384;0;;
+E0520;Southern Europe;Greek;0;0;Finance;1;26958;04/10/2022;28/03/2026;4;M025;12;305;262;388;0;;
+E0521;Central Europe;German;1;1;Sales;4;58501;23/05/2023;;3;M011;10;319;287;32;0;;
+E0522;Central Europe;German;1;1;Research & Development;1;27704;20/01/2020;;3;M013;3;242;218;249;1;0;Contract End
+E0523;Anglophone Americas;English;0;0;Research & Development;1;25720;25/05/2016;22/10/2018;1;M016;10;266;245;379;0;;
+E0524;Central Europe;German;1;1;Human Resources;2;38540;24/12/2017;;3;M022;12;302;241;361;0;;
+E0525;Other;Mandarin;0;0;IT;2;35109;29/12/2018;;4;M001;10;34;28;398;1;10;Lack of Growth
+E0526;Other;Mandarin;1;1;IT;4;61555;13/01/2015;;5;M021;3;177;112;264;0;;
+E0527;Central Europe;Czech;1;1;Finance;3;46545;04/05/2020;;4;M007;9;291;284;378;0;;
+E0528;Southern Europe;Greek;1;1;Human Resources;2;35806;27/03/2020;25/03/2023;5;M031;11;347;314;374;0;;
+E0529;Central Europe;German;1;0;Human Resources;1;28764;05/08/2023;06/02/2026;3;M031;4;243;15;301;0;;
+E0530;Anglophone Americas;English;0;0;Operations;1;27485;17/01/2023;;4;M042;11;307;313;329;0;;
+E0531;Francophone Europe;French;1;1;IT;3;50869;04/06/2021;;4;M025;12;316;254;313;0;;
+E0532;Anglophone Americas;English;0;0;Research & Development;2;39705;28/06/2017;12/01/2018;3;M030;8;333;351;434;0;;
+E0533;Lusophone Europe;Portuguese;1;1;IT;3;52246;19/09/2021;09/01/2025;5;M008;7;398;357;247;0;;
+E0534;Central Europe;Polish;1;1;Research & Development;4;66145;10/07/2017;;2;M050;5;313;317;277;0;;
+E0535;Southern Europe;Spanish;0;0;Operations;2;36546;23/04/2020;;4;M026;4;29;256;329;0;;
+E0536;Anglophone Americas;English;1;1;Human Resources;4;67320;01/11/2016;;3;M031;7;289;279;319;0;;
+E0537;Francophone Europe;French;1;0;Human Resources;3;44295;16/10/2019;;2;M004;4;285;288;364;0;;
+E0538;Anglophone Americas;English;0;0;IT;3;49793;01/05/2016;25/07/2019;3;M039;5;342;288;3;0;;
+E0539;Southern Europe;Greek;1;1;IT;2;34836;17/02/2015;01/02/2016;2;M042;11;31;325;397;0;;
+E0540;Lusophone Americas;Portuguese;1;0;IT;2;30487;18/09/2015;;4;M035;5;315;238;384;1;0;Restructuring
+E0541;Lusophone Europe;Portuguese;0;0;Operations;2;40907;23/04/2022;18/12/2023;5;M008;5;4;319;394;0;;
+E0542;Lusophone Americas;Portuguese;1;1;Sales;4;66929;04/09/2020;21/03/2024;2;M043;3;322;29;355;0;;
+E0543;Southern Europe;Italian;0;0;Finance;1;27377;05/07/2018;;5;M023;12;297;262;415;0;;
+E0544;Francophone Europe;French;0;0;Research & Development;5;93435;03/06/2017;;3;M047;12;404;325;37;0;;
+E0545;Lusophone Europe;Portuguese;0;0;Human Resources;5;99024;15/10/2022;03/06/2024;2;M047;7;427;383;357;0;;
+E0546;Southern Europe;Greek;1;1;Sales;5;77227;08/10/2021;11/10/2023;2;M008;11;345;284;365;1;0;Restructuring
+E0547;Lusophone Americas;Portuguese;1;1;Research & Development;2;36073;20/12/2016;;4;M038;10;358;341;303;0;;
+E0548;Lusophone Americas;Portuguese;1;0;Finance;1;26300;05/11/2023;;3;M026;10;302;249;319;0;;
+E0549;Central Europe;Czech;1;1;IT;1;27087;25/02/2019;;3;M039;9;291;24;429;0;;
+E0550;Francophone Europe;French;1;1;Research & Development;2;38841;24/07/2019;;4;M041;4;312;304;357;1;10;Better Opportunity
+E0551;Francophone Europe;French;0;0;Human Resources;5;89536;14/09/2020;;2;M032;11;32;24;315;1;10;Inclusion Issues
+E0552;Lusophone Americas;Portuguese;1;1;Research & Development;5;93363;03/12/2020;;1;M029;5;315;25;248;0;;
+E0553;Francophone Europe;French;1;1;Sales;5;82829;09/03/2019;;3;M044;6;368;272;366;0;;
+E0554;Francophone Europe;French;0;0;Operations;2;40183;18/03/2022;;4;M030;12;318;293;326;1;10;Better Opportunity
+E0555;Lusophone Americas;Portuguese;0;0;Research & Development;2;31509;31/10/2019;;2;M033;5;256;272;426;0;;
+E0556;Lusophone Europe;Portuguese;0;0;Finance;4;70611;08/01/2018;21/12/2020;4;M029;5;354;356;404;1;0;Restructuring
+E0557;Lusophone Americas;Portuguese;1;1;IT;2;33872;17/05/2020;;5;M008;9;262;239;329;0;;
+E0558;Southern Europe;Italian;0;0;IT;4;66770;25/03/2016;;4;M009;5;306;272;347;0;;
+E0559;Lusophone Americas;Portuguese;1;1;Human Resources;2;33013;14/07/2023;;4;M047;11;336;329;369;0;;
+E0560;Central Europe;Polish;1;1;Human Resources;3;43792;18/08/2021;;2;M008;5;326;271;363;1;10;Better Opportunity
+E0561;Francophone Europe;French;1;1;IT;3;44307;16/05/2020;05/04/2023;4;M020;4;315;312;309;0;;
+E0562;Lusophone Americas;Portuguese;1;1;Sales;1;27117;17/02/2016;;3;M032;8;362;317;361;0;;
+E0563;Central Europe;German;1;1;Sales;3;48881;02/09/2017;;3;M025;4;32;276;339;0;;
+E0564;Other;Mandarin;1;1;Human Resources;1;22862;19/02/2023;;4;M035;5;25;247;349;0;;
+E0565;Francophone Europe;French;0;0;Finance;3;45336;22/11/2019;25/09/2022;3;M033;3;37;357;38;0;;
+E0566;Lusophone Americas;Portuguese;1;1;IT;2;30177;29/11/2019;;3;M050;9;312;258;363;1;10;Better Opportunity
+E0567;Central Europe;Czech;1;1;Operations;1;24828;04/01/2018;;2;M003;11;301;281;402;0;;
+E0568;Francophone Europe;French;0;0;Research & Development;5;84851;20/04/2016;28/09/2018;4;M024;8;433;437;379;0;;
+E0569;Central Europe;Polish;0;0;Sales;2;32943;12/02/2015;;3;M018;5;33;303;285;0;;
+E0570;Lusophone Europe;Portuguese;0;0;Sales;4;72256;06/03/2021;24/02/2024;3;M018;6;266;184;295;0;;
+E0571;Lusophone Americas;Portuguese;1;1;Research & Development;4;55642;27/01/2017;;2;M037;10;35;307;331;0;;
+E0572;Southern Europe;Greek;0;0;Human Resources;1;26955;07/02/2020;;5;M007;11;372;373;403;1;10;Lack of Growth
+E0573;Lusophone Americas;Portuguese;0;0;IT;5;81416;21/08/2023;12/07/2024;5;M039;3;352;312;356;0;;
+E0574;Southern Europe;Spanish;1;1;Operations;4;62741;15/05/2020;05/03/2021;3;M018;11;24;263;405;1;10;Lack of Growth
+E0575;Southern Europe;Spanish;1;1;Research & Development;2;35493;14/07/2017;;4;M044;4;147;138;36;1;10;Better Opportunity
+E0576;Anglophone Americas;English;0;0;Operations;1;28070;03/10/2018;;4;M010;7;474;406;311;0;;
+E0577;Francophone Europe;French;0;0;Sales;4;70607;09/11/2015;;4;M010;5;329;328;324;0;;
+E0578;Lusophone Americas;Portuguese;0;0;Sales;1;25202;06/06/2016;30/01/2019;3;M032;9;264;144;356;0;;
+E0579;Lusophone Europe;Portuguese;0;0;IT;4;68037;28/02/2021;;3;M035;11;371;303;294;0;;
+E0580;Central Europe;Czech;1;1;Sales;1;23283;06/04/2021;;2;M008;3;275;276;315;0;;
+E0581;Southern Europe;Spanish;1;1;Operations;5;84269;08/07/2017;13/10/2018;2;M045;5;292;268;387;0;;
+E0582;Central Europe;German;1;1;Research & Development;1;22753;12/11/2015;06/01/2021;4;M010;5;289;241;345;0;;
+E0583;Other;Other;1;1;IT;3;39809;16/03/2022;02/09/2023;3;M001;9;312;235;385;0;;
+E0584;Other;Hindi;1;1;Research & Development;1;22393;27/05/2016;;3;M004;6;23;156;398;0;;
+E0585;Lusophone Europe;Portuguese;0;0;Finance;2;39392;18/07/2019;;2;M024;9;358;338;4;0;;
+E0586;Lusophone Americas;Portuguese;1;1;Research & Development;3;44560;09/03/2021;10/11/2021;3;M006;12;352;275;314;0;;
+E0587;Lusophone Americas;Portuguese;1;1;Sales;3;47295;12/07/2018;;4;M009;4;268;306;281;0;;
+E0588;Lusophone Americas;Portuguese;1;0;Human Resources;1;23976;07/01/2022;23/10/2023;4;M044;5;319;29;311;0;;
+E0589;Lusophone Europe;Portuguese;0;0;Research & Development;2;36726;31/10/2019;26/04/2024;4;M025;6;368;378;366;0;;
+E0590;Lusophone Europe;Portuguese;1;0;Operations;4;73407;05/08/2020;05/11/2022;2;M019;5;333;341;367;0;;
+E0591;Lusophone Americas;Portuguese;1;1;Sales;3;50437;22/05/2016;;3;M024;7;24;256;363;0;;
+E0592;Southern Europe;Italian;1;1;Operations;2;40075;24/06/2015;;4;M048;6;287;244;279;1;10;Lack of Growth
+E0593;Lusophone Europe;Portuguese;0;0;Finance;3;50114;02/04/2020;;5;M030;4;42;407;438;0;;
+E0594;Francophone Europe;French;1;1;Operations;2;34535;14/02/2018;;3;M031;5;264;218;306;1;10;Lack of Growth
+E0595;Other;Hindi;1;0;Research & Development;1;26878;01/09/2022;;3;M012;4;3;292;429;0;;
+E0596;Anglophone Americas;English;0;0;Sales;1;25501;22/10/2019;09/07/2024;3;M013;8;4;397;32;0;;
+E0597;Southern Europe;Greek;1;0;Operations;2;36214;11/09/2021;29/03/2026;4;M040;5;235;303;416;0;;
+E0598;Francophone Europe;French;0;0;Research & Development;2;34872;19/11/2023;;3;M034;3;319;371;331;0;;
+E0599;Lusophone Europe;Portuguese;1;1;Research & Development;2;32954;27/03/2019;25/11/2020;5;M044;12;366;32;312;0;;
+E0600;Southern Europe;Spanish;0;0;IT;5;91179;11/12/2018;;3;M034;8;362;342;36;0;;
+E0601;Lusophone Americas;Portuguese;1;1;IT;3;43383;16/12/2021;;5;M007;4;328;28;299;0;;
+E0602;Lusophone Europe;Portuguese;0;0;Operations;3;46167;02/04/2018;;3;M050;10;294;248;332;0;;
+E0603;Other;Hindi;0;0;Finance;2;36829;22/11/2022;;3;M024;6;266;238;317;0;;
+E0604;Southern Europe;Greek;1;0;Finance;1;26757;26/10/2020;;3;M022;5;264;344;3;0;;
+E0605;Other;Mandarin;1;1;Human Resources;4;54213;19/02/2022;;4;M026;8;222;196;413;1;10;Inclusion Issues
+E0606;Southern Europe;Greek;0;0;Operations;1;26270;17/01/2016;27/12/2018;1;M050;12;383;372;397;0;;
+E0607;Other;Other;1;1;Finance;3;41403;26/04/2022;;3;M035;6;262;173;312;1;10;Better Opportunity
+E0608;Lusophone Americas;Portuguese;1;0;Human Resources;1;26707;16/01/2016;08/04/2021;3;M014;9;347;363;393;0;;
+E0609;Lusophone Europe;Portuguese;0;0;Finance;2;36299;21/01/2020;;2;M001;5;312;239;355;0;;
+E0610;Anglophone Americas;English;1;1;Human Resources;1;23059;27/09/2020;;3;M024;4;3;277;333;1;10;Inclusion Issues
+E0611;Lusophone Americas;Portuguese;1;0;Sales;3;46025;23/07/2020;;5;M013;7;355;367;371;0;;
+E0612;Lusophone Europe;Portuguese;1;1;IT;2;35923;19/05/2023;06/10/2024;4;M039;9;294;224;368;0;;
+E0613;Lusophone Europe;Portuguese;0;0;Human Resources;5;89369;06/08/2019;21/09/2024;4;M034;8;33;307;359;0;;
+E0614;Francophone Europe;French;0;0;Sales;1;25682;09/02/2015;30/08/2015;4;M014;10;301;243;322;1;10;Better Opportunity
+E0615;Francophone Europe;French;1;1;Operations;5;91004;08/06/2021;;3;M049;9;302;3;369;0;;
+E0616;Other;Other;1;1;Operations;2;32492;13/03/2018;30/01/2023;4;M001;10;36;31;434;0;;
+E0617;Southern Europe;Greek;1;1;Human Resources;2;35014;17/05/2018;03/02/2023;3;M006;11;309;238;38;0;;
+E0618;Lusophone Europe;Portuguese;0;0;Operations;1;26145;12/02/2015;02/06/2017;4;M047;9;362;328;361;0;;
+E0619;Southern Europe;Greek;0;0;IT;4;64643;21/10/2023;06/06/2024;5;M005;7;297;31;355;0;;
+E0620;Lusophone Americas;Portuguese;1;1;Research & Development;3;52348;20/08/2019;;4;M034;11;283;257;397;0;;
+E0621;Francophone Europe;French;1;1;Sales;3;50227;19/09/2017;;4;M014;4;372;353;357;0;;
+E0622;Anglophone Americas;English;1;1;Operations;3;47666;01/07/2018;;4;M033;4;392;374;322;0;;
+E0623;Other;Mandarin;1;1;Sales;2;36055;22/06/2021;;2;M007;4;281;327;345;0;;
+E0624;Lusophone Europe;Portuguese;1;1;Sales;2;34941;11/09/2020;30/08/2023;3;M007;3;331;264;275;0;;
+E0625;Francophone Europe;French;1;1;Operations;2;35630;01/04/2022;13/05/2023;3;M004;3;287;247;301;0;;
+E0626;Central Europe;Polish;1;1;IT;4;64532;01/12/2016;;3;M019;12;292;262;344;0;;
+E0627;Southern Europe;Greek;0;0;Sales;4;71694;28/11/2016;16/10/2017;2;M022;10;335;306;295;0;;
+E0628;Francophone Europe;French;1;1;Human Resources;3;49295;23/06/2020;;3;M003;3;327;197;277;0;;
+E0629;Lusophone Europe;Portuguese;0;0;Human Resources;1;30042;06/10/2018;;4;M035;7;33;274;249;0;;
+E0630;Anglophone Americas;English;1;1;IT;3;47688;21/06/2017;;2;M032;3;344;312;422;0;;
+E0631;Anglophone Americas;English;1;0;IT;1;27264;09/02/2021;;3;M034;5;313;334;378;0;;
+E0632;Other;Hindi;1;1;IT;2;31861;07/02/2020;;4;M023;7;243;222;344;0;;
+E0633;Lusophone Americas;Portuguese;1;1;Operations;3;43065;20/12/2023;24/09/2025;1;M019;12;361;353;387;0;;
+E0634;Lusophone Americas;Portuguese;1;1;Operations;3;42866;19/12/2015;;2;M047;6;321;218;386;1;10;Relocation
+E0635;Francophone Europe;French;1;0;Human Resources;4;66372;10/12/2016;;4;M021;12;375;383;34;1;10;Better Opportunity
+E0636;Other;Other;1;1;Finance;1;24833;25/08/2020;;4;M030;8;327;261;363;0;;
+E0637;Lusophone Americas;Portuguese;0;0;Finance;1;24049;23/05/2018;;3;M024;5;272;193;352;0;;
+E0638;Lusophone Americas;Portuguese;1;1;Operations;2;29135;15/04/2022;10/02/2026;2;M019;12;308;246;345;1;0;Restructuring
+E0639;Central Europe;German;0;0;Operations;1;28727;21/07/2020;24/01/2026;4;M010;7;275;207;423;0;;
+E0640;Francophone Europe;French;1;1;Human Resources;2;30528;11/04/2015;;3;M004;4;285;244;395;1;10;Inclusion Issues
+E0641;Francophone Europe;French;0;0;Operations;1;24597;30/03/2015;28/04/2020;4;M016;5;273;242;358;1;10;Lack of Growth
+E0642;Anglophone Americas;English;1;1;Human Resources;2;34025;06/03/2018;;3;M001;12;374;32;408;0;;
+E0643;Lusophone Europe;Portuguese;0;0;Sales;5;94268;09/02/2023;;1;M011;8;251;226;366;0;;
+E0644;Lusophone Europe;Portuguese;0;0;Sales;3;52788;26/02/2020;;4;M018;7;455;421;331;0;;
+E0645;Lusophone Europe;Portuguese;0;0;Research & Development;2;41897;12/09/2023;;3;M045;8;294;24;259;1;10;Inclusion Issues
+E0646;Francophone Europe;French;1;1;Sales;3;51948;20/03/2023;;2;M012;9;272;246;288;1;10;Better Opportunity
+E0647;Southern Europe;Spanish;1;1;IT;4;63384;01/11/2022;;2;M041;12;269;234;265;1;0;Restructuring
+E0648;Lusophone Europe;Portuguese;1;1;IT;1;23332;22/01/2015;;3;M035;4;324;263;404;0;;
+E0649;Central Europe;Czech;1;1;Operations;4;61630;07/04/2021;;4;M029;9;228;155;316;1;10;Lack of Growth
+E0650;Lusophone Americas;Portuguese;1;1;Sales;4;63840;06/10/2015;;2;M019;4;309;253;332;0;;
+E0651;Lusophone Europe;Portuguese;0;0;Human Resources;2;41573;15/07/2021;;5;M017;3;401;368;372;1;10;Inclusion Issues
+E0652;Francophone Europe;French;1;1;Operations;4;68065;25/05/2015;13/04/2016;5;M039;12;42;444;295;0;;
+E0653;Lusophone Americas;Portuguese;1;1;Research & Development;3;43588;21/07/2017;10/05/2018;1;M013;11;282;232;336;0;;
+E0654;Anglophone Americas;English;0;0;Finance;3;53670;18/04/2016;;4;M024;8;341;32;39;1;10;Lack of Growth
+E0655;Francophone Europe;French;0;0;Human Resources;4;63166;21/08/2015;02/11/2016;3;M019;3;323;334;477;1;10;Inclusion Issues
+E0656;Central Europe;German;1;1;Finance;3;52977;21/06/2017;;3;M024;11;188;156;41;0;;
+E0657;Francophone Europe;French;1;0;IT;5;76986;15/07/2016;;3;M020;11;332;332;351;0;;
+E0658;Central Europe;Czech;0;0;Human Resources;1;29352;12/01/2018;04/09/2020;3;M006;3;305;266;407;0;;
+E0659;Southern Europe;Italian;1;1;Finance;1;22920;03/06/2018;11/03/2023;3;M002;12;301;239;358;0;;
+E0660;Francophone Europe;French;1;1;Finance;4;70921;09/06/2023;26/03/2024;3;M047;7;286;309;248;0;;
+E0661;Lusophone Europe;Portuguese;1;1;IT;5;96399;23/02/2018;;5;M006;6;326;264;327;0;;
+E0662;Francophone Europe;French;0;0;Operations;1;25634;30/05/2022;20/05/2024;4;M029;10;344;314;341;1;10;Lack of Growth
+E0663;Lusophone Europe;Portuguese;1;0;Sales;4;73197;10/12/2019;22/09/2024;4;M017;10;369;367;382;1;10;Better Opportunity
+E0664;Central Europe;Polish;0;0;Human Resources;2;34453;05/01/2023;;5;M002;8;385;336;336;1;10;Lack of Growth
+E0665;Lusophone Americas;Portuguese;1;1;Sales;4;56130;13/10/2019;;2;M021;12;331;267;279;0;;
+E0666;Other;Arabic;1;1;Research & Development;4;58929;06/07/2018;;4;M033;12;315;264;225;0;;
+E0667;Lusophone Europe;Portuguese;0;0;IT;1;25159;08/07/2017;;5;M041;11;344;266;414;0;;
+E0668;Lusophone Europe;Portuguese;0;0;Research & Development;4;66523;26/09/2017;16/09/2022;4;M024;6;421;323;363;1;10;Inclusion Issues
+E0669;Southern Europe;Italian;1;1;Human Resources;4;66759;13/01/2020;;3;M009;11;303;349;306;0;;
+E0670;Southern Europe;Italian;1;1;Finance;2;34172;31/08/2023;29/08/2024;4;M001;5;234;23;367;1;0;Restructuring
+E0671;Lusophone Americas;Portuguese;0;0;Human Resources;3;54627;26/06/2016;;3;M025;9;319;315;266;1;0;Contract End
+E0672;Lusophone Europe;Portuguese;0;0;Human Resources;1;30827;13/01/2020;;4;M048;9;322;28;395;1;10;Inclusion Issues
+E0673;Other;Arabic;1;1;Operations;2;31515;02/12/2019;17/06/2024;3;M050;4;281;293;398;0;;
+E0674;Lusophone Europe;Portuguese;0;0;Finance;2;35067;09/08/2016;25/05/2022;4;M047;6;368;306;357;0;;
+E0675;Francophone Europe;French;1;1;Sales;2;31012;28/11/2017;;4;M015;7;342;326;384;1;0;Contract End
+E0676;Lusophone Europe;Portuguese;1;1;Human Resources;2;39008;13/10/2019;;3;M030;7;249;272;301;0;;
+E0677;Lusophone Americas;Portuguese;1;1;Research & Development;5;77342;19/12/2018;;4;M015;4;292;3;328;0;;
+E0678;Southern Europe;Greek;0;0;Human Resources;2;41104;28/11/2023;;2;M036;3;4;407;318;0;;
+E0679;Lusophone Europe;Portuguese;0;0;Sales;2;37858;05/02/2017;;3;M013;4;444;379;34;1;10;Better Opportunity
+E0680;Lusophone Americas;Portuguese;1;1;IT;3;46175;14/05/2022;;4;M015;7;316;264;289;0;;
+E0681;Lusophone Europe;Portuguese;0;0;Research & Development;1;30559;20/06/2023;;3;M029;8;351;353;396;0;;
+E0682;Anglophone Americas;English;0;0;Finance;4;77637;27/09/2021;;3;M019;7;462;342;335;0;;
+E0683;Lusophone Americas;Portuguese;1;1;Finance;4;58021;12/08/2015;09/03/2020;3;M041;3;302;305;313;1;10;Relocation
+E0684;Lusophone Europe;Portuguese;1;1;IT;1;27874;27/09/2018;;4;M036;4;307;252;29;0;;
+E0685;Francophone Europe;French;0;0;Finance;4;62834;27/12/2023;11/07/2025;3;M014;11;338;222;35;0;;
+E0686;Lusophone Americas;Portuguese;0;0;Human Resources;1;25065;31/07/2017;;4;M003;7;352;317;248;0;;
+E0687;Anglophone Americas;English;0;0;Human Resources;1;30082;20/07/2023;;1;M048;11;327;282;332;0;;
+E0688;Lusophone Europe;Portuguese;0;0;Finance;2;33653;27/01/2018;;2;M042;12;262;207;347;1;0;Restructuring
+E0689;Lusophone Europe;Portuguese;0;0;Finance;3;57634;22/07/2023;;2;M015;12;4;355;345;0;;
+E0690;Lusophone Europe;Portuguese;1;1;Human Resources;1;28020;29/06/2020;;2;M026;12;368;354;288;0;;
+E0691;Central Europe;German;0;0;Sales;2;38987;08/09/2016;16/01/2021;3;M027;3;326;317;286;0;;
+E0692;Other;Mandarin;1;1;Operations;2;34465;06/03/2016;;2;M009;3;253;258;411;1;10;Relocation
+E0693;Lusophone Americas;Portuguese;1;1;Operations;2;34495;24/06/2019;17/08/2020;3;M019;7;252;22;29;1;10;Better Opportunity
+E0694;Lusophone Europe;Portuguese;0;0;Sales;2;35360;14/09/2018;;4;M009;5;402;297;326;1;10;Better Opportunity
+E0695;Lusophone Americas;Portuguese;1;1;IT;1;22275;03/01/2022;;2;M023;11;354;297;373;0;;
+E0696;Other;Other;1;1;Operations;3;45874;12/03/2022;;2;M010;4;278;247;3;1;10;Inclusion Issues
+E0697;Lusophone Europe;Portuguese;0;0;Operations;3;57823;08/04/2023;;4;M031;6;393;407;362;0;;
+E0698;Lusophone Americas;Portuguese;1;1;Human Resources;4;60252;06/12/2019;;3;M020;11;319;289;303;0;;
+E0699;Southern Europe;Greek;0;0;Sales;4;65586;17/11/2015;;4;M011;7;307;211;286;0;;
+E0700;Central Europe;Czech;0;0;IT;2;32660;06/02/2019;;4;M023;9;308;287;402;0;;
+E0701;Other;Other;1;0;Human Resources;1;21758;29/07/2021;05/08/2022;5;M017;11;335;279;379;0;;
+E0702;Lusophone Americas;Portuguese;1;1;Operations;4;69780;24/10/2021;;3;M031;11;328;299;327;1;0;Performance
+E0703;Central Europe;German;1;1;Human Resources;1;23049;04/02/2016;;3;M013;12;296;235;29;0;;
+E0704;Lusophone Americas;Portuguese;1;0;Finance;2;30364;01/03/2017;;3;M047;7;225;235;367;1;10;Lack of Growth
+E0705;Lusophone Americas;Portuguese;1;1;Human Resources;2;35311;08/05/2021;;2;M006;5;316;262;231;0;;
+E0706;Southern Europe;Spanish;0;0;Finance;1;28916;07/10/2017;28/01/2022;4;M013;5;26;221;385;0;;
+E0707;Francophone Europe;French;1;1;Sales;4;58821;28/10/2022;;2;M023;12;264;283;247;0;;
+E0708;Lusophone Americas;Portuguese;1;1;IT;2;35370;28/03/2018;26/08/2022;5;M036;7;306;326;387;0;;
+E0709;Lusophone Europe;Portuguese;0;0;Operations;3;48086;26/07/2016;;3;M037;9;291;199;33;0;;
+E0710;Southern Europe;Spanish;1;1;IT;4;61042;28/10/2016;;2;M002;10;321;303;289;0;;
+E0711;Anglophone Americas;English;1;1;IT;2;37602;14/05/2018;25/01/2024;4;M049;11;361;348;332;0;;
+E0712;Lusophone Americas;Portuguese;0;0;Operations;5;98791;23/03/2017;;3;M009;5;415;342;265;1;10;Inclusion Issues
+E0713;Lusophone Americas;Portuguese;1;1;Human Resources;3;41521;13/06/2018;06/04/2020;4;M028;4;315;264;259;1;10;Better Opportunity
+E0714;Lusophone Europe;Portuguese;0;0;Finance;3;56135;02/12/2022;13/12/2023;3;M021;5;321;264;366;0;;
+E0715;Central Europe;Polish;0;0;Operations;1;27083;21/04/2023;;1;M039;5;335;268;29;0;;
+E0716;Central Europe;German;0;0;Research & Development;2;32828;21/05/2018;;3;M042;5;409;342;358;0;;
+E0717;Southern Europe;Spanish;1;0;Research & Development;1;28186;19/03/2020;;3;M047;4;272;215;35;1;10;Inclusion Issues
+E0718;Lusophone Americas;Portuguese;1;1;Finance;1;25573;19/01/2020;;4;M046;8;292;315;229;1;10;Lack of Growth
+E0719;Central Europe;Czech;1;1;IT;3;49989;28/02/2023;;3;M030;7;397;375;324;0;;
+E0720;Anglophone Americas;English;1;1;Human Resources;2;34461;13/03/2015;;3;M003;12;324;335;392;0;;
+E0721;Anglophone Americas;English;1;1;IT;1;29364;15/11/2018;;4;M016;11;307;272;334;0;;
+E0722;Central Europe;German;1;0;Human Resources;2;33289;30/06/2019;25/04/2025;4;M047;4;312;3;294;1;10;Better Opportunity
+E0723;Francophone Europe;French;0;0;Human Resources;2;36242;13/07/2023;;3;M045;5;337;355;253;0;;
+E0724;Francophone Europe;French;1;1;IT;1;25483;13/02/2022;08/11/2023;3;M046;8;253;236;408;0;;
+E0725;Lusophone Europe;Portuguese;0;0;IT;3;52517;02/05/2020;;1;M022;8;319;318;26;0;;
+E0726;Central Europe;Czech;1;1;IT;4;67804;18/04/2021;;2;M048;11;32;268;37;0;;
+E0727;Central Europe;German;1;1;Operations;2;38602;06/04/2015;;3;M048;10;348;311;293;0;;
+E0728;Lusophone Americas;Portuguese;1;0;Operations;1;26938;28/03/2023;;3;M023;6;309;237;373;0;;
+E0729;Anglophone Americas;English;0;0;IT;5;102987;25/07/2018;;3;M015;9;294;266;365;0;;
+E0730;Lusophone Americas;Portuguese;1;1;Finance;3;42003;04/07/2021;;5;M027;6;272;213;287;1;10;Relocation
+E0731;Lusophone Europe;Portuguese;0;0;Sales;3;47837;06/01/2022;;2;M024;3;345;238;304;0;;
+E0732;Southern Europe;Spanish;0;0;IT;4;63252;29/12/2022;;3;M019;4;278;269;319;0;;
+E0733;Francophone Europe;French;0;0;Research & Development;5;91204;31/03/2016;;4;M011;6;225;224;353;0;;
+E0734;Southern Europe;Italian;0;0;Human Resources;3;56556;11/01/2023;;4;M039;11;331;29;288;0;;
+E0735;Lusophone Americas;Portuguese;0;0;IT;3;47277;14/01/2023;;4;M029;9;355;304;388;0;;
+E0736;Southern Europe;Greek;1;1;Sales;1;25264;19/12/2017;21/01/2022;4;M030;10;231;209;256;1;10;Better Opportunity
+E0737;Lusophone Europe;Portuguese;0;0;Operations;1;25580;07/11/2020;01/08/2022;4;M037;8;34;277;326;0;;
+E0738;Central Europe;Czech;1;1;IT;1;27921;19/11/2017;;1;M014;12;237;198;403;1;0;Restructuring
+E0739;Other;Other;1;0;Sales;3;44248;13/11/2020;;4;M032;5;314;253;291;0;;
+E0740;Lusophone Americas;Portuguese;1;1;Sales;3;42361;17/03/2017;;3;M041;3;325;329;258;0;;
+E0741;Lusophone Europe;Portuguese;0;0;Sales;3;50733;09/02/2016;;3;M018;11;444;383;32;0;;
+E0742;Anglophone Americas;English;1;1;Research & Development;3;47257;25/09/2022;;2;M039;7;315;269;333;1;0;Performance
+E0743;Southern Europe;Greek;1;1;Research & Development;3;47738;08/01/2021;;2;M041;4;308;294;369;0;;
+E0744;Francophone Europe;French;1;1;Finance;4;67316;20/09/2023;;3;M041;12;337;307;184;0;;
+E0745;Anglophone Americas;English;1;1;Operations;2;37184;18/12/2017;;3;M018;11;25;224;404;1;10;Inclusion Issues
+E0746;Lusophone Europe;Portuguese;1;1;Finance;3;51752;03/11/2018;;3;M012;6;374;347;257;0;;
+E0747;Lusophone Europe;Portuguese;0;0;Finance;1;26656;01/11/2021;04/02/2026;2;M011;6;359;262;381;0;;
+E0748;Other;Other;1;1;IT;1;24178;28/05/2018;;3;M047;8;22;213;302;1;10;Inclusion Issues
+E0749;Lusophone Americas;Portuguese;1;1;IT;4;67811;21/03/2015;;3;M043;7;307;309;301;0;;
+E0750;Lusophone Europe;Portuguese;0;0;Operations;2;41250;13/03/2016;03/08/2017;3;M031;12;43;295;365;1;10;Inclusion Issues
+E0751;Southern Europe;Italian;1;0;Operations;2;35258;04/02/2018;;3;M019;4;198;191;463;0;;
+E0752;Southern Europe;Spanish;0;0;Operations;1;24726;01/10/2017;22/04/2021;4;M017;11;392;324;332;1;0;Performance
+E0753;Southern Europe;Greek;0;0;Sales;4;67708;29/05/2017;11/07/2020;3;M024;8;372;423;336;0;;
+E0754;Lusophone Americas;Portuguese;1;1;Human Resources;4;67180;10/03/2019;17/02/2022;5;M033;8;388;359;284;0;;
+E0755;Lusophone Europe;Portuguese;0;0;Operations;3;52396;16/12/2023;;4;M037;10;229;136;341;1;10;Lack of Growth
+E0756;Southern Europe;Greek;1;1;Research & Development;3;47727;07/10/2022;;5;M002;9;215;19;337;0;;
+E0757;Lusophone Americas;Portuguese;1;1;Research & Development;3;47095;01/05/2022;;4;M037;8;382;309;311;1;10;Better Opportunity
+E0758;Lusophone Europe;Portuguese;0;0;Operations;2;34071;15/07/2018;;4;M013;7;335;357;471;1;0;Restructuring
+E0759;Lusophone Americas;Portuguese;1;0;Human Resources;2;36063;08/04/2019;21/03/2022;3;M014;9;298;259;398;0;;
+E0760;Lusophone Europe;Portuguese;0;0;Human Resources;5;100486;07/01/2019;;3;M013;6;339;368;332;0;;
+E0761;Francophone Europe;French;0;0;Human Resources;1;28837;28/06/2019;;2;M024;7;378;308;364;0;;
+E0762;Lusophone Americas;Portuguese;0;0;Human Resources;5;84471;05/04/2022;;1;M016;5;315;267;33;1;10;Inclusion Issues
+E0763;Lusophone Americas;Portuguese;0;0;IT;1;27062;07/10/2016;;2;M034;5;345;247;383;1;10;Lack of Growth
+E0764;Francophone Europe;French;0;0;Sales;3;44270;16/04/2015;06/10/2020;3;M048;5;443;408;332;0;;
+E0765;Lusophone Europe;Portuguese;1;1;Research & Development;1;24615;02/05/2020;;3;M035;10;365;364;312;0;;
+E0766;Southern Europe;Spanish;1;1;Operations;3;46587;28/05/2021;16/02/2023;3;M010;6;267;209;271;0;;
+E0767;Francophone Europe;French;1;1;IT;3;51690;30/06/2022;;3;M018;5;297;297;39;0;;
+E0768;Central Europe;Polish;0;0;Research & Development;5;81408;12/02/2022;11/12/2023;2;M021;3;395;319;315;0;;
+E0769;Lusophone Europe;Portuguese;0;0;Research & Development;2;35836;07/12/2019;28/12/2021;4;M033;8;295;329;337;0;;
+E0770;Lusophone Europe;Portuguese;0;0;Sales;3;49040;08/10/2023;;4;M035;5;441;476;416;0;;
+E0771;Lusophone Americas;Portuguese;1;1;Finance;2;31150;29/08/2020;01/10/2025;5;M033;6;368;372;345;0;;
+E0772;Lusophone Europe;Portuguese;0;0;Operations;2;40738;25/01/2019;;4;M034;5;317;274;356;1;10;Lack of Growth
+E0773;Southern Europe;Greek;1;0;Operations;2;30622;30/06/2019;14/01/2025;3;M027;10;273;249;341;1;10;Better Opportunity
+E0774;Other;Arabic;1;1;Research & Development;2;35014;20/09/2017;;2;M027;9;274;224;319;0;;
+E0775;Francophone Europe;French;1;1;IT;3;44223;22/12/2019;04/01/2022;4;M001;4;26;228;349;1;10;Inclusion Issues
+E0776;Lusophone Europe;Portuguese;1;0;IT;2;39322;12/04/2019;;3;M041;10;253;209;354;0;;
+E0777;Southern Europe;Italian;0;0;Research & Development;2;33562;17/03/2023;;3;M024;6;38;304;407;0;;
+E0778;Lusophone Europe;Portuguese;0;0;IT;1;26331;11/09/2020;04/12/2024;4;M023;4;24;271;346;0;;
+E0779;Lusophone Europe;Portuguese;0;0;IT;1;31341;12/12/2022;;4;M037;9;271;2;333;1;0;Restructuring
+E0780;Lusophone Americas;Portuguese;1;1;Sales;3;47721;01/06/2019;;1;M042;10;307;304;288;0;;
+E0781;Other;Other;1;1;Operations;1;22904;12/04/2018;;4;M047;10;297;246;359;0;;
+E0782;Francophone Europe;French;0;0;Sales;2;40778;13/12/2017;;2;M036;11;308;243;274;0;;
+E0783;Southern Europe;Spanish;0;0;Human Resources;2;38280;19/04/2023;;5;M021;7;394;388;312;0;;
+E0784;Francophone Europe;French;1;0;Finance;2;38281;19/06/2023;05/06/2024;3;M008;6;287;192;286;0;;
+E0785;Lusophone Europe;Portuguese;0;0;IT;1;25267;24/12/2022;;4;M026;7;378;366;324;0;;
+E0786;Southern Europe;Greek;0;0;Sales;3;56717;19/08/2018;;3;M003;6;351;266;318;0;;
+E0787;Lusophone Europe;Portuguese;0;0;Research & Development;2;40841;18/08/2016;28/06/2018;5;M040;10;377;308;279;0;;
+E0788;Southern Europe;Greek;1;1;Finance;3;54148;28/12/2023;09/07/2025;3;M016;8;28;238;335;0;;
+E0789;Francophone Europe;French;0;0;Operations;1;29983;18/10/2023;;4;M035;8;424;422;346;0;;
+E0790;Other;Mandarin;1;1;Human Resources;2;32720;22/09/2015;;2;M036;10;321;278;334;0;;
+E0791;Southern Europe;Spanish;1;1;IT;1;27801;23/04/2015;;3;M046;5;335;299;281;0;;
+E0792;Anglophone Americas;English;1;1;IT;3;56776;05/08/2015;;3;M008;4;338;272;3;0;;
+E0793;Central Europe;German;0;0;Research & Development;4;60232;20/07/2020;;3;M007;9;221;161;301;0;;
+E0794;Lusophone Americas;Portuguese;1;1;Research & Development;3;47055;25/01/2017;07/09/2018;3;M042;4;353;286;411;0;;
+E0795;Lusophone Americas;Portuguese;0;0;Human Resources;3;44134;08/01/2015;;3;M001;8;341;312;393;0;;
+E0796;Other;Mandarin;1;1;Operations;1;25548;25/09/2016;;3;M029;5;239;151;336;1;10;Relocation
+E0797;Southern Europe;Spanish;0;0;Sales;5;84336;29/08/2022;21/01/2026;2;M007;10;34;325;306;0;;
+E0798;Central Europe;Polish;0;0;Human Resources;3;45179;05/10/2017;;3;M032;6;3;273;326;1;0;Restructuring
+E0799;Southern Europe;Greek;0;0;Operations;1;27570;10/06/2022;;5;M037;12;312;24;343;1;10;Inclusion Issues
+E0800;Francophone Europe;French;1;1;Finance;1;24991;02/11/2021;;3;M050;7;248;23;263;1;10;Relocation
+E0801;Francophone Europe;French;0;0;IT;1;23834;25/05/2018;;3;M035;3;384;298;285;0;;
+E0802;Lusophone Europe;Portuguese;0;0;Human Resources;2;35133;26/06/2017;;2;M014;10;374;35;409;1;0;Performance
+E0803;Central Europe;Polish;1;1;Sales;5;96314;03/03/2019;;3;M010;5;243;19;334;0;;
+E0804;Central Europe;Czech;1;0;IT;3;48859;31/08/2019;;3;M013;10;413;372;347;0;;
+E0805;Lusophone Americas;Portuguese;1;1;Human Resources;3;49145;24/06/2020;25/12/2023;3;M048;7;396;341;326;0;;
+E0806;Southern Europe;Italian;1;1;Research & Development;5;87776;04/06/2016;;1;M031;4;261;242;349;0;;
+E0807;Lusophone Americas;Portuguese;1;1;Finance;3;48733;08/06/2022;;4;M013;6;318;276;369;0;;
+E0808;Francophone Europe;French;1;1;IT;1;27762;01/09/2020;11/03/2022;4;M022;10;323;328;349;0;;
+E0809;Lusophone Europe;Portuguese;0;0;Research & Development;2;36336;01/04/2016;;3;M035;3;328;281;384;0;;
+E0810;Lusophone Americas;Portuguese;1;1;Human Resources;4;57169;08/07/2017;;1;M035;4;3;335;352;0;;
+E0811;Lusophone Europe;Portuguese;0;0;Operations;2;41741;31/08/2017;;4;M023;10;244;229;241;1;10;Inclusion Issues
+E0812;Other;Other;0;0;Research & Development;2;30267;13/05/2018;07/06/2021;3;M035;6;334;319;338;0;;
+E0813;Francophone Europe;French;1;1;IT;2;34972;15/10/2018;07/07/2021;2;M034;6;322;345;229;0;;
+E0814;Southern Europe;Italian;0;0;Operations;4;73408;16/03/2019;;3;M010;10;279;291;386;0;;
+E0815;Southern Europe;Greek;1;1;Sales;2;33287;20/10/2020;;5;M002;6;244;254;328;0;;
+E0816;Lusophone Americas;Portuguese;1;1;Research & Development;2;36469;18/06/2016;;3;M040;12;402;313;327;1;10;Better Opportunity
+E0817;Lusophone Americas;Portuguese;1;1;Sales;1;22522;28/09/2015;;5;M038;10;243;227;334;1;0;Performance
+E0818;Anglophone Americas;English;1;1;Finance;3;53267;18/10/2017;;4;M010;10;342;316;348;0;;
+E0819;Lusophone Europe;Portuguese;1;1;IT;5;87260;31/05/2021;06/01/2022;5;M043;12;295;292;381;1;10;Inclusion Issues
+E0820;Other;Arabic;0;0;IT;1;26011;12/04/2018;;5;M006;8;329;246;286;1;0;Restructuring
+E0821;Lusophone Americas;Portuguese;1;1;Operations;4;57359;14/11/2016;14/09/2018;4;M017;10;365;328;317;0;;
+E0822;Central Europe;Polish;0;0;Research & Development;4;74850;13/02/2015;;1;M025;6;491;47;312;1;10;Inclusion Issues
+E0823;Anglophone Americas;English;1;1;Sales;3;49890;28/12/2017;02/01/2021;5;M006;8;389;293;366;0;;
+E0824;Francophone Europe;French;1;1;Research & Development;3;42363;25/02/2015;;3;M040;4;324;319;398;0;;
+E0825;Lusophone Europe;Portuguese;0;0;Human Resources;3;46460;22/07/2016;25/03/2021;5;M012;4;346;296;271;0;;
+E0826;Central Europe;Polish;1;1;Finance;4;64601;02/12/2022;09/01/2025;4;M038;3;331;259;361;1;0;Performance
+E0827;Southern Europe;Greek;0;0;IT;1;29163;09/02/2017;28/05/2019;4;M015;5;255;27;325;0;;
+E0828;Francophone Europe;French;0;0;IT;1;23699;31/08/2022;23/01/2024;2;M005;10;399;327;407;0;;
+E0829;Southern Europe;Spanish;0;0;IT;2;41504;25/07/2022;09/05/2026;4;M024;12;322;278;333;0;;
+E0830;Central Europe;Polish;1;1;Finance;2;33094;02/08/2021;13/12/2025;3;M030;10;395;327;42;0;;
+E0831;Anglophone Americas;English;1;1;Finance;2;32271;21/07/2018;;4;M010;9;285;284;385;1;0;Performance
+E0832;Lusophone Americas;Portuguese;1;1;Human Resources;2;35444;28/02/2021;20/09/2022;3;M047;10;221;121;39;1;0;Performance
+E0833;Other;Arabic;0;0;IT;2;32470;21/08/2017;;3;M014;9;18;167;309;1;10;Lack of Growth
+E0834;Lusophone Europe;Portuguese;0;0;Sales;4;76116;22/02/2019;;3;M002;10;317;267;367;0;;
+E0835;Central Europe;Polish;0;0;Finance;3;51105;22/06/2021;;4;M009;8;343;264;407;0;;
+E0836;Southern Europe;Spanish;0;0;Finance;4;65528;27/01/2016;;2;M021;4;289;222;33;0;;
+E0837;Other;Hindi;1;1;Research & Development;3;39649;21/09/2023;26/11/2024;3;M001;8;232;247;259;0;;
+E0838;Lusophone Europe;Portuguese;0;0;Operations;1;30088;09/02/2017;;3;M008;7;317;279;259;0;;
+E0839;Southern Europe;Italian;1;1;IT;4;58887;13/08/2016;09/04/2017;4;M049;9;349;333;364;0;;
+E0840;Lusophone Europe;Portuguese;0;0;Human Resources;5;93995;21/03/2017;;3;M011;12;335;362;43;0;;
+E0841;Southern Europe;Greek;0;0;Research & Development;2;39210;03/03/2021;05/02/2024;4;M026;5;286;316;38;0;;
+E0842;Lusophone Europe;Portuguese;0;0;IT;1;25069;06/10/2015;29/10/2016;3;M046;6;359;351;366;0;;
+E0843;Lusophone Americas;Portuguese;0;0;Finance;2;31966;02/09/2019;;3;M010;11;391;294;317;0;;
+E0844;Francophone Europe;French;1;1;Human Resources;1;24119;23/06/2015;21/03/2020;3;M010;5;328;264;34;0;;
+E0845;Central Europe;German;1;1;Human Resources;3;48586;14/06/2015;22/02/2016;3;M038;10;378;343;298;0;;
+E0846;Lusophone Americas;Portuguese;1;1;IT;3;45917;23/09/2020;;4;M049;12;297;266;373;0;;
+E0847;Anglophone Americas;English;1;1;IT;3;47121;06/04/2016;07/04/2021;2;M014;6;325;236;317;1;10;Better Opportunity
+E0848;Lusophone Europe;Portuguese;0;0;Sales;1;24800;20/02/2015;23/08/2016;4;M014;10;423;413;324;0;;
+E0849;Other;Mandarin;0;0;Finance;2;32438;25/06/2022;;3;M040;4;378;295;268;0;;
+E0850;Other;Hindi;1;1;Research & Development;1;24310;30/09/2019;;3;M018;9;208;17;305;1;10;Better Opportunity
+E0851;Lusophone Europe;Portuguese;1;1;IT;3;55257;16/12/2016;07/12/2017;4;M030;12;306;249;404;1;10;Better Opportunity
+E0852;Anglophone Americas;English;1;1;Finance;2;38225;30/06/2015;;5;M018;7;329;292;307;1;10;Relocation
+E0853;Francophone Europe;French;0;0;IT;1;27287;19/11/2019;;4;M015;3;345;325;278;0;;
+E0854;Anglophone Americas;English;0;0;Operations;1;30172;21/11/2018;;3;M024;10;419;437;331;0;;
+E0855;Central Europe;Polish;0;0;Finance;2;36255;02/10/2021;06/01/2023;3;M023;10;271;257;295;0;;
+E0856;Other;Mandarin;1;1;IT;1;22051;20/11/2023;27/04/2026;3;M027;4;18;206;336;1;10;Better Opportunity
+E0857;Lusophone Europe;Portuguese;0;0;IT;3;49939;23/04/2016;29/06/2021;4;M036;9;258;223;349;0;;
+E0858;Central Europe;German;1;1;Research & Development;4;60541;03/01/2015;;5;M007;10;346;32;355;0;;
+E0859;Francophone Europe;French;1;1;IT;1;22826;08/05/2015;01/01/2017;2;M050;4;37;349;428;0;;
+E0860;Lusophone Americas;Portuguese;1;1;Sales;2;33594;23/11/2021;;4;M003;10;402;358;351;0;;
+E0861;Southern Europe;Italian;0;0;Human Resources;2;38018;08/12/2018;;4;M002;9;386;357;387;0;;
+E0862;Lusophone Americas;Portuguese;1;1;Research & Development;3;43907;13/03/2021;;4;M014;12;288;255;344;1;0;Restructuring
+E0863;Other;Other;1;1;Sales;3;48132;01/05/2022;;3;M008;11;167;155;332;1;10;Better Opportunity
+E0864;Lusophone Americas;Portuguese;1;1;Human Resources;2;35360;24/12/2016;;1;M012;6;349;286;404;0;;
+E0865;Francophone Europe;French;0;0;Human Resources;1;24552;21/04/2023;;4;M002;10;261;236;269;0;;
+E0866;Anglophone Americas;English;1;1;Finance;2;32470;12/12/2017;;4;M031;9;353;292;338;0;;
+E0867;Lusophone Americas;Portuguese;1;1;IT;1;25268;01/04/2021;11/02/2022;5;M043;5;298;26;373;0;;
+E0868;Central Europe;Polish;1;1;Human Resources;1;26330;06/02/2015;21/02/2020;2;M016;10;308;284;309;0;;
+E0869;Lusophone Europe;Portuguese;1;1;IT;2;33320;04/06/2016;;2;M049;4;17;168;367;0;;
+E0870;Anglophone Americas;English;0;0;Sales;2;41107;25/06/2015;;4;M002;6;363;288;238;0;;
+E0871;Lusophone Europe;Portuguese;0;0;Research & Development;2;42098;18/09/2020;;4;M049;5;353;36;32;0;;
+E0872;Anglophone Americas;English;0;0;Research & Development;3;47183;10/02/2018;;3;M022;7;35;34;282;0;;
+E0873;Southern Europe;Italian;0;0;Finance;3;55112;11/08/2021;;5;M039;12;295;227;319;0;;
+E0874;Anglophone Americas;English;1;1;Sales;4;63110;20/08/2018;;3;M023;7;324;303;382;0;;
+E0875;Francophone Europe;French;0;0;Research & Development;3;54599;24/07/2016;;4;M013;8;335;258;356;0;;
+E0876;Lusophone Americas;Portuguese;1;1;IT;4;62745;28/07/2020;;3;M046;7;373;371;317;0;;
+E0877;Francophone Europe;French;1;0;Operations;5;76812;09/11/2017;;3;M036;12;346;274;306;0;;
+E0878;Lusophone Europe;Portuguese;0;0;Finance;2;36295;26/07/2016;01/02/2019;4;M004;3;369;348;307;0;;
+E0879;Francophone Europe;French;0;0;IT;2;32452;28/05/2022;;1;M022;12;342;28;342;0;;
+E0880;Central Europe;Czech;1;1;Human Resources;2;31940;19/04/2019;31/03/2023;1;M011;4;335;258;31;0;;
+E0881;Southern Europe;Spanish;1;1;Research & Development;1;28416;21/06/2017;24/12/2017;3;M020;9;241;194;314;1;10;Inclusion Issues
+E0882;Anglophone Americas;English;0;0;Finance;1;30376;20/04/2017;;3;M034;8;373;318;393;0;;
+E0883;Southern Europe;Greek;1;1;Human Resources;3;47086;02/11/2023;;3;M023;9;288;314;379;0;;
+E0884;Other;Mandarin;1;1;IT;4;56615;10/04/2019;18/03/2022;4;M028;4;246;191;358;1;0;Performance
+E0885;Lusophone Americas;Portuguese;0;0;IT;2;35985;12/03/2017;;5;M024;3;351;301;359;0;;
+E0886;Lusophone Americas;Portuguese;1;1;Research & Development;1;23961;31/01/2017;29/04/2019;2;M005;6;309;312;29;0;;
+E0887;Southern Europe;Greek;1;1;Finance;4;68080;11/03/2017;;2;M050;4;29;322;255;0;;
+E0888;Anglophone Americas;English;1;0;Research & Development;3;45418;20/01/2018;;1;M033;3;302;255;359;0;;
+E0889;Southern Europe;Spanish;0;0;Sales;2;35267;03/10/2017;;4;M046;6;366;37;478;1;10;Lack of Growth
+E0890;Lusophone Europe;Portuguese;0;0;IT;2;38228;05/04/2022;;3;M039;12;387;337;258;0;;
+E0891;Lusophone Europe;Portuguese;1;0;Research & Development;4;66115;14/02/2019;;2;M027;9;286;281;327;1;10;Lack of Growth
+E0892;Lusophone Americas;Portuguese;1;1;Research & Development;1;27831;01/11/2017;;3;M030;8;351;345;302;0;;
+E0893;Lusophone Americas;Portuguese;0;0;Human Resources;1;23497;20/03/2020;;4;M028;4;312;262;283;0;;
+E0894;Southern Europe;Italian;1;1;Sales;4;70562;20/08/2016;;3;M004;3;296;217;336;0;;
+E0895;Anglophone Americas;English;0;0;Finance;2;37146;16/02/2019;08/07/2022;3;M029;10;295;283;308;0;;
+E0896;Lusophone Europe;Portuguese;0;0;Finance;2;39954;16/03/2023;;3;M010;6;296;295;367;0;;
+E0897;Lusophone Americas;Portuguese;1;1;Finance;2;36012;13/09/2016;;3;M014;3;35;314;418;0;;
+E0898;Francophone Europe;French;0;0;Finance;1;27972;04/11/2018;;5;M031;7;369;293;311;0;;
+E0899;Central Europe;Czech;0;0;Operations;1;28346;14/01/2023;;4;M039;6;332;306;296;0;;
+E0900;Lusophone Europe;Portuguese;1;1;Sales;1;24022;15/10/2023;22/12/2024;3;M010;4;325;279;284;0;;
+E0901;Anglophone Americas;English;1;1;Operations;2;33534;09/07/2018;;2;M026;9;352;349;456;1;10;Inclusion Issues
+E0902;Lusophone Europe;Portuguese;0;0;Finance;2;35584;23/09/2017;;2;M011;12;373;32;383;1;10;Inclusion Issues
+E0903;Lusophone Americas;Portuguese;1;1;IT;3;41726;28/12/2016;12/02/2019;5;M024;8;309;265;362;1;0;Performance
+E0904;Lusophone Americas;Portuguese;0;0;Research & Development;3;53537;01/07/2020;26/04/2024;3;M034;4;387;362;304;1;10;Better Opportunity
+E0905;Lusophone Europe;Portuguese;0;0;Research & Development;3;46159;19/10/2018;;4;M029;8;391;343;288;0;;
+E0906;Other;Hindi;1;1;Finance;1;20828;04/08/2021;;2;M029;5;2;188;356;0;;
+E0907;Central Europe;Czech;1;1;Finance;1;28502;11/03/2021;;3;M046;6;358;291;307;0;;
+E0908;Lusophone Americas;Portuguese;1;1;Finance;3;47937;18/08/2018;;4;M048;9;358;274;234;0;;
+E0909;Southern Europe;Spanish;1;1;Sales;2;39075;29/08/2016;09/12/2017;3;M039;10;405;344;331;0;;
+E0910;Lusophone Europe;Portuguese;0;0;Sales;2;34393;27/08/2023;;3;M014;5;299;244;404;0;;
+E0911;Lusophone Europe;Portuguese;0;0;Operations;3;53400;17/11/2019;;4;M003;10;415;363;298;0;;
+E0912;Francophone Europe;French;1;1;Human Resources;2;38735;29/10/2021;;5;M038;6;484;408;353;0;;
+E0913;Lusophone Americas;Portuguese;1;1;Finance;1;22055;15/01/2020;17/07/2020;3;M005;7;215;177;348;0;;
+E0914;Central Europe;Czech;0;0;Operations;3;50399;04/07/2021;15/09/2025;3;M050;4;327;343;25;0;;
+E0915;Central Europe;German;1;1;IT;2;32177;19/05/2020;07/08/2021;5;M047;7;32;313;339;0;;
+E0916;Central Europe;Polish;1;0;Sales;5;90605;09/11/2015;;4;M001;6;33;352;375;0;;
+E0917;Francophone Europe;French;1;1;Human Resources;2;35315;23/09/2020;19/12/2024;4;M006;8;331;266;315;0;;
+E0918;Central Europe;Czech;0;0;Human Resources;5;84681;02/11/2018;25/11/2023;4;M013;10;351;375;335;0;;
+E0919;Anglophone Americas;English;0;0;Finance;1;28645;07/07/2019;26/01/2021;4;M031;12;35;302;376;0;;
+E0920;Other;Other;1;1;Sales;3;38404;30/01/2020;10/10/2023;3;M043;8;273;224;298;0;;
+E0921;Other;Other;1;1;Operations;2;33422;23/04/2020;;5;M047;8;342;351;356;1;10;Lack of Growth
+E0922;Lusophone Americas;Portuguese;1;1;Research & Development;3;52489;23/02/2018;12/12/2020;5;M034;8;251;253;36;0;;
+E0923;Lusophone Americas;Portuguese;1;1;Research & Development;5;91622;24/01/2019;08/01/2025;3;M022;8;344;295;361;0;;
+E0924;Francophone Europe;French;0;0;Operations;5;99305;14/02/2021;17/09/2024;4;M007;9;437;393;326;0;;
+E0925;Anglophone Americas;English;1;1;Human Resources;1;24321;07/05/2020;18/05/2025;3;M035;4;314;329;258;1;10;Lack of Growth
+E0926;Lusophone Europe;Portuguese;0;0;Human Resources;2;40086;02/06/2016;12/04/2022;4;M044;11;317;288;391;0;;
+E0927;Southern Europe;Greek;0;0;Research & Development;2;34897;27/10/2019;19/01/2024;3;M034;7;302;301;247;0;;
+E0928;Francophone Europe;French;0;0;Sales;3;49892;14/04/2016;;2;M017;5;291;205;298;0;;
+E0929;Other;Mandarin;1;1;Research & Development;3;46613;28/06/2016;;3;M008;12;309;279;399;0;;
+E0930;Anglophone Americas;English;1;1;Human Resources;4;64951;25/05/2022;;3;M043;6;369;344;318;0;;
+E0931;Francophone Europe;French;1;0;Finance;1;24251;09/09/2015;;4;M048;10;287;255;372;1;10;Inclusion Issues
+E0932;Lusophone Europe;Portuguese;0;0;Sales;2;35485;02/04/2017;;3;M031;9;376;333;397;0;;
+E0933;Lusophone Americas;Portuguese;1;1;Operations;2;31275;02/02/2023;;3;M007;7;359;291;321;1;0;Performance
+E0934;Southern Europe;Italian;0;0;IT;5;101051;10/06/2021;;3;M012;10;377;342;339;0;;
+E0935;Francophone Europe;French;1;1;Research & Development;1;27001;07/10/2019;07/10/2024;3;M013;9;259;155;297;0;;
+E0936;Lusophone Europe;Portuguese;0;0;Sales;2;40361;21/12/2020;28/09/2022;3;M036;3;331;292;318;0;;
+E0937;Francophone Europe;French;1;1;IT;1;28478;13/12/2019;;3;M014;6;311;287;406;1;10;Lack of Growth
+E0938;Anglophone Americas;English;1;0;Operations;1;29281;08/01/2021;;5;M016;3;325;265;346;1;0;Restructuring
+E0939;Other;Other;0;0;Research & Development;3;51152;14/02/2016;18/11/2019;3;M037;7;382;344;417;0;;
+E0940;Lusophone Americas;Portuguese;0;0;Operations;1;24900;05/12/2016;;3;M003;5;317;293;372;1;10;Inclusion Issues
+E0941;Francophone Europe;French;1;1;IT;1;27796;12/05/2018;;3;M045;4;335;284;318;1;10;Inclusion Issues
+E0942;Anglophone Americas;English;0;0;Research & Development;1;27977;16/11/2019;03/12/2024;2;M046;11;371;317;239;0;;
+E0943;Southern Europe;Greek;0;0;Operations;5;101733;06/10/2016;;3;M043;12;342;345;385;0;;
+E0944;Francophone Europe;French;0;0;Human Resources;1;25560;31/08/2023;;5;M038;4;434;396;315;1;0;Restructuring
+E0945;Southern Europe;Greek;0;0;IT;3;53866;07/07/2016;06/01/2018;3;M015;5;331;309;379;1;10;Better Opportunity
+E0946;Lusophone Europe;Portuguese;0;0;Sales;2;40992;30/06/2015;;4;M014;5;301;279;307;0;;
+E0947;Lusophone Europe;Portuguese;1;1;Operations;1;26505;22/08/2022;09/01/2025;1;M049;3;336;243;304;0;;
+E0948;Lusophone Americas;Portuguese;0;0;IT;3;43983;18/02/2017;;4;M029;11;257;224;326;0;;
+E0949;Other;Arabic;1;0;Sales;2;34476;29/03/2022;15/05/2024;3;M006;11;301;227;29;0;;
+E0950;Other;Arabic;1;1;Sales;2;31279;04/04/2020;10/03/2023;3;M003;12;249;273;362;0;;
+E0951;Anglophone Americas;English;1;1;Sales;2;36761;23/08/2017;;4;M033;6;368;329;381;1;10;Inclusion Issues
+E0952;Lusophone Europe;Portuguese;0;0;Human Resources;2;35632;02/10/2021;;3;M040;8;363;328;331;0;;
+E0953;Lusophone Europe;Portuguese;1;1;Human Resources;4;63339;05/12/2020;15/07/2024;5;M048;3;314;339;41;0;;
+E0954;Lusophone Europe;Portuguese;0;0;Finance;3;48102;07/04/2022;04/04/2024;3;M044;4;333;322;379;0;;
+E0955;Central Europe;Czech;0;0;IT;3;48109;03/05/2018;10/03/2020;4;M049;5;276;29;306;0;;
+E0956;Southern Europe;Spanish;0;0;Human Resources;4;65169;31/01/2022;;3;M049;8;324;295;24;1;10;Better Opportunity
+E0957;Central Europe;Polish;1;1;Research & Development;5;78724;13/12/2015;;3;M018;7;174;149;231;1;10;Better Opportunity
+E0958;Francophone Europe;French;0;0;Sales;2;40616;22/03/2020;;4;M044;8;329;348;358;1;0;Performance
+E0959;Other;Mandarin;0;0;Sales;1;25358;01/08/2021;18/01/2026;2;M047;6;337;244;407;0;;
+E0960;Lusophone Europe;Portuguese;0;0;Operations;5;89096;10/01/2016;;2;M014;5;392;327;365;0;;
+E0961;Southern Europe;Spanish;0;0;Human Resources;4;70441;30/08/2020;;5;M025;4;273;256;287;0;;
+E0962;Southern Europe;Spanish;0;0;Research & Development;4;76786;01/05/2015;;3;M027;4;365;265;311;0;;
+E0963;Lusophone Americas;Portuguese;1;1;Finance;1;27204;05/05/2016;;5;M001;12;299;238;304;0;;
+E0964;Lusophone Americas;Portuguese;0;0;Operations;3;49760;21/03/2016;;3;M026;11;321;223;354;0;;
+E0965;Central Europe;Polish;1;1;Research & Development;5;87332;29/10/2015;10/11/2017;3;M027;4;397;402;307;0;;
+E0966;Lusophone Europe;Portuguese;0;0;Human Resources;4;72192;22/09/2023;;3;M026;9;257;174;375;1;10;Better Opportunity
+E0967;Lusophone Americas;Portuguese;0;0;Research & Development;4;58778;12/04/2017;;3;M039;4;385;292;283;1;0;Performance
+E0968;Other;Mandarin;1;1;Human Resources;4;54751;01/06/2021;02/06/2025;4;M028;11;325;281;318;1;10;Better Opportunity
+E0969;Central Europe;German;1;1;Operations;1;25253;05/03/2017;31/12/2018;3;M043;11;295;223;311;0;;
+E0970;Lusophone Europe;Portuguese;1;1;Finance;3;51040;09/09/2020;;3;M046;4;339;315;301;0;;
+E0971;Lusophone Americas;Portuguese;0;0;Operations;4;64265;14/09/2021;;4;M041;9;357;276;278;0;;
+E0972;Lusophone Europe;Portuguese;1;1;Research & Development;2;34429;18/05/2021;21/09/2023;3;M019;3;381;353;237;0;;
+E0973;Southern Europe;Spanish;0;0;Research & Development;1;29673;02/07/2017;14/10/2018;4;M028;9;213;157;406;1;10;Better Opportunity
+E0974;Lusophone Europe;Portuguese;0;0;Human Resources;3;47930;03/06/2017;15/03/2023;5;M015;11;374;312;312;0;;
+E0975;Southern Europe;Greek;1;0;Research & Development;3;42520;12/03/2018;;4;M027;4;407;358;291;1;0;Restructuring
+E0976;Anglophone Americas;English;0;0;Research & Development;2;36583;15/10/2023;;3;M023;9;328;241;257;1;10;Inclusion Issues
+E0977;Lusophone Americas;Portuguese;0;0;Operations;2;34321;01/06/2023;09/04/2026;2;M018;9;314;276;352;0;;
+E0978;Lusophone Europe;Portuguese;0;0;Research & Development;2;35480;27/01/2015;;3;M039;9;309;307;313;0;;
+E0979;Lusophone Americas;Portuguese;1;1;IT;1;26852;15/04/2015;24/02/2016;3;M004;12;308;266;327;0;;
+E0980;Lusophone Americas;Portuguese;0;0;IT;2;38907;21/12/2019;;4;M004;8;336;308;38;1;10;Lack of Growth
+E0981;Francophone Europe;French;1;0;Research & Development;3;46700;16/06/2016;;3;M036;4;318;245;3;0;;
+E0982;Lusophone Americas;Portuguese;1;0;Human Resources;3;44138;16/11/2020;;3;M013;6;28;259;375;0;;
+E0983;Other;Hindi;1;0;Research & Development;2;29986;09/02/2021;;3;M014;5;266;227;365;1;10;Inclusion Issues
+E0984;Other;Hindi;1;1;Operations;5;73808;07/01/2020;02/04/2024;3;M020;7;317;238;296;1;10;Better Opportunity
+E0985;Southern Europe;Italian;0;0;Human Resources;2;35316;05/08/2015;26/03/2017;4;M007;9;306;278;375;0;;
+E0986;Central Europe;German;0;0;Human Resources;1;24953;13/01/2016;;4;M038;11;373;343;319;1;10;Relocation
+E0987;Lusophone Americas;Portuguese;1;1;IT;3;48597;06/08/2017;;3;M008;11;353;365;335;0;;
+E0988;Central Europe;Czech;1;1;Operations;2;34135;02/05/2016;;4;M026;10;311;283;391;0;;
+E0989;Lusophone Americas;Portuguese;1;1;Operations;1;23018;06/07/2017;;3;M011;4;395;353;335;0;;
+E0990;Other;Arabic;1;1;Research & Development;3;46911;14/12/2016;23/08/2020;2;M037;9;268;299;324;0;;
+E0991;Lusophone Europe;Portuguese;0;0;Operations;3;49364;17/02/2021;;5;M009;3;403;312;413;0;;
+E0992;Southern Europe;Italian;0;0;Operations;3;47911;10/04/2018;;3;M039;8;307;304;284;0;;
+E0993;Lusophone Americas;Portuguese;1;1;Operations;2;36651;27/05/2015;;3;M023;5;326;337;286;0;;
+E0994;Other;Mandarin;1;1;Sales;2;32138;25/01/2023;;5;M032;12;293;23;33;1;10;Relocation
+E0995;Lusophone Europe;Portuguese;0;0;Research & Development;2;38700;16/07/2020;;1;M042;11;325;331;314;0;;
+E0996;Francophone Europe;French;0;0;Human Resources;3;54326;22/06/2023;;3;M040;8;369;314;28;1;10;Better Opportunity
+E0997;Lusophone Europe;Portuguese;0;0;Sales;1;30918;30/05/2019;;3;M009;8;382;301;355;0;;
+E0998;Central Europe;Czech;0;0;Sales;3;54438;29/06/2017;;2;M037;4;365;317;365;1;10;Better Opportunity
+E0999;Lusophone Europe;Portuguese;0;0;Finance;1;30990;13/05/2019;30/01/2023;2;M038;6;374;318;254;0;;
+E1000;Francophone Europe;French;1;1;Sales;1;25618;02/05/2019;;3;M002;12;304;256;392;0;;
+E1001;Southern Europe;Spanish;1;1;Operations;1;26159;21/06/2021;06/08/2022;5;M039;10;317;305;362;0;;
+E1002;Southern Europe;Spanish;0;0;Research & Development;2;33559;17/04/2018;;3;M021;6;291;306;39;0;;
+E1003;Southern Europe;Italian;0;0;Operations;1;29407;07/01/2020;;1;M040;7;357;315;399;0;;
+E1004;Central Europe;German;1;1;Finance;2;38858;22/10/2022;;3;M004;12;232;207;314;1;10;Better Opportunity
+E1005;Southern Europe;Greek;0;0;Sales;2;40727;17/09/2018;;5;M050;9;222;244;383;1;0;Restructuring
+E1006;Francophone Europe;French;1;1;Operations;2;36233;26/01/2021;;4;M028;8;27;252;298;0;;
+E1007;Lusophone Europe;Portuguese;0;0;Sales;5;104359;06/12/2015;;3;M022;3;414;424;351;0;;
+E1008;Anglophone Americas;English;0;0;Research & Development;1;26753;17/03/2022;;4;M008;8;34;315;326;1;10;Better Opportunity
+E1009;Francophone Europe;French;1;1;Human Resources;1;25037;01/12/2021;;3;M046;10;399;43;297;0;;
+E1010;Southern Europe;Italian;0;0;Sales;3;46675;27/01/2015;22/04/2020;3;M048;5;221;224;32;0;;
+E1011;Lusophone Americas;Portuguese;0;0;Research & Development;3;52490;09/03/2016;;2;M005;5;359;342;343;0;;
+E1012;Lusophone Americas;Portuguese;1;0;Operations;1;22378;18/01/2023;;3;M035;5;315;287;289;0;;
+E1013;Central Europe;German;0;0;Sales;2;35275;18/05/2023;;3;M018;10;349;329;328;0;;
+E1014;Lusophone Americas;Portuguese;1;1;Research & Development;3;46172;14/01/2017;;5;M042;10;314;3;389;1;10;Inclusion Issues
+E1015;Francophone Europe;French;0;0;Human Resources;2;33613;19/06/2021;;5;M014;9;442;339;33;0;;
+E1016;Lusophone Europe;Portuguese;0;0;Operations;1;30665;24/08/2018;;4;M016;12;261;262;291;0;;
+E1017;Other;Hindi;1;1;IT;2;32593;23/10/2016;;3;M002;12;225;263;231;0;;
+E1018;Central Europe;German;1;1;Operations;2;31301;14/10/2015;18/02/2018;3;M039;10;242;223;23;0;;
+E1019;Francophone Europe;French;1;0;Operations;1;26553;11/06/2023;;2;M024;9;31;223;37;1;10;Inclusion Issues
+E1020;Lusophone Europe;Portuguese;0;0;Operations;4;68964;01/09/2022;31/03/2025;4;M023;5;361;328;402;0;;
+E1021;Southern Europe;Spanish;1;1;Sales;1;23039;03/06/2021;;3;M008;10;387;375;358;0;;
+E1022;Southern Europe;Spanish;1;1;Operations;1;29306;28/05/2023;18/12/2023;2;M013;10;329;284;439;0;;
+E1023;Lusophone Americas;Portuguese;0;0;Operations;2;35463;11/05/2017;;3;M039;4;36;333;357;0;;
+E1024;Lusophone Americas;Portuguese;1;1;Research & Development;1;26378;01/01/2016;21/08/2018;3;M009;5;343;356;358;1;10;Better Opportunity
+E1025;Central Europe;Czech;0;0;Research & Development;1;27961;08/03/2023;30/06/2024;3;M028;9;298;305;311;0;;
+E1026;Southern Europe;Greek;1;1;Sales;1;22241;06/04/2021;;4;M009;8;253;257;289;1;10;Lack of Growth
+E1027;Anglophone Americas;English;0;0;Operations;1;30937;04/12/2018;;4;M005;3;362;303;306;1;10;Lack of Growth
+E1028;Lusophone Americas;Portuguese;1;1;Research & Development;1;23787;30/08/2018;;3;M049;5;262;238;351;0;;
+E1029;Southern Europe;Spanish;1;0;Human Resources;2;31881;03/08/2017;;3;M011;12;26;208;336;0;;
+E1030;Lusophone Europe;Portuguese;0;0;Research & Development;4;70521;14/03/2016;26/02/2018;5;M011;3;329;306;417;0;;
+E1031;Francophone Europe;French;1;1;Finance;5;91625;24/01/2020;;4;M020;12;37;348;262;0;;
+E1032;Anglophone Americas;English;0;0;Sales;2;35098;25/10/2017;;1;M003;11;192;189;349;0;;
+E1033;Lusophone Americas;Portuguese;1;0;Finance;2;31924;25/07/2023;;3;M028;11;328;297;406;0;;
+E1034;Lusophone Americas;Portuguese;0;0;Human Resources;5;93678;13/03/2020;17/07/2023;1;M029;4;396;357;396;0;;
+E1035;Lusophone Americas;Portuguese;0;0;Sales;2;35983;02/02/2018;;2;M026;5;375;353;393;0;;
+E1036;Southern Europe;Greek;1;1;Finance;3;44495;17/04/2021;25/11/2022;5;M050;6;306;259;322;0;;
+E1037;Other;Hindi;0;0;Finance;2;31318;17/12/2018;;3;M009;10;322;291;335;1;0;Restructuring
+E1038;Lusophone Americas;Portuguese;0;0;Human Resources;2;35597;29/03/2020;23/02/2022;1;M048;7;401;323;308;0;;
+E1039;Lusophone Americas;Portuguese;1;1;IT;5;87187;23/06/2015;19/05/2019;3;M038;7;279;213;23;0;;
+E1040;Lusophone Europe;Portuguese;0;0;IT;1;27753;04/12/2019;;4;M025;12;352;289;326;0;;
+E1041;Anglophone Americas;English;1;1;Human Resources;2;34388;14/12/2016;;3;M014;11;288;218;244;0;;
+E1042;Anglophone Americas;English;1;1;Sales;1;29858;28/05/2022;05/02/2024;3;M033;10;265;257;284;1;10;Better Opportunity
+E1043;Lusophone Americas;Portuguese;1;1;Sales;1;28084;18/12/2023;28/06/2025;4;M049;12;259;213;405;0;;
+E1044;Lusophone Americas;Portuguese;1;1;Human Resources;3;47449;01/04/2018;;3;M005;11;262;303;294;0;;
+E1045;Lusophone Americas;Portuguese;1;0;Sales;2;31902;09/12/2019;;3;M001;11;363;383;339;0;;
+E1046;Lusophone Europe;Portuguese;0;0;Research & Development;4;67988;15/12/2015;15/09/2018;2;M042;4;365;367;316;0;;
+E1047;Southern Europe;Italian;0;0;Operations;3;51690;29/08/2020;23/03/2025;4;M038;10;322;28;385;0;;
+E1048;Francophone Europe;French;0;0;Finance;1;26410;17/07/2020;;4;M012;10;363;311;443;0;;
+E1049;Lusophone Europe;Portuguese;0;0;Sales;1;30896;07/07/2021;;4;M043;9;38;387;426;0;;
+E1050;Francophone Europe;French;1;1;Sales;5;80541;26/09/2020;04/08/2021;3;M010;11;244;201;382;1;0;Restructuring
+E1051;Francophone Europe;French;1;1;Human Resources;2;36845;28/06/2017;23/03/2020;3;M033;6;242;17;365;1;0;Restructuring
+E1052;Anglophone Americas;English;1;1;Human Resources;1;29242;07/04/2016;;4;M047;6;349;277;405;0;;
+E1053;Southern Europe;Spanish;0;0;Human Resources;1;27276;28/07/2019;;3;M016;3;368;316;29;0;;
+E1054;Central Europe;German;1;0;Sales;2;35074;23/10/2019;23/06/2020;4;M045;7;296;257;427;0;;
+E1055;Southern Europe;Italian;0;0;Finance;4;75701;25/09/2015;;2;M017;12;249;21;297;0;;
+E1056;Central Europe;Polish;1;1;Human Resources;1;24910;04/03/2016;;4;M040;5;254;272;306;0;;
+E1057;Lusophone Europe;Portuguese;0;0;Operations;2;39081;09/12/2019;09/04/2023;3;M020;4;319;328;429;1;10;Better Opportunity
+E1058;Lusophone Europe;Portuguese;1;1;Finance;5;96894;16/10/2022;02/12/2023;2;M006;9;308;272;324;0;;
+E1059;Lusophone Europe;Portuguese;0;0;Sales;1;31197;06/04/2022;22/08/2025;3;M021;8;31;259;351;0;;
+E1060;Lusophone Europe;Portuguese;0;0;Operations;1;24955;22/03/2019;;4;M018;11;351;288;305;0;;
+E1061;Francophone Europe;French;1;1;Sales;2;35006;20/12/2019;18/06/2025;1;M029;7;335;212;361;0;;
+E1062;Anglophone Americas;English;0;0;Sales;1;27904;11/04/2019;;4;M012;9;406;35;375;1;10;Lack of Growth
+E1063;Anglophone Americas;English;1;0;Finance;1;24256;19/04/2018;23/01/2023;4;M028;10;3;233;271;0;;
+E1064;Anglophone Americas;English;1;1;Human Resources;1;29876;25/10/2017;;3;M025;3;369;408;344;0;;
+E1065;Lusophone Americas;Portuguese;1;1;Operations;1;23343;05/09/2021;;3;M001;7;169;189;307;1;0;Performance
+E1066;Central Europe;German;1;1;Research & Development;3;46736;28/10/2019;13/08/2023;4;M049;11;321;331;359;0;;
+E1067;Lusophone Europe;Portuguese;0;0;Operations;1;25499;14/07/2022;;4;M033;8;384;323;342;1;10;Lack of Growth
+E1068;Francophone Europe;French;1;1;IT;1;27038;01/04/2016;29/10/2017;2;M046;10;198;169;401;0;;
+E1069;Central Europe;Polish;0;0;Operations;3;56290;21/01/2020;;4;M049;6;332;328;288;0;;
+E1070;Lusophone Americas;Portuguese;1;1;Finance;2;32867;26/12/2023;;4;M025;6;256;243;306;0;;
+E1071;Francophone Europe;French;0;0;Research & Development;2;36876;16/08/2016;16/02/2022;3;M015;7;448;408;397;0;;
+E1072;Lusophone Europe;Portuguese;0;0;Operations;1;30721;07/10/2019;22/03/2021;3;M017;8;283;252;393;0;;
+E1073;Francophone Europe;French;0;0;Finance;3;46534;25/11/2022;;2;M042;8;354;366;373;0;;
+E1074;Central Europe;Czech;0;0;Operations;2;36201;29/07/2021;;4;M049;12;374;439;399;0;;
+E1075;Lusophone Europe;Portuguese;0;0;Human Resources;1;27660;17/07/2016;04/05/2018;1;M006;12;225;18;332;1;10;Lack of Growth
+E1076;Francophone Europe;French;1;1;Operations;3;41615;31/03/2022;;3;M026;5;29;303;318;0;;
+E1077;Lusophone Europe;Portuguese;0;0;Operations;4;64418;11/05/2016;04/07/2017;1;M015;5;357;317;322;0;;
+E1078;Lusophone Americas;Portuguese;1;1;IT;4;66202;07/01/2023;;1;M006;7;274;259;386;1;10;Inclusion Issues
+E1079;Southern Europe;Italian;0;0;IT;1;30360;12/08/2021;;1;M031;7;257;259;384;0;;
+E1080;Francophone Europe;French;0;0;Human Resources;1;24935;02/09/2023;;3;M049;9;294;267;338;0;;
+E1081;Francophone Europe;French;0;0;Operations;2;39405;19/09/2018;27/01/2023;1;M028;9;331;305;412;0;;
+E1082;Francophone Europe;French;0;0;IT;4;75152;09/07/2017;;1;M029;11;356;305;385;0;;
+E1083;Other;Hindi;1;1;Operations;3;44265;08/03/2017;;3;M019;11;314;316;276;1;10;Inclusion Issues
+E1084;Lusophone Europe;Portuguese;0;0;Operations;4;71104;19/04/2020;;4;M042;10;321;292;321;1;0;Restructuring
+E1085;Anglophone Americas;English;0;0;Finance;1;29209;02/06/2016;26/05/2017;2;M045;8;227;23;277;0;;
+E1086;Anglophone Americas;English;0;0;Operations;4;75873;30/05/2021;;2;M005;10;341;28;386;0;;
+E1087;Lusophone Americas;Portuguese;1;1;IT;3;44646;27/01/2017;;2;M044;11;333;312;328;1;10;Better Opportunity
+E1088;Lusophone Europe;Portuguese;0;0;Operations;1;24998;06/12/2022;;5;M017;8;301;269;366;0;;
+E1089;Anglophone Americas;English;1;1;Human Resources;2;33759;25/06/2021;12/01/2024;3;M001;12;401;367;387;0;;
+E1090;Southern Europe;Italian;1;1;Research & Development;1;27296;09/04/2020;;3;M036;12;32;262;41;0;;
+E1091;Lusophone Americas;Portuguese;1;1;Operations;1;26343;11/09/2017;16/07/2020;2;M035;8;338;305;367;0;;
+E1092;Central Europe;German;1;1;Human Resources;3;52941;23/03/2016;;4;M021;5;183;113;377;1;10;Relocation
+E1093;Southern Europe;Italian;1;1;Research & Development;1;27644;28/08/2021;26/03/2022;1;M031;7;378;304;282;0;;
+E1094;Francophone Europe;French;0;0;Research & Development;4;61407;13/05/2021;;3;M036;12;266;255;436;0;;
+E1095;Lusophone Europe;Portuguese;0;0;Human Resources;2;40122;01/01/2022;;3;M010;10;363;356;306;0;;
+E1096;Southern Europe;Spanish;1;1;Sales;3;47280;05/09/2022;18/10/2025;4;M014;8;292;223;363;0;;
+E1097;Francophone Europe;French;1;1;Sales;5;90401;09/01/2020;03/08/2023;3;M046;7;41;318;277;0;;
+E1098;Francophone Europe;French;1;0;IT;5;93050;21/01/2021;04/06/2023;2;M029;7;319;277;292;0;;
+E1099;Anglophone Americas;English;1;1;Research & Development;2;32617;20/05/2015;;3;M050;8;366;355;315;0;;
+E1100;Lusophone Europe;Portuguese;1;1;Human Resources;2;34775;27/09/2021;;1;M022;7;243;208;288;1;10;Better Opportunity
+E1101;Lusophone Europe;Portuguese;0;0;Sales;4;66894;02/01/2018;;2;M012;3;408;335;384;0;;
+E1102;Southern Europe;Italian;0;0;Human Resources;1;29810;09/07/2023;;5;M006;8;428;404;362;0;;
+E1103;Francophone Europe;French;0;0;IT;3;50976;08/12/2019;;4;M003;10;325;378;255;0;;
+E1104;Southern Europe;Italian;0;0;Human Resources;5;97754;13/08/2021;;4;M015;4;334;396;382;0;;
+E1105;Central Europe;German;0;0;IT;1;28398;29/06/2021;17/07/2023;3;M003;6;276;266;313;1;10;Lack of Growth
+E1106;Southern Europe;Spanish;0;0;Sales;4;70519;14/12/2016;;3;M049;6;25;27;299;0;;
+E1107;Lusophone Americas;Portuguese;1;1;Finance;2;34910;18/06/2019;;5;M036;3;364;343;304;0;;
+E1108;Southern Europe;Italian;0;0;IT;3;53609;11/06/2017;;3;M019;7;345;232;277;0;;
+E1109;Francophone Europe;French;1;1;Research & Development;2;30509;26/11/2018;;2;M014;9;31;296;308;0;;
+E1110;Francophone Europe;French;0;0;IT;5;95631;04/09/2016;30/05/2018;3;M007;4;376;4;348;0;;
+E1111;Lusophone Europe;Portuguese;0;0;Human Resources;2;33491;28/07/2023;;3;M027;11;35;321;359;0;;
+E1112;Anglophone Americas;English;0;0;Human Resources;1;29782;13/02/2020;10/07/2025;5;M036;11;334;235;37;0;;
+E1113;Lusophone Americas;Portuguese;1;1;Research & Development;5;85938;03/01/2017;;4;M010;10;278;281;389;0;;
+E1114;Lusophone Americas;Portuguese;1;1;Human Resources;4;59040;07/06/2023;;2;M028;5;346;362;392;0;;
+E1115;Lusophone Americas;Portuguese;0;0;Operations;3;49141;25/06/2020;;4;M037;4;271;268;306;0;;
+E1116;Lusophone Europe;Portuguese;0;0;Sales;2;37669;10/04/2020;21/08/2024;2;M036;11;349;325;344;0;;
+E1117;Anglophone Americas;English;1;1;IT;3;49511;18/03/2019;;2;M038;10;393;316;319;0;;
+E1118;Lusophone Americas;Portuguese;0;0;Research & Development;1;27924;27/10/2016;23/04/2018;3;M040;7;476;381;324;0;;
+E1119;Francophone Europe;French;1;1;Sales;2;31465;23/06/2016;;4;M048;4;444;438;403;0;;
+E1120;Central Europe;Czech;1;1;Human Resources;1;28706;08/02/2018;;4;M015;5;282;279;379;0;;
+E1121;Other;Arabic;1;1;Human Resources;4;60248;08/09/2019;10/06/2020;3;M026;6;419;379;414;0;;
+E1122;Other;Other;1;1;Operations;1;21647;18/10/2015;;4;M039;4;303;21;392;0;;
+E1123;Central Europe;Polish;1;0;Human Resources;4;66169;14/12/2020;06/11/2025;1;M016;11;308;265;317;0;;
+E1124;Southern Europe;Spanish;0;0;Finance;2;37249;11/02/2019;;4;M027;9;349;257;361;0;;
+E1125;Anglophone Americas;English;0;0;Human Resources;2;41589;22/01/2019;;3;M019;7;346;32;389;0;;
+E1126;Francophone Europe;French;0;0;Operations;2;32177;05/04/2022;;2;M013;5;339;325;299;0;;
+E1127;Southern Europe;Spanish;1;1;Research & Development;3;53283;15/04/2023;12/08/2025;3;M021;7;289;246;28;0;;
+E1128;Lusophone Americas;Portuguese;0;0;Operations;5;91822;19/04/2023;;3;M041;6;344;297;232;0;;
+E1129;Central Europe;Czech;0;0;Sales;1;27549;07/09/2017;;4;M019;10;362;322;329;0;;
+E1130;Francophone Europe;French;0;0;Human Resources;4;63021;19/11/2015;;3;M043;11;363;318;34;0;;
+E1131;Francophone Europe;French;0;0;Finance;4;68227;05/01/2018;;4;M026;12;331;244;42;0;;
+E1132;Other;Hindi;0;0;Sales;5;84198;30/04/2021;;4;M026;9;3;313;312;0;;
+E1133;Other;Arabic;1;0;Research & Development;1;22718;02/01/2021;;1;M022;12;312;266;379;0;;
+E1134;Lusophone Europe;Portuguese;0;0;Sales;2;37061;04/01/2020;14/04/2025;5;M001;10;374;356;311;0;;
+E1135;Southern Europe;Greek;0;0;Sales;1;24954;17/03/2018;11/06/2022;5;M042;11;297;254;435;0;;
+E1136;Francophone Europe;French;0;0;Research & Development;3;44598;09/05/2021;;4;M030;6;278;311;406;0;;
+E1137;Lusophone Americas;Portuguese;1;1;Sales;4;54930;17/02/2019;;3;M036;7;306;297;369;0;;
+E1138;Lusophone Americas;Portuguese;1;1;IT;4;56091;05/03/2017;;2;M042;3;253;215;292;1;0;Performance
+E1139;Southern Europe;Italian;0;0;Operations;2;38866;24/07/2019;04/09/2022;1;M018;3;321;28;346;0;;
+E1140;Southern Europe;Greek;1;0;Sales;2;39120;29/05/2015;01/10/2016;3;M044;5;223;199;322;1;10;Inclusion Issues
+E1141;Francophone Europe;French;1;1;Operations;3;50396;23/07/2023;;4;M045;4;29;262;365;0;;
+E1142;Anglophone Americas;English;0;0;Finance;1;30073;27/09/2021;;3;M041;10;356;327;295;0;;
+E1143;Other;Hindi;0;0;IT;3;51400;30/08/2016;28/09/2020;4;M029;6;295;244;272;1;10;Lack of Growth
+E1144;Central Europe;German;0;0;Research & Development;1;26659;23/12/2015;;5;M031;9;32;297;349;0;;
+E1145;Lusophone Americas;Portuguese;1;1;Human Resources;3;50555;29/03/2017;;2;M032;4;333;313;264;0;;
+E1146;Francophone Europe;French;0;0;Finance;3;54015;16/11/2019;;4;M035;7;253;235;284;1;0;Performance
+E1147;Francophone Europe;French;0;0;Research & Development;1;24695;26/12/2022;;4;M049;12;305;39;253;0;;
+E1148;Lusophone Europe;Portuguese;1;0;Finance;1;28191;14/10/2018;15/12/2022;1;M025;6;445;425;278;0;;
+E1149;Southern Europe;Spanish;1;1;Operations;1;27425;03/02/2018;28/11/2019;1;M043;8;308;322;331;0;;
+E1150;Lusophone Americas;Portuguese;1;1;Finance;3;43620;24/06/2019;12/08/2024;4;M043;8;344;287;368;0;;
+E1151;Lusophone Europe;Portuguese;0;0;Operations;1;25811;08/01/2022;;3;M028;7;408;387;38;0;;
+E1152;Lusophone Americas;Portuguese;1;1;Research & Development;3;45766;27/01/2017;26/01/2022;1;M009;3;298;267;393;1;10;Lack of Growth
+E1153;Central Europe;German;1;1;Research & Development;2;36235;07/06/2023;;5;M040;9;237;224;327;0;;
+E1154;Lusophone Europe;Portuguese;1;1;Finance;1;29942;29/01/2017;24/03/2021;3;M049;3;324;261;351;0;;
+E1155;Lusophone Europe;Portuguese;0;0;Finance;2;41106;01/05/2017;;4;M045;7;37;378;306;0;;
+E1156;Lusophone Americas;Portuguese;1;1;Human Resources;1;23992;07/04/2015;;3;M025;7;284;301;337;0;;
+E1157;Other;Other;1;1;Research & Development;2;31465;20/06/2018;;4;M032;9;259;27;299;0;;
+E1158;Anglophone Americas;English;1;1;IT;5;86027;05/04/2015;;3;M045;6;333;29;343;0;;
+E1159;Other;Other;1;0;Finance;1;24647;06/01/2019;30/05/2023;3;M021;6;321;299;334;0;;
+E1160;Lusophone Americas;Portuguese;1;1;Finance;1;27673;20/11/2021;27/04/2025;4;M036;12;321;293;271;0;;
+E1161;Francophone Europe;French;1;0;Sales;4;61710;25/06/2017;02/06/2019;4;M020;12;367;362;31;0;;
+E1162;Southern Europe;Italian;1;1;Research & Development;2;33745;12/03/2015;;4;M043;11;277;261;371;0;;
+E1163;Lusophone Europe;Portuguese;0;0;Finance;3;48487;15/06/2021;;3;M050;11;249;184;364;0;;
+E1164;Other;Other;1;1;Human Resources;4;59904;19/05/2018;;3;M013;7;292;221;276;1;10;Lack of Growth
+E1165;Southern Europe;Spanish;1;1;Sales;1;24477;20/09/2015;21/08/2019;3;M004;3;352;361;323;1;0;Restructuring
+E1166;Southern Europe;Italian;0;0;Operations;2;35727;13/10/2018;;4;M001;11;351;402;291;1;10;Better Opportunity
+E1167;Lusophone Americas;Portuguese;1;1;IT;2;30013;01/07/2017;;3;M004;6;311;301;354;0;;
+E1168;Lusophone Americas;Portuguese;1;1;Research & Development;1;21994;18/05/2018;25/05/2021;4;M027;11;294;262;265;0;;
+E1169;Southern Europe;Greek;0;0;Human Resources;2;40829;21/04/2022;02/08/2023;3;M018;9;333;211;392;1;10;Lack of Growth
+E1170;Southern Europe;Spanish;0;0;Research & Development;5;88678;28/07/2018;05/05/2020;3;M024;3;404;397;419;0;;
+E1171;Francophone Europe;French;1;1;Sales;3;50646;25/03/2017;21/08/2020;5;M040;6;329;296;308;1;10;Better Opportunity
+E1172;Lusophone Americas;Portuguese;1;1;Human Resources;3;49155;14/10/2023;;5;M001;10;377;351;318;0;;
+E1173;Lusophone Europe;Portuguese;0;0;IT;1;26508;25/02/2019;31/01/2020;5;M012;6;344;265;337;0;;
+E1174;Francophone Europe;French;1;1;Finance;1;26538;25/04/2023;;5;M002;4;378;32;348;1;0;Performance
+E1175;Southern Europe;Spanish;1;0;Finance;4;69329;09/03/2020;;5;M031;10;283;279;409;0;;
+E1176;Southern Europe;Italian;1;1;Operations;1;26030;05/11/2023;;4;M022;11;354;327;327;1;10;Inclusion Issues
+E1177;Lusophone Europe;Portuguese;0;0;Operations;1;26351;08/09/2020;;2;M016;10;35;338;234;0;;
+E1178;Lusophone Americas;Portuguese;1;1;Operations;2;31474;20/11/2018;;3;M048;12;267;314;374;0;;
+E1179;Lusophone Americas;Portuguese;0;0;Finance;1;23389;21/01/2022;;3;M023;4;291;236;339;0;;
+E1180;Central Europe;German;1;1;Research & Development;4;69554;20/10/2017;03/11/2020;2;M002;8;347;325;318;1;10;Inclusion Issues
+E1181;Central Europe;Polish;0;0;IT;2;40912;10/03/2017;;1;M035;6;342;335;307;0;;
+E1182;Francophone Europe;French;1;1;Sales;1;27052;12/02/2015;;4;M025;11;417;37;322;0;;
+E1183;Francophone Europe;French;1;1;Research & Development;2;32172;14/09/2021;;3;M018;5;264;25;327;0;;
+E1184;Lusophone Europe;Portuguese;0;0;Finance;2;34203;12/10/2021;09/12/2025;3;M047;5;378;357;373;1;0;Contract End
+E1185;Central Europe;German;1;1;Sales;3;46895;21/11/2019;16/02/2024;4;M010;9;333;343;315;1;10;Better Opportunity
+E1186;Central Europe;Czech;1;1;Operations;2;35797;02/07/2017;;4;M003;3;381;337;401;0;;
+E1187;Central Europe;German;1;1;Research & Development;4;67080;09/10/2023;13/05/2026;3;M043;4;285;214;383;0;;
+E1188;Other;Hindi;0;0;Human Resources;3;42416;31/08/2018;03/03/2022;2;M020;7;259;233;245;0;;
+E1189;Lusophone Americas;Portuguese;1;0;Finance;2;31567;08/07/2018;;4;M025;9;3;339;339;1;10;Better Opportunity
+E1190;Francophone Europe;French;1;1;Finance;4;57319;12/03/2015;16/01/2016;1;M011;12;234;21;375;0;;
+E1191;Francophone Europe;French;0;0;Operations;3;52316;03/04/2016;01/08/2021;4;M010;9;293;239;29;0;;
+E1192;Central Europe;Czech;0;0;Human Resources;3;44628;17/06/2017;;3;M002;5;287;255;323;0;;
+E1193;Francophone Europe;French;1;1;Finance;1;23563;10/07/2015;07/01/2017;3;M034;6;317;285;293;0;;
+E1194;Southern Europe;Greek;1;1;Operations;1;25922;06/11/2019;26/11/2022;4;M016;6;36;344;397;0;;
+E1195;Southern Europe;Greek;0;0;Finance;3;55641;14/04/2017;27/06/2020;3;M048;4;259;231;436;0;;
+E1196;Central Europe;Polish;1;1;Research & Development;2;36490;04/01/2015;;2;M043;11;214;199;308;1;10;Better Opportunity
+E1197;Lusophone Europe;Portuguese;0;0;Research & Development;2;38912;17/09/2015;;3;M049;3;262;277;318;1;0;Restructuring
+E1198;Southern Europe;Spanish;1;0;Operations;2;38493;10/10/2017;;4;M030;12;301;237;358;0;;
+E1199;Lusophone Europe;Portuguese;0;0;Operations;2;41221;19/03/2022;19/05/2024;3;M032;5;349;308;323;0;;
+E1200;Anglophone Americas;English;0;0;Research & Development;3;51180;21/01/2016;22/01/2019;3;M040;11;271;182;282;1;10;Lack of Growth
+E1201;Central Europe;Czech;0;0;Finance;3;55119;30/06/2021;;1;M018;10;373;374;208;0;;
+E1202;Central Europe;Czech;0;0;Finance;1;23925;08/10/2023;;3;M044;10;399;358;387;0;;
+E1203;Lusophone Europe;Portuguese;0;0;Operations;1;28727;26/08/2020;;2;M030;6;337;341;383;0;;
+E1204;Lusophone Europe;Portuguese;0;0;Sales;3;52420;22/12/2017;10/07/2018;4;M011;11;334;325;244;0;;
+E1205;Lusophone Americas;Portuguese;1;1;Finance;1;24895;08/09/2015;25/03/2019;2;M035;7;305;287;351;0;;
+E1206;Lusophone Europe;Portuguese;0;0;Sales;3;52509;28/08/2017;;4;M017;4;413;337;323;0;;
+E1207;Lusophone Americas;Portuguese;0;0;Human Resources;1;24506;15/08/2022;20/04/2025;4;M026;4;266;201;281;1;0;Performance
+E1208;Francophone Europe;French;0;0;Research & Development;4;74921;16/06/2022;;5;M028;10;309;241;315;0;;
+E1209;Central Europe;German;0;0;Operations;2;36103;17/03/2022;;1;M041;6;236;245;366;0;;
+E1210;Francophone Europe;French;1;1;Human Resources;2;32523;25/09/2019;;5;M024;5;345;307;353;1;0;Performance
+E1211;Other;Other;0;0;Research & Development;2;33588;31/12/2016;15/04/2022;2;M039;3;288;28;292;0;;
+E1212;Lusophone Americas;Portuguese;1;0;Sales;2;32551;12/09/2021;22/08/2024;3;M007;6;265;209;331;0;;
+E1213;Lusophone Americas;Portuguese;1;1;Research & Development;1;27235;06/09/2021;30/04/2026;3;M009;5;429;359;412;0;;
+E1214;Other;Mandarin;1;1;Research & Development;2;32761;16/03/2023;31/08/2024;3;M046;8;308;257;33;0;;
+E1215;Francophone Europe;French;1;0;Human Resources;2;33875;17/02/2019;;3;M004;8;373;314;309;0;;
+E1216;Francophone Europe;French;1;1;Sales;3;42490;01/12/2019;;4;M047;7;284;303;397;0;;
+E1217;Anglophone Americas;English;0;0;Operations;2;36527;06/10/2021;15/02/2024;3;M033;11;382;348;289;0;;
+E1218;Lusophone Americas;Portuguese;1;1;Operations;5;74275;27/04/2020;;4;M036;4;31;266;365;0;;
+E1219;Francophone Europe;French;0;0;Finance;1;28068;07/07/2018;02/07/2021;4;M027;8;367;309;323;0;;
+E1220;Southern Europe;Spanish;1;1;Human Resources;2;32767;17/02/2018;;3;M048;10;332;267;357;1;0;Restructuring
+E1221;Lusophone Americas;Portuguese;1;1;Research & Development;3;50475;20/01/2022;;3;M022;3;269;213;359;1;10;Lack of Growth
+E1222;Lusophone Europe;Portuguese;0;0;Research & Development;4;73087;26/10/2018;05/04/2023;2;M039;9;276;233;305;0;;
+E1223;Central Europe;Polish;1;0;Operations;1;28435;07/07/2022;;3;M024;10;353;385;281;0;;
+E1224;Lusophone Europe;Portuguese;0;0;Research & Development;5;100515;23/08/2021;09/12/2022;2;M048;12;413;329;354;0;;
+E1225;Central Europe;Czech;0;0;Research & Development;1;27423;03/03/2022;;4;M006;10;374;339;303;0;;
+E1226;Other;Arabic;1;1;Research & Development;2;30014;22/05/2019;;2;M012;6;255;214;314;0;;
+E1227;Central Europe;Czech;1;1;Research & Development;3;52805;23/11/2015;10/07/2021;3;M001;3;295;217;453;0;;
+E1228;Lusophone Europe;Portuguese;0;0;Finance;2;33868;16/07/2018;11/11/2023;3;M028;12;285;274;43;0;;
+E1229;Lusophone Europe;Portuguese;0;0;Operations;3;55176;18/03/2020;;1;M043;8;375;387;422;0;;
+E1230;Francophone Europe;French;1;0;Operations;1;25229;04/07/2016;;3;M008;6;33;295;326;1;10;Inclusion Issues
+E1231;Southern Europe;Greek;0;0;Human Resources;1;24548;09/07/2016;07/01/2021;3;M026;4;426;338;357;0;;
+E1232;Central Europe;German;0;0;Human Resources;1;26173;30/01/2023;;3;M014;8;271;246;409;0;;
+E1233;Lusophone Europe;Portuguese;0;0;Finance;1;28892;10/04/2018;;3;M042;8;409;318;344;0;;
+E1234;Anglophone Americas;English;1;1;Finance;5;95269;12/09/2020;;3;M012;10;378;36;345;0;;
+E1235;Other;Other;1;1;Research & Development;1;23023;10/11/2017;07/12/2022;4;M027;4;298;272;396;0;;
+E1236;Lusophone Europe;Portuguese;0;0;IT;4;68481;23/12/2017;24/07/2020;5;M003;6;35;294;285;0;;
+E1237;Other;Arabic;1;1;Research & Development;2;33110;24/02/2016;03/02/2018;4;M030;4;21;181;266;0;;
+E1238;Lusophone Europe;Portuguese;0;0;Finance;1;29721;24/05/2022;;4;M045;3;301;251;327;0;;
+E1239;Southern Europe;Greek;0;0;Sales;4;72788;07/12/2018;22/05/2023;3;M050;8;227;187;378;0;;
+E1240;Southern Europe;Spanish;0;0;Finance;4;76171;05/05/2016;;4;M018;3;374;361;456;0;;
+E1241;Central Europe;German;1;1;Finance;2;39096;30/06/2017;;3;M019;10;211;21;406;0;;
+E1242;Lusophone Europe;Portuguese;0;0;Sales;1;30190;13/09/2019;;2;M009;9;394;373;369;0;;
+E1243;Lusophone Americas;Portuguese;1;1;Research & Development;4;65642;29/12/2018;;2;M018;7;336;307;312;0;;
+E1244;Francophone Europe;French;1;1;Research & Development;4;57006;31/05/2020;;3;M041;5;249;241;372;0;;
+E1245;Lusophone Americas;Portuguese;1;1;Sales;4;57740;27/12/2016;;5;M020;5;323;296;378;0;;
+E1246;Lusophone Americas;Portuguese;1;1;Human Resources;1;24585;11/02/2016;;3;M031;3;253;249;381;0;;
+E1247;Lusophone Americas;Portuguese;0;0;Human Resources;3;52158;26/08/2017;;4;M047;5;393;368;287;1;10;Lack of Growth
+E1248;Francophone Europe;French;1;1;Sales;5;75999;15/12/2023;;4;M006;6;354;319;327;0;;
+E1249;Lusophone Americas;Portuguese;1;1;Operations;1;27040;07/05/2022;;2;M008;3;333;274;394;0;;
+E1250;Anglophone Americas;English;0;0;Human Resources;2;39198;08/10/2015;;1;M017;7;293;264;357;0;;
+E1251;Southern Europe;Italian;1;1;Research & Development;1;26102;05/03/2015;05/09/2016;3;M038;7;301;252;327;0;;
+E1252;Lusophone Europe;Portuguese;0;0;Finance;3;51681;08/01/2017;;1;M044;5;233;167;374;1;10;Better Opportunity
+E1253;Anglophone Americas;English;0;0;Sales;3;46982;05/08/2022;07/01/2025;4;M023;12;326;289;363;0;;
+E1254;Lusophone Americas;Portuguese;1;1;Finance;5;89775;03/01/2021;;3;M036;9;325;312;234;0;;
+E1255;Anglophone Americas;English;1;0;Human Resources;2;35520;07/04/2015;;3;M043;11;456;396;35;0;;
+E1256;Southern Europe;Spanish;1;1;Human Resources;2;37787;14/08/2023;;5;M026;12;308;325;323;0;;
+E1257;Southern Europe;Spanish;1;1;Finance;1;23591;08/10/2016;24/06/2020;5;M027;8;295;288;338;1;10;Inclusion Issues
+E1258;Lusophone Europe;Portuguese;0;0;Sales;4;61625;02/05/2017;;1;M002;3;343;276;325;0;;
+E1259;Central Europe;Polish;1;1;Operations;1;25996;23/09/2023;;2;M017;4;297;269;254;1;10;Inclusion Issues
+E1260;Lusophone Americas;Portuguese;1;1;Finance;3;46541;03/09/2023;;3;M046;12;273;25;342;0;;
+E1261;Anglophone Americas;English;0;0;Operations;2;43410;11/05/2019;18/02/2020;1;M039;12;274;242;34;1;0;Contract End
+E1262;Lusophone Americas;Portuguese;1;1;Human Resources;3;44663;27/11/2017;11/03/2019;4;M020;5;345;333;334;1;0;Performance
+E1263;Anglophone Americas;English;0;0;Sales;2;34387;10/08/2018;;3;M039;7;328;367;333;0;;
+E1264;Central Europe;German;1;1;IT;3;50746;17/01/2021;;4;M010;5;35;291;291;0;;
+E1265;Central Europe;German;1;0;Research & Development;1;27630;28/07/2020;20/11/2022;5;M030;6;312;249;391;1;0;Performance
+E1266;Lusophone Europe;Portuguese;0;0;Research & Development;3;58146;12/04/2021;;3;M022;4;341;256;317;0;;
+E1267;Lusophone Europe;Portuguese;0;0;Human Resources;1;30461;17/06/2019;16/02/2020;2;M039;5;358;349;326;0;;
+E1268;Francophone Europe;French;1;1;IT;4;60152;04/06/2016;;5;M041;9;329;31;349;1;0;Contract End
+E1269;Central Europe;German;1;1;Sales;1;28488;16/06/2023;06/01/2025;4;M020;5;409;308;309;0;;
+E1270;Anglophone Americas;English;1;1;Research & Development;1;28414;07/01/2022;;5;M020;10;337;319;308;0;;
+E1271;Other;Arabic;1;1;Research & Development;1;21173;14/08/2022;06/09/2025;4;M012;9;271;245;299;0;;
+E1272;Other;Other;0;0;Research & Development;1;22639;20/12/2021;;4;M027;11;338;24;375;1;10;Lack of Growth
+E1273;Southern Europe;Greek;1;1;Research & Development;2;37842;21/03/2016;;3;M037;10;435;388;371;0;;
+E1274;Francophone Europe;French;1;1;IT;3;52122;09/09/2016;13/08/2021;4;M017;12;351;313;293;0;;
+E1275;Lusophone Europe;Portuguese;1;1;IT;1;27938;06/08/2023;19/12/2025;4;M032;6;3;266;363;0;;
+E1276;Anglophone Americas;English;1;1;Sales;2;40021;13/02/2023;01/03/2025;3;M027;11;35;35;347;0;;
+E1277;Southern Europe;Italian;0;0;Human Resources;5;85988;21/10/2016;;3;M013;7;4;388;34;0;;
+E1278;Lusophone Americas;Portuguese;1;0;Finance;1;25931;31/08/2020;;5;M013;5;332;349;37;1;10;Inclusion Issues
+E1279;Lusophone Europe;Portuguese;1;1;Human Resources;5;96459;28/04/2020;;3;M049;10;319;24;269;0;;
+E1280;Southern Europe;Spanish;0;0;Finance;4;62929;24/12/2018;;4;M049;3;345;306;302;0;;
+E1281;Francophone Europe;French;0;0;Sales;4;73994;19/01/2022;12/09/2023;5;M022;6;334;319;381;0;;
+E1282;Lusophone Europe;Portuguese;0;0;Human Resources;2;40548;18/09/2021;;4;M030;4;389;366;332;1;10;Better Opportunity
+E1283;Lusophone Europe;Portuguese;1;1;Operations;4;73917;26/10/2017;;4;M035;6;225;209;439;1;10;Relocation
+E1284;Francophone Europe;French;1;1;IT;2;34624;12/08/2020;21/01/2022;4;M043;7;346;332;42;1;10;Better Opportunity
+E1285;Other;Arabic;1;1;Finance;3;45284;11/02/2020;04/05/2024;3;M025;10;256;2;269;1;0;Contract End
+E1286;Anglophone Americas;English;1;1;Human Resources;4;74148;10/05/2019;16/07/2022;5;M014;6;35;251;445;0;;
+E1287;Lusophone Europe;Portuguese;0;0;Research & Development;1;26063;23/05/2023;;4;M015;12;391;385;335;1;10;Better Opportunity
+E1288;Anglophone Americas;English;0;0;Sales;4;63634;18/02/2016;;2;M031;8;368;336;261;0;;
+E1289;Central Europe;Polish;0;0;Research & Development;1;29557;21/11/2021;;3;M036;4;367;348;384;0;;
+E1290;Lusophone Europe;Portuguese;0;0;Research & Development;2;40920;25/07/2021;;4;M008;8;257;188;351;1;0;Contract End
+E1291;Lusophone Americas;Portuguese;0;0;Finance;2;32277;17/08/2017;;4;M032;11;389;369;395;0;;
+E1292;Central Europe;Czech;1;1;Finance;1;23943;04/07/2023;;5;M050;7;381;308;366;1;10;Lack of Growth
+E1293;Lusophone Americas;Portuguese;1;1;Human Resources;2;36324;22/05/2020;;4;M015;10;311;269;376;0;;
+E1294;Lusophone Europe;Portuguese;0;0;Sales;4;75721;23/08/2020;;4;M043;5;375;322;36;1;10;Inclusion Issues
+E1295;Central Europe;Polish;0;0;Finance;1;27265;14/05/2018;;3;M028;7;366;358;399;0;;
+E1296;Other;Mandarin;0;0;Research & Development;3;52044;01/07/2019;;4;M023;12;258;284;415;0;;
+E1297;Lusophone Europe;Portuguese;0;0;Finance;4;73260;10/12/2023;24/11/2025;5;M038;6;384;394;356;0;;
+E1298;Anglophone Americas;English;0;0;Operations;3;52712;24/06/2021;;2;M021;12;265;261;298;0;;
+E1299;Lusophone Americas;Portuguese;1;1;Finance;2;34085;12/03/2020;;3;M017;5;302;277;337;0;;
+E1300;Lusophone Europe;Portuguese;0;0;Finance;1;27344;17/06/2016;;3;M004;5;339;328;404;0;;
+E1301;Lusophone Americas;Portuguese;0;0;Sales;3;48763;21/10/2021;20/01/2025;2;M011;3;355;299;376;0;;
+E1302;Southern Europe;Italian;0;0;Research & Development;1;25304;29/02/2016;;5;M001;6;298;214;294;1;0;Restructuring
+E1303;Other;Arabic;1;0;Sales;1;23507;14/11/2015;04/06/2019;1;M005;10;173;172;375;0;;
+E1304;Anglophone Americas;English;1;1;Sales;3;48693;23/03/2017;13/01/2020;4;M012;7;324;321;316;0;;
+E1305;Lusophone Americas;Portuguese;1;1;Finance;2;33460;20/01/2021;13/09/2024;1;M026;8;318;307;293;0;;
+E1306;Lusophone Europe;Portuguese;0;0;Research & Development;3;48566;07/03/2020;;5;M032;5;415;359;335;0;;
+E1307;Lusophone Americas;Portuguese;1;1;Sales;5;82849;28/05/2016;;4;M029;9;263;185;311;0;;
+E1308;Anglophone Americas;English;0;0;Sales;3;54651;11/03/2019;26/09/2023;1;M035;9;359;322;344;0;;
+E1309;Other;Other;0;0;Human Resources;1;25476;17/06/2022;;2;M011;12;336;309;383;0;;
+E1310;Francophone Europe;French;0;0;Sales;1;27347;22/05/2015;;2;M011;8;373;361;33;0;;
+E1311;Other;Mandarin;1;1;Sales;4;58114;01/09/2015;12/02/2021;4;M022;7;237;262;369;1;10;Lack of Growth
+E1312;Lusophone Europe;Portuguese;0;0;Research & Development;1;25729;05/10/2017;;2;M028;5;329;34;343;0;;
+E1313;Central Europe;Czech;0;0;Research & Development;1;29321;05/11/2023;03/02/2025;2;M038;3;288;27;305;0;;
+E1314;Lusophone Europe;Portuguese;0;0;Human Resources;1;31138;03/07/2019;10/09/2022;3;M038;8;325;29;358;1;10;Inclusion Issues
+E1315;Francophone Europe;French;1;0;Sales;3;48800;10/01/2017;;2;M015;4;284;259;242;0;;
+E1316;Francophone Europe;French;1;0;IT;4;56242;04/08/2016;;4;M028;4;39;294;367;1;10;Better Opportunity
+E1317;Central Europe;Czech;0;0;Sales;4;64159;21/02/2017;24/03/2018;2;M045;6;36;299;324;0;;
+E1318;Lusophone Americas;Portuguese;1;1;Human Resources;2;36802;03/03/2020;;3;M039;5;356;28;398;0;;
+E1319;Lusophone Americas;Portuguese;1;1;Sales;3;48696;19/01/2021;;3;M048;3;3;311;287;0;;
+E1320;Southern Europe;Spanish;0;0;Research & Development;3;52047;05/04/2021;;2;M040;3;332;319;388;0;;
+E1321;Francophone Europe;French;1;0;Sales;3;46166;29/11/2020;;4;M035;5;363;321;258;1;0;Performance
+E1322;Lusophone Europe;Portuguese;0;0;IT;3;47860;03/06/2018;;4;M041;8;384;344;32;0;;
+E1323;Lusophone Americas;Portuguese;1;0;Human Resources;3;44416;04/12/2023;;4;M011;7;26;248;372;0;;
+E1324;Lusophone Europe;Portuguese;0;0;Research & Development;3;48826;25/01/2018;02/10/2021;3;M039;3;428;397;274;0;;
+E1325;Anglophone Americas;English;1;1;Human Resources;1;26378;04/08/2015;;3;M013;5;407;393;334;0;;
+E1326;Lusophone Americas;Portuguese;1;1;Research & Development;2;30204;14/03/2020;06/01/2026;3;M025;3;312;268;291;1;10;Lack of Growth
+E1327;Central Europe;Polish;1;1;IT;3;43243;21/11/2019;;3;M014;11;289;228;384;0;;
+E1328;Francophone Europe;French;1;1;IT;1;22505;22/03/2017;;2;M042;12;324;288;419;0;;
+E1329;Francophone Europe;French;0;0;Finance;2;39981;24/03/2018;01/12/2022;2;M012;10;246;235;284;0;;
+E1330;Other;Arabic;1;1;Sales;3;48002;10/02/2018;;4;M031;8;267;25;322;0;;
+E1331;Lusophone Americas;Portuguese;0;0;Finance;3;49638;07/12/2016;14/06/2018;1;M011;7;3;256;336;0;;
+E1332;Lusophone Americas;Portuguese;1;1;Research & Development;2;31382;24/05/2021;;1;M023;7;359;328;292;1;0;Performance
+E1333;Lusophone Europe;Portuguese;0;0;Finance;1;28105;26/03/2023;;2;M001;3;32;274;389;0;;
+E1334;Central Europe;Polish;1;1;Sales;1;26631;13/12/2023;21/01/2025;3;M005;7;25;22;326;0;;
+E1335;Lusophone Europe;Portuguese;0;0;Sales;1;28034;10/11/2020;17/07/2022;3;M026;9;423;41;411;0;;
+E1336;Anglophone Americas;English;0;0;Research & Development;3;51610;15/08/2017;;5;M005;8;243;18;253;1;10;Lack of Growth
+E1337;Lusophone Europe;Portuguese;0;0;Research & Development;2;41871;14/11/2016;;2;M050;11;345;32;248;0;;
+E1338;Lusophone Americas;Portuguese;1;1;Finance;1;23714;12/10/2017;;5;M038;11;347;313;352;0;;
+E1339;Anglophone Americas;English;1;1;IT;3;51734;09/07/2016;15/01/2018;3;M031;12;266;192;275;0;;
+E1340;Lusophone Europe;Portuguese;0;0;Operations;3;54199;11/07/2015;;4;M037;9;293;279;412;1;10;Lack of Growth
+E1341;Southern Europe;Italian;0;0;Human Resources;3;48696;24/02/2022;06/10/2022;4;M041;7;305;266;381;0;;
+E1342;Southern Europe;Italian;0;0;Human Resources;2;36359;10/02/2023;;3;M014;5;367;362;268;0;;
+E1343;Lusophone Americas;Portuguese;1;0;Operations;3;46830;26/11/2021;28/07/2025;4;M011;10;341;321;302;0;;
+E1344;Southern Europe;Spanish;0;0;Finance;3;56121;26/12/2020;;4;M040;7;206;207;399;1;10;Inclusion Issues
+E1345;Lusophone Europe;Portuguese;0;0;Human Resources;3;48722;31/08/2018;29/09/2022;4;M002;4;333;359;3;1;10;Better Opportunity
+E1346;Lusophone Europe;Portuguese;1;1;Operations;2;34749;18/04/2021;;4;M018;6;287;279;268;0;;
+E1347;Central Europe;Czech;1;1;Human Resources;2;38207;02/05/2019;;5;M018;6;28;223;3;0;;
+E1348;Southern Europe;Spanish;1;1;Sales;4;68281;04/08/2016;;4;M006;8;248;306;341;0;;
+E1349;Lusophone Americas;Portuguese;0;0;Research & Development;2;33991;02/01/2020;;3;M033;11;42;388;406;0;;
+E1350;Anglophone Americas;English;0;0;Finance;2;40167;22/08/2023;20/12/2024;4;M021;3;276;245;332;1;10;Lack of Growth
+E1351;Anglophone Americas;English;0;0;Finance;3;47805;13/09/2019;;3;M038;4;33;226;322;0;;
+E1352;Anglophone Americas;English;1;1;Research & Development;4;59983;21/08/2015;;4;M027;6;336;269;249;1;10;Inclusion Issues
+E1353;Anglophone Americas;English;0;0;Sales;5;101096;07/06/2020;;2;M001;7;393;279;359;0;;
+E1354;Francophone Europe;French;1;0;Research & Development;5;80343;18/01/2017;;3;M029;9;343;344;237;1;10;Lack of Growth
+E1355;Anglophone Americas;English;0;0;Sales;1;27314;30/07/2023;;3;M023;8;365;387;337;0;;
+E1356;Southern Europe;Italian;0;0;Sales;3;56719;27/06/2019;;3;M033;11;414;392;377;0;;
+E1357;Lusophone Europe;Portuguese;0;0;Sales;1;29426;11/08/2019;17/03/2021;5;M015;9;399;368;256;0;;
+E1358;Anglophone Americas;English;1;1;Operations;4;75014;23/06/2022;;2;M004;7;34;323;396;0;;
+E1359;Other;Mandarin;1;1;Human Resources;5;84044;30/07/2019;26/01/2025;3;M040;12;377;293;324;0;;
+E1360;Lusophone Europe;Portuguese;0;0;Operations;3;56557;26/06/2019;;3;M032;10;326;268;309;0;;
+E1361;Lusophone Americas;Portuguese;1;1;Human Resources;2;32313;26/10/2021;;2;M013;12;288;255;342;0;;
+E1362;Anglophone Americas;English;1;1;Sales;1;28984;22/06/2019;04/06/2023;4;M005;7;299;266;267;0;;
+E1363;Southern Europe;Greek;0;0;Human Resources;1;24925;16/04/2017;;3;M021;5;408;328;327;0;;
+E1364;Anglophone Americas;English;0;0;Finance;1;30220;25/06/2022;;2;M001;8;352;277;286;0;;
+E1365;Lusophone Europe;Portuguese;0;0;Research & Development;1;30906;14/10/2019;;5;M007;12;41;353;321;0;;
+E1366;Other;Arabic;1;0;Finance;2;29648;22/05/2022;;4;M001;10;257;204;306;0;;
+E1367;Anglophone Americas;English;0;0;Research & Development;3;54970;20/03/2023;;4;M001;7;352;4;315;1;10;Better Opportunity
+E1368;Francophone Europe;French;0;0;Human Resources;1;26855;24/07/2020;02/01/2022;2;M023;3;351;318;361;0;;
+E1369;Central Europe;German;1;1;Operations;3;50209;16/08/2021;30/10/2024;2;M030;3;33;35;376;0;;
+E1370;Southern Europe;Italian;0;0;Human Resources;3;50879;16/04/2015;;5;M027;5;239;22;297;1;0;Performance
+E1371;Southern Europe;Italian;1;1;Operations;1;22867;19/09/2022;;4;M023;4;263;239;285;0;;
+E1372;Lusophone Americas;Portuguese;1;0;Human Resources;3;47858;15/09/2020;21/02/2023;3;M006;4;237;185;426;1;10;Lack of Growth
+E1373;Central Europe;German;0;0;Human Resources;4;60516;07/07/2020;;1;M019;3;24;177;365;1;10;Lack of Growth
+E1374;Other;Mandarin;1;1;Operations;1;23274;21/08/2022;10/04/2025;3;M011;3;2;182;388;0;;
+E1375;Lusophone Europe;Portuguese;0;0;IT;3;53997;27/12/2020;;2;M021;5;315;264;388;0;;
+E1376;Central Europe;German;0;0;IT;1;28599;25/06/2016;15/03/2022;2;M030;7;321;288;35;0;;
+E1377;Southern Europe;Italian;0;0;Operations;3;52245;01/06/2020;;1;M011;3;409;361;284;0;;
+E1378;Central Europe;Czech;0;0;Sales;4;61037;28/03/2017;;5;M025;9;29;287;367;1;10;Better Opportunity
+E1379;Lusophone Americas;Portuguese;1;1;Human Resources;3;43419;06/02/2020;;4;M011;5;356;323;402;0;;
+E1380;Other;Hindi;1;1;IT;3;48715;12/08/2022;;4;M041;6;233;261;38;1;0;Contract End
+E1381;Lusophone Europe;Portuguese;0;0;Finance;4;69763;07/05/2019;;2;M027;5;351;37;24;0;;
+E1382;Other;Mandarin;1;1;Operations;2;31283;25/03/2021;;1;M025;11;223;175;366;0;;
+E1383;Anglophone Americas;English;1;1;Human Resources;2;35836;10/03/2022;25/03/2026;3;M001;12;296;261;382;0;;
+E1384;Other;Arabic;0;0;Research & Development;3;42792;08/07/2016;25/06/2018;3;M045;6;254;233;285;0;;
+E1385;Lusophone Europe;Portuguese;0;0;Human Resources;2;40958;27/05/2019;22/05/2023;4;M028;3;438;462;287;0;;
+E1386;Francophone Europe;French;1;1;IT;3;43846;19/05/2023;;4;M045;7;395;378;324;1;10;Lack of Growth
+E1387;Lusophone Americas;Portuguese;1;1;Research & Development;1;23959;14/09/2018;;3;M011;12;333;267;389;1;10;Lack of Growth
+E1388;Francophone Europe;French;1;1;Research & Development;2;33694;28/04/2018;;4;M049;9;368;36;31;1;10;Relocation
+E1389;Anglophone Americas;English;1;1;Research & Development;3;45345;21/02/2023;;2;M032;4;313;292;276;0;;
+E1390;Lusophone Americas;Portuguese;1;1;Sales;2;30132;18/03/2019;;4;M024;6;309;331;392;0;;
+E1391;Other;Other;1;1;Finance;1;21889;18/03/2022;;4;M035;9;199;202;315;1;10;Lack of Growth
+E1392;Lusophone Americas;Portuguese;1;1;Operations;2;34333;10/06/2019;;1;M044;10;396;378;35;1;0;Restructuring
+E1393;Lusophone Europe;Portuguese;0;0;Research & Development;4;75135;15/02/2016;;2;M039;8;316;295;374;0;;
+E1394;Lusophone Europe;Portuguese;0;0;IT;1;28440;17/07/2019;03/04/2020;2;M036;5;436;366;416;0;;
+E1395;Other;Other;1;0;IT;1;23033;27/08/2017;;4;M015;11;324;254;375;1;10;Better Opportunity
+E1396;Other;Arabic;1;1;Research & Development;2;29534;01/05/2018;;2;M038;11;286;286;395;0;;
+E1397;Lusophone Europe;Portuguese;0;0;Sales;4;73192;03/06/2016;;2;M029;8;28;273;316;0;;
+E1398;Lusophone Americas;Portuguese;1;1;Sales;5;75577;04/09/2023;;5;M047;5;297;302;31;0;;
+E1399;Francophone Europe;French;1;1;IT;5;86138;08/05/2018;;1;M029;3;333;332;347;0;;
+E1400;Francophone Europe;French;1;1;IT;4;68186;03/05/2018;;2;M032;7;409;418;348;0;;
+E1401;Southern Europe;Italian;0;0;Finance;2;34002;20/05/2021;;4;M028;5;344;31;331;0;;
+E1402;Other;Other;0;0;Sales;5;90197;04/03/2018;;3;M039;10;274;232;313;0;;
+E1403;Francophone Europe;French;0;0;Operations;3;54018;16/09/2021;;3;M046;11;29;282;308;0;;
+E1404;Southern Europe;Greek;0;0;IT;1;29570;10/09/2023;;3;M009;5;3;267;204;0;;
+E1405;Anglophone Americas;English;1;1;Operations;3;54813;02/11/2015;;5;M022;12;292;342;341;0;;
+E1406;Francophone Europe;French;1;1;Research & Development;1;25316;15/12/2020;;3;M032;7;329;33;433;0;;
+E1407;Anglophone Americas;English;0;0;IT;2;41990;07/09/2023;;2;M009;6;282;269;33;0;;
+E1408;Other;Hindi;1;1;Finance;3;42094;10/02/2023;04/09/2025;3;M030;12;261;159;262;0;;
+E1409;Anglophone Americas;English;0;0;IT;2;36614;10/09/2023;;2;M044;11;35;318;259;0;;
+E1410;Anglophone Americas;English;1;1;Operations;4;64905;26/06/2016;29/04/2019;3;M021;10;243;204;293;1;10;Relocation
+E1411;Other;Hindi;1;1;Finance;2;30547;10/04/2020;;1;M004;9;23;202;352;1;10;Inclusion Issues
+E1412;Anglophone Americas;English;1;1;Human Resources;1;29905;01/12/2017;13/04/2021;3;M031;7;27;306;343;0;;
+E1413;Francophone Europe;French;0;0;Finance;1;28657;27/07/2018;;4;M047;4;229;232;327;0;;
+E1414;Southern Europe;Italian;1;1;IT;2;36721;25/09/2018;;3;M048;11;308;294;481;0;;
+E1415;Francophone Europe;French;1;1;Human Resources;3;41860;23/10/2021;;3;M037;10;346;332;404;1;10;Lack of Growth
+E1416;Lusophone Europe;Portuguese;0;0;Human Resources;2;36667;21/08/2023;;4;M020;11;346;317;339;0;;
+E1417;Lusophone Europe;Portuguese;0;0;IT;1;26903;16/01/2022;;1;M043;9;429;386;34;0;;
+E1418;Southern Europe;Spanish;0;0;Sales;4;70254;22/07/2023;04/07/2025;3;M002;10;358;333;38;1;10;Inclusion Issues
+E1419;Central Europe;Polish;1;1;Sales;3;44268;18/06/2018;30/12/2023;3;M018;11;294;241;256;1;10;Inclusion Issues
+E1420;Lusophone Europe;Portuguese;0;0;Sales;1;27464;29/09/2017;;3;M028;3;35;312;293;0;;
+E1421;Central Europe;Polish;1;1;Finance;1;23095;22/12/2019;24/06/2020;3;M012;12;33;386;358;1;0;Contract End
+E1422;Southern Europe;Spanish;0;0;Operations;1;29276;12/04/2019;;4;M037;7;319;249;372;0;;
+E1423;Other;Mandarin;1;1;Research & Development;1;23366;20/08/2020;;1;M010;5;285;309;328;0;;
+E1424;Central Europe;Polish;1;1;IT;2;31225;11/03/2021;18/04/2024;5;M038;8;294;261;322;0;;
+E1425;Anglophone Americas;English;1;1;Human Resources;5;94286;01/01/2022;;4;M048;6;302;275;302;0;;
+E1426;Lusophone Europe;Portuguese;0;0;Operations;3;53587;17/11/2016;;3;M033;7;328;259;323;0;;
+E1427;Lusophone Americas;Portuguese;0;0;IT;2;32113;01/09/2017;;4;M012;4;431;364;283;0;;
+E1428;Lusophone Americas;Portuguese;1;1;Operations;2;34579;20/07/2023;11/03/2026;2;M002;10;278;286;342;0;;
+E1429;Southern Europe;Greek;1;1;Finance;3;50198;11/08/2021;;3;M039;6;318;361;225;0;;
+E1430;Francophone Europe;French;0;0;Research & Development;3;44459;03/07/2020;11/11/2023;4;M034;6;342;331;339;0;;
+E1431;Anglophone Americas;English;1;1;Research & Development;4;73974;15/02/2016;10/07/2018;4;M044;8;219;225;295;0;;
+E1432;Lusophone Europe;Portuguese;0;0;IT;4;66025;28/06/2018;;3;M014;4;406;395;332;0;;
+E1433;Lusophone Europe;Portuguese;0;0;IT;1;25664;18/07/2017;;4;M004;6;226;266;393;1;0;Restructuring
+E1434;Lusophone Americas;Portuguese;1;1;Finance;3;50188;05/08/2016;18/07/2022;3;M050;7;366;303;387;0;;
+E1435;Other;Hindi;1;1;Research & Development;4;63968;06/05/2018;;2;M014;5;232;183;343;1;10;Lack of Growth
+E1436;Lusophone Europe;Portuguese;0;0;Research & Development;3;54537;26/08/2016;;3;M033;9;291;321;319;0;;
+E1437;Lusophone Americas;Portuguese;1;1;IT;3;51883;17/07/2017;19/09/2019;2;M048;8;362;339;336;0;;
+E1438;Southern Europe;Spanish;0;0;Research & Development;1;29380;12/04/2020;;3;M047;4;268;213;398;0;;
+E1439;Francophone Europe;French;0;0;Finance;1;29666;02/11/2021;08/09/2022;3;M022;3;451;382;405;0;;
+E1440;Lusophone Europe;Portuguese;0;0;Human Resources;1;29768;25/01/2018;;3;M004;12;384;344;404;0;;
+E1441;Southern Europe;Italian;1;0;Operations;4;66533;28/03/2018;;5;M013;3;32;254;368;0;;
+E1442;Lusophone Americas;Portuguese;1;1;Operations;4;60816;19/05/2016;;3;M027;9;283;242;348;1;10;Lack of Growth
+E1443;Francophone Europe;French;0;0;Human Resources;1;29131;08/06/2016;05/11/2020;5;M018;12;338;299;368;0;;
+E1444;Anglophone Americas;English;0;0;Finance;2;40996;20/01/2016;;3;M005;8;33;315;374;0;;
+E1445;Lusophone Americas;Portuguese;1;1;Research & Development;3;45049;08/06/2019;;3;M020;5;353;293;4;1;0;Performance
+E1446;Lusophone Americas;Portuguese;1;1;Operations;3;48343;03/03/2022;13/02/2025;3;M017;4;34;303;354;0;;
+E1447;Southern Europe;Greek;1;0;IT;4;67341;03/05/2017;;4;M018;7;334;288;285;1;0;Performance
+E1448;Lusophone Americas;Portuguese;0;0;Research & Development;1;29005;04/02/2018;;4;M006;8;333;288;302;0;;
+E1449;Lusophone Americas;Portuguese;1;1;Operations;2;34336;21/07/2018;18/10/2019;4;M001;7;364;33;342;0;;
+E1450;Lusophone Americas;Portuguese;1;1;Sales;2;34380;04/01/2021;;3;M020;6;378;313;318;0;;
+E1451;Francophone Europe;French;1;1;IT;1;25664;24/02/2021;14/03/2024;2;M040;9;29;238;326;0;;
+E1452;Lusophone Americas;Portuguese;1;1;Operations;3;48545;23/10/2015;;3;M046;6;363;336;341;0;;
+E1453;Lusophone Americas;Portuguese;0;0;IT;3;46945;19/10/2022;13/02/2025;5;M009;5;345;326;333;0;;
+E1454;Lusophone Europe;Portuguese;0;0;Sales;2;38810;03/08/2016;26/11/2021;3;M016;6;378;365;291;0;;
+E1455;Southern Europe;Italian;1;0;Research & Development;4;59927;22/12/2016;02/08/2019;2;M002;4;38;328;345;1;10;Lack of Growth
+E1456;Francophone Europe;French;1;1;Sales;1;27917;07/12/2023;08/02/2025;4;M017;8;223;219;295;1;10;Better Opportunity
+E1457;Lusophone Europe;Portuguese;0;0;Sales;3;51103;21/01/2015;27/10/2018;3;M028;6;341;364;332;0;;
+E1458;Anglophone Americas;English;0;0;Finance;3;57711;20/09/2017;04/06/2021;3;M041;8;284;273;391;0;;
+E1459;Anglophone Americas;English;1;1;Finance;5;97353;23/04/2021;;3;M049;9;367;322;342;1;0;Restructuring
+E1460;Lusophone Americas;Portuguese;0;0;Sales;1;25715;10/07/2021;;2;M029;7;421;41;317;0;;
+E1461;Central Europe;Polish;1;1;IT;3;50096;04/08/2023;;4;M048;6;319;307;411;0;;
+E1462;Other;Mandarin;1;1;Human Resources;1;24445;10/09/2019;;4;M036;6;23;196;371;0;;
+E1463;Anglophone Americas;English;0;0;Finance;1;29092;19/08/2019;;3;M035;5;334;338;296;0;;
+E1464;Central Europe;Czech;1;1;Research & Development;3;42879;07/10/2023;;2;M030;4;247;23;342;0;;
+E1465;Lusophone Europe;Portuguese;1;1;Human Resources;5;90409;28/05/2020;;5;M002;11;359;302;335;1;10;Better Opportunity
+E1466;Southern Europe;Greek;0;0;Finance;2;35660;12/02/2018;;4;M041;5;364;286;39;0;;
+E1467;Anglophone Americas;English;0;0;Finance;1;31512;08/08/2021;;3;M014;9;367;306;352;0;;
+E1468;Francophone Europe;French;0;0;Finance;3;50724;29/12/2015;;3;M044;3;333;237;395;1;10;Lack of Growth
+E1469;Lusophone Americas;Portuguese;1;1;Operations;1;25873;14/05/2021;;4;M003;4;332;323;374;0;;
+E1470;Anglophone Americas;English;0;0;Research & Development;5;91635;29/11/2023;12/07/2024;4;M035;7;344;32;349;1;10;Lack of Growth
+E1471;Lusophone Americas;Portuguese;0;0;Human Resources;1;23227;04/03/2018;;4;M043;4;352;306;3;1;0;Performance
+E1472;Lusophone Europe;Portuguese;0;0;Human Resources;2;38403;16/05/2015;;2;M040;12;449;432;35;0;;
+E1473;Southern Europe;Spanish;1;0;Sales;2;31625;03/09/2015;09/04/2017;2;M004;10;232;188;222;0;;
+E1474;Francophone Europe;French;1;1;Finance;1;23052;22/07/2020;18/12/2025;2;M046;4;331;272;319;0;;
+E1475;Lusophone Americas;Portuguese;1;1;Human Resources;1;25763;07/05/2022;10/05/2023;2;M035;10;345;287;378;0;;
+E1476;Southern Europe;Greek;1;1;Operations;2;37741;07/02/2017;;3;M006;3;344;345;311;0;;
+E1477;Lusophone Americas;Portuguese;1;1;Sales;1;22681;09/03/2018;;2;M016;4;351;304;404;0;;
+E1478;Central Europe;Polish;1;1;Sales;2;32966;10/05/2022;;3;M005;3;321;31;376;0;;
+E1479;Southern Europe;Greek;0;0;Operations;3;52349;02/11/2020;;5;M028;9;283;229;407;0;;
+E1480;Lusophone Americas;Portuguese;1;1;IT;2;37000;05/07/2019;15/01/2022;4;M019;5;312;294;314;0;;
+E1481;Lusophone Americas;Portuguese;1;1;IT;2;31365;02/02/2015;;4;M006;7;366;29;325;1;0;Restructuring
+E1482;Other;Other;0;0;Sales;1;26412;29/12/2019;;2;M001;3;399;455;312;0;;
+E1483;Lusophone Europe;Portuguese;0;0;Human Resources;2;38331;01/02/2015;;2;M033;4;423;43;325;0;;
+E1484;Lusophone Americas;Portuguese;1;1;Operations;1;22444;27/02/2017;;4;M039;7;297;295;348;1;0;Performance
+E1485;Lusophone Europe;Portuguese;0;0;Human Resources;3;57441;22/11/2018;;4;M050;8;395;441;447;1;10;Lack of Growth
+E1486;Other;Arabic;1;1;Human Resources;3;43690;27/06/2020;;1;M049;10;235;203;338;0;;
+E1487;Lusophone Americas;Portuguese;1;1;Operations;1;28013;20/09/2017;25/08/2021;3;M049;5;334;26;436;0;;
+E1488;Lusophone Europe;Portuguese;0;0;Sales;3;53607;05/03/2021;22/02/2022;4;M044;11;286;28;324;0;;
+E1489;Central Europe;Polish;0;0;Operations;3;56106;22/07/2022;;3;M038;4;319;273;371;0;;
+E1490;Anglophone Americas;English;0;0;Finance;3;46850;21/09/2018;;5;M032;8;288;234;317;0;;
+E1491;Lusophone Europe;Portuguese;1;0;Human Resources;4;65117;24/02/2022;24/04/2024;3;M010;11;271;216;358;1;10;Lack of Growth
+E1492;Francophone Europe;French;1;0;Human Resources;2;32823;01/07/2017;;3;M020;12;322;3;33;0;;
+E1493;Lusophone Europe;Portuguese;1;1;Operations;3;53446;26/04/2018;21/05/2021;4;M032;5;275;312;381;0;;
+E1494;Central Europe;Polish;1;1;Human Resources;3;46217;31/05/2016;10/12/2020;3;M016;9;302;247;314;1;10;Inclusion Issues
+E1495;Lusophone Europe;Portuguese;0;0;Finance;2;36894;26/10/2016;19/05/2019;3;M016;6;355;339;361;0;;
+E1496;Francophone Europe;French;0;0;Sales;3;54971;24/07/2016;;3;M018;3;278;267;326;0;;
+E1497;Francophone Europe;French;1;1;Sales;5;93093;19/04/2015;27/01/2018;3;M050;5;359;305;342;0;;
+E1498;Lusophone Europe;Portuguese;0;0;Human Resources;2;42434;24/12/2018;;5;M008;6;381;308;31;0;;
+E1499;Southern Europe;Italian;1;1;Finance;1;23482;07/09/2017;;3;M040;6;242;22;337;0;;
+E1500;Francophone Europe;French;1;1;Research & Development;4;65948;24/02/2018;;2;M048;8;318;257;394;1;10;Relocation
